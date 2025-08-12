@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="colesbury" />
+    <node id="csukuangfj" />
+    <node id="eladhoffer" />
+    <node id="XingxingZhang" />
+    <node id="szagoruyko" />
+    <node id="pytorchbot" />
+    <node id="midaz" />
+    <node id="ezyang" />
+    <node id="popol1991" />
+    <node id="apaszke" />
+    <node id="huihuifan" />
+    <node id="vra" />
+    <node id="elikosan" />
+    <node id="gchanan" />
+    <node id="ngimel" />
+    <node id="lukeyeager" />
+    <node id="cdluminate" />
+    <node id="temerick" />
+    <node id="yushinliu" />
+    <node id="dips4717" />
+    <node id="pavanky" />
+    <node id="killeent" />
+    <node id="albanD" />
+    <node id="fmassa" />
+    <node id="alykhantejani" />
+    <node id="donglixp" />
+    <node id="amrobbins" />
+    <node id="qunluo" />
+    <node id="thuyen" />
+    <node id="BTNC" />
+    <node id="sajjo79" />
+    <node id="ronrest" />
+    <node id="MaximumEntropy" />
+    <node id="borisfom" />
+    <node id="soumith" />
+    <node id="Maratyszcza" />
+    <node id="YonatanE8" />
+    <node id="desimone" />
+    <node id="Kaixhin" />
+    <node id="VirrageS" />
+    <node id="Atcold" />
+    <node id="edouardelasalles" />
+    <node id="jytug" />
+    <node id="bmccann" />
+    <node id="0mp" />
+    <node id="jekbradbury" />
+    <node id="adamlerer" />
+    <node id="goelhardik" />
+    <node id="TomVeniat" />
+    <node id="twitter-recsys-challenge-2020" />
+    <node id="sheng-z" />
+    <node id="bamos" />
+    <node id="vfonov" />
+    <node id="graingert" />
+    <node id="WayneZww" />
+    <node id="danieltudosiu" />
+    <node id="ebetica" />
+    <node id="glample" />
+    <node id="Wakeupbuddy" />
+    <node id="SeanNaren" />
+    <node id="jfsantos" />
+    <node id="madieraRRC" />
+    <node id="nkoumchatzky" />
+    <node id="y0ast" />
+    <node id="mrdrozdov" />
+    <node id="jsenellart" />
+    <node id="joker512" />
+    <edge source="colesbury" target="csukuangfj" />
+    <edge source="colesbury" target="eladhoffer" />
+    <edge source="colesbury" target="XingxingZhang" />
+    <edge source="colesbury" target="szagoruyko" />
+    <edge source="colesbury" target="pytorchbot" />
+    <edge source="colesbury" target="midaz" />
+    <edge source="colesbury" target="ezyang" />
+    <edge source="colesbury" target="popol1991" />
+    <edge source="colesbury" target="apaszke" />
+    <edge source="colesbury" target="huihuifan" />
+    <edge source="colesbury" target="vra" />
+    <edge source="colesbury" target="elikosan" />
+    <edge source="colesbury" target="gchanan" />
+    <edge source="colesbury" target="ngimel" />
+    <edge source="colesbury" target="lukeyeager" />
+    <edge source="colesbury" target="cdluminate" />
+    <edge source="colesbury" target="temerick" />
+    <edge source="colesbury" target="yushinliu" />
+    <edge source="colesbury" target="dips4717" />
+    <edge source="colesbury" target="pavanky" />
+    <edge source="colesbury" target="killeent" />
+    <edge source="colesbury" target="albanD" />
+    <edge source="colesbury" target="fmassa" />
+    <edge source="colesbury" target="alykhantejani" />
+    <edge source="colesbury" target="donglixp" />
+    <edge source="colesbury" target="amrobbins" />
+    <edge source="colesbury" target="qunluo" />
+    <edge source="colesbury" target="thuyen" />
+    <edge source="colesbury" target="BTNC" />
+    <edge source="colesbury" target="sajjo79" />
+    <edge source="colesbury" target="ronrest" />
+    <edge source="colesbury" target="MaximumEntropy" />
+    <edge source="colesbury" target="borisfom" />
+    <edge source="colesbury" target="soumith" />
+    <edge source="colesbury" target="Maratyszcza" />
+    <edge source="colesbury" target="YonatanE8" />
+    <edge source="colesbury" target="desimone" />
+    <edge source="csukuangfj" target="soumith" />
+    <edge source="csukuangfj" target="gchanan" />
+    <edge source="csukuangfj" target="BTNC" />
+    <edge source="csukuangfj" target="yushinliu" />
+    <edge source="eladhoffer" target="apaszke" />
+    <edge source="eladhoffer" target="soumith" />
+    <edge source="eladhoffer" target="ezyang" />
+    <edge source="eladhoffer" target="fmassa" />
+    <edge source="eladhoffer" target="szagoruyko" />
+    <edge source="eladhoffer" target="vra" />
+    <edge source="eladhoffer" target="ronrest" />
+    <edge source="eladhoffer" target="XingxingZhang" />
+    <edge source="eladhoffer" target="donglixp" />
+    <edge source="eladhoffer" target="MaximumEntropy" />
+    <edge source="eladhoffer" target="midaz" />
+    <edge source="XingxingZhang" target="apaszke" />
+    <edge source="XingxingZhang" target="soumith" />
+    <edge source="XingxingZhang" target="ezyang" />
+    <edge source="XingxingZhang" target="fmassa" />
+    <edge source="XingxingZhang" target="szagoruyko" />
+    <edge source="XingxingZhang" target="vra" />
+    <edge source="XingxingZhang" target="ronrest" />
+    <edge source="XingxingZhang" target="midaz" />
+    <edge source="XingxingZhang" target="donglixp" />
+    <edge source="XingxingZhang" target="MaximumEntropy" />
+    <edge source="szagoruyko" target="apaszke" />
+    <edge source="szagoruyko" target="soumith" />
+    <edge source="szagoruyko" target="ezyang" />
+    <edge source="szagoruyko" target="ngimel" />
+    <edge source="szagoruyko" target="fmassa" />
+    <edge source="szagoruyko" target="jekbradbury" />
+    <edge source="szagoruyko" target="midaz" />
+    <edge source="szagoruyko" target="WayneZww" />
+    <edge source="szagoruyko" target="donglixp" />
+    <edge source="szagoruyko" target="vra" />
+    <edge source="szagoruyko" target="ronrest" />
+    <edge source="szagoruyko" target="MaximumEntropy" />
+    <edge source="szagoruyko" target="Wakeupbuddy" />
+    <edge source="pytorchbot" target="apaszke" />
+    <edge source="pytorchbot" target="soumith" />
+    <edge source="pytorchbot" target="ezyang" />
+    <edge source="pytorchbot" target="ngimel" />
+    <edge source="pytorchbot" target="fmassa" />
+    <edge source="pytorchbot" target="ronrest" />
+    <edge source="midaz" target="apaszke" />
+    <edge source="midaz" target="soumith" />
+    <edge source="midaz" target="ezyang" />
+    <edge source="midaz" target="fmassa" />
+    <edge source="midaz" target="vra" />
+    <edge source="midaz" target="ronrest" />
+    <edge source="midaz" target="donglixp" />
+    <edge source="midaz" target="MaximumEntropy" />
+    <edge source="ezyang" target="apaszke" />
+    <edge source="ezyang" target="soumith" />
+    <edge source="ezyang" target="Kaixhin" />
+    <edge source="ezyang" target="VirrageS" />
+    <edge source="ezyang" target="Atcold" />
+    <edge source="ezyang" target="edouardelasalles" />
+    <edge source="ezyang" target="jytug" />
+    <edge source="ezyang" target="gchanan" />
+    <edge source="ezyang" target="cdluminate" />
+    <edge source="ezyang" target="bmccann" />
+    <edge source="ezyang" target="dips4717" />
+    <edge source="ezyang" target="fmassa" />
+    <edge source="ezyang" target="alykhantejani" />
+    <edge source="ezyang" target="jfsantos" />
+    <edge source="ezyang" target="donglixp" />
+    <edge source="ezyang" target="0mp" />
+    <edge source="ezyang" target="thuyen" />
+    <edge source="ezyang" target="jekbradbury" />
+    <edge source="ezyang" target="adamlerer" />
+    <edge source="ezyang" target="madieraRRC" />
+    <edge source="ezyang" target="YonatanE8" />
+    <edge source="ezyang" target="desimone" />
+    <edge source="ezyang" target="goelhardik" />
+    <edge source="ezyang" target="twitter-recsys-challenge-2020" />
+    <edge source="ezyang" target="sheng-z" />
+    <edge source="ezyang" target="vra" />
+    <edge source="ezyang" target="ngimel" />
+    <edge source="ezyang" target="lukeyeager" />
+    <edge source="ezyang" target="graingert" />
+    <edge source="ezyang" target="y0ast" />
+    <edge source="ezyang" target="danieltudosiu" />
+    <edge source="ezyang" target="qunluo" />
+    <edge source="ezyang" target="mrdrozdov" />
+    <edge source="ezyang" target="jsenellart" />
+    <edge source="ezyang" target="sajjo79" />
+    <edge source="ezyang" target="ronrest" />
+    <edge source="ezyang" target="MaximumEntropy" />
+    <edge source="ezyang" target="Maratyszcza" />
+    <edge source="ezyang" target="SeanNaren" />
+    <edge source="popol1991" target="soumith" />
+    <edge source="popol1991" target="killeent" />
+    <edge source="popol1991" target="elikosan" />
+    <edge source="popol1991" target="pavanky" />
+    <edge source="apaszke" target="Kaixhin" />
+    <edge source="apaszke" target="VirrageS" />
+    <edge source="apaszke" target="Atcold" />
+    <edge source="apaszke" target="edouardelasalles" />
+    <edge source="apaszke" target="jytug" />
+    <edge source="apaszke" target="gchanan" />
+    <edge source="apaszke" target="cdluminate" />
+    <edge source="apaszke" target="bmccann" />
+    <edge source="apaszke" target="dips4717" />
+    <edge source="apaszke" target="killeent" />
+    <edge source="apaszke" target="fmassa" />
+    <edge source="apaszke" target="alykhantejani" />
+    <edge source="apaszke" target="donglixp" />
+    <edge source="apaszke" target="0mp" />
+    <edge source="apaszke" target="jekbradbury" />
+    <edge source="apaszke" target="adamlerer" />
+    <edge source="apaszke" target="soumith" />
+    <edge source="apaszke" target="YonatanE8" />
+    <edge source="apaszke" target="desimone" />
+    <edge source="apaszke" target="goelhardik" />
+    <edge source="apaszke" target="TomVeniat" />
+    <edge source="apaszke" target="twitter-recsys-challenge-2020" />
+    <edge source="apaszke" target="sheng-z" />
+    <edge source="apaszke" target="vra" />
+    <edge source="apaszke" target="bamos" />
+    <edge source="apaszke" target="vfonov" />
+    <edge source="apaszke" target="ngimel" />
+    <edge source="apaszke" target="lukeyeager" />
+    <edge source="apaszke" target="albanD" />
+    <edge source="apaszke" target="graingert" />
+    <edge source="apaszke" target="WayneZww" />
+    <edge source="apaszke" target="danieltudosiu" />
+    <edge source="apaszke" target="ebetica" />
+    <edge source="apaszke" target="qunluo" />
+    <edge source="apaszke" target="sajjo79" />
+    <edge source="apaszke" target="ronrest" />
+    <edge source="apaszke" target="glample" />
+    <edge source="apaszke" target="MaximumEntropy" />
+    <edge source="apaszke" target="borisfom" />
+    <edge source="apaszke" target="Wakeupbuddy" />
+    <edge source="apaszke" target="Maratyszcza" />
+    <edge source="apaszke" target="SeanNaren" />
+    <edge source="huihuifan" target="soumith" />
+    <edge source="huihuifan" target="BTNC" />
+    <edge source="huihuifan" target="pavanky" />
+    <edge source="vra" target="soumith" />
+    <edge source="vra" target="fmassa" />
+    <edge source="vra" target="donglixp" />
+    <edge source="vra" target="ronrest" />
+    <edge source="vra" target="MaximumEntropy" />
+    <edge source="elikosan" target="soumith" />
+    <edge source="elikosan" target="killeent" />
+    <edge source="elikosan" target="pavanky" />
+    <edge source="gchanan" target="soumith" />
+    <edge source="gchanan" target="cdluminate" />
+    <edge source="gchanan" target="temerick" />
+    <edge source="gchanan" target="yushinliu" />
+    <edge source="gchanan" target="pavanky" />
+    <edge source="gchanan" target="killeent" />
+    <edge source="gchanan" target="amrobbins" />
+    <edge source="gchanan" target="Atcold" />
+    <edge source="gchanan" target="BTNC" />
+    <edge source="gchanan" target="vfonov" />
+    <edge source="ngimel" target="soumith" />
+    <edge source="ngimel" target="fmassa" />
+    <edge source="ngimel" target="qunluo" />
+    <edge source="ngimel" target="adamlerer" />
+    <edge source="ngimel" target="YonatanE8" />
+    <edge source="ngimel" target="SeanNaren" />
+    <edge source="ngimel" target="desimone" />
+    <edge source="ngimel" target="lukeyeager" />
+    <edge source="lukeyeager" target="soumith" />
+    <edge source="lukeyeager" target="graingert" />
+    <edge source="lukeyeager" target="desimone" />
+    <edge source="cdluminate" target="soumith" />
+    <edge source="cdluminate" target="killeent" />
+    <edge source="cdluminate" target="pavanky" />
+    <edge source="cdluminate" target="temerick" />
+    <edge source="temerick" target="soumith" />
+    <edge source="temerick" target="killeent" />
+    <edge source="temerick" target="pavanky" />
+    <edge source="yushinliu" target="soumith" />
+    <edge source="yushinliu" target="BTNC" />
+    <edge source="pavanky" target="soumith" />
+    <edge source="pavanky" target="killeent" />
+    <edge source="pavanky" target="BTNC" />
+    <edge source="pavanky" target="nkoumchatzky" />
+    <edge source="killeent" target="soumith" />
+    <edge source="killeent" target="Atcold" />
+    <edge source="killeent" target="vfonov" />
+    <edge source="fmassa" target="soumith" />
+    <edge source="fmassa" target="donglixp" />
+    <edge source="fmassa" target="qunluo" />
+    <edge source="fmassa" target="adamlerer" />
+    <edge source="fmassa" target="sajjo79" />
+    <edge source="fmassa" target="ronrest" />
+    <edge source="fmassa" target="MaximumEntropy" />
+    <edge source="fmassa" target="borisfom" />
+    <edge source="alykhantejani" target="soumith" />
+    <edge source="alykhantejani" target="twitter-recsys-challenge-2020" />
+    <edge source="alykhantejani" target="danieltudosiu" />
+    <edge source="donglixp" target="soumith" />
+    <edge source="donglixp" target="ronrest" />
+    <edge source="donglixp" target="MaximumEntropy" />
+    <edge source="amrobbins" target="soumith" />
+    <edge source="qunluo" target="soumith" />
+    <edge source="BTNC" target="soumith" />
+    <edge source="ronrest" target="soumith" />
+    <edge source="ronrest" target="MaximumEntropy" />
+    <edge source="MaximumEntropy" target="soumith" />
+    <edge source="MaximumEntropy" target="madieraRRC" />
+    <edge source="borisfom" target="soumith" />
+    <edge source="soumith" target="Kaixhin" />
+    <edge source="soumith" target="Atcold" />
+    <edge source="soumith" target="edouardelasalles" />
+    <edge source="soumith" target="bmccann" />
+    <edge source="soumith" target="jfsantos" />
+    <edge source="soumith" target="0mp" />
+    <edge source="soumith" target="jekbradbury" />
+    <edge source="soumith" target="adamlerer" />
+    <edge source="soumith" target="madieraRRC" />
+    <edge source="soumith" target="YonatanE8" />
+    <edge source="soumith" target="desimone" />
+    <edge source="soumith" target="goelhardik" />
+    <edge source="soumith" target="nkoumchatzky" />
+    <edge source="soumith" target="bamos" />
+    <edge source="soumith" target="vfonov" />
+    <edge source="soumith" target="WayneZww" />
+    <edge source="soumith" target="y0ast" />
+    <edge source="soumith" target="ebetica" />
+    <edge source="soumith" target="mrdrozdov" />
+    <edge source="soumith" target="jsenellart" />
+    <edge source="soumith" target="joker512" />
+    <edge source="soumith" target="glample" />
+    <edge source="soumith" target="Wakeupbuddy" />
+    <edge source="soumith" target="Maratyszcza" />
+    <edge source="soumith" target="SeanNaren" />
+    <edge source="VirrageS" target="0mp" />
+    <edge source="VirrageS" target="jytug" />
+    <edge source="jytug" target="0mp" />
+    <edge source="adamlerer" target="ebetica" />
+    <edge source="twitter-recsys-challenge-2020" target="danieltudosiu" />
+    <edge source="WayneZww" target="Wakeupbuddy" />
+  </graph>
+</graphml>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="LysandreJik" />
+    <node id="mishig25" />
+    <node id="guyrosin" />
+    <node id="sgugger" />
+    <node id="Rocketknight1" />
+    <node id="szutenberg" />
+    <node id="Narsil" />
+    <node id="NielsRogge" />
+    <node id="patrickvonplaten" />
+    <node id="sam-writer" />
+    <node id="michaelbenayoun" />
+    <node id="stas00" />
+    <edge source="LysandreJik" target="mishig25" />
+    <edge source="LysandreJik" target="guyrosin" />
+    <edge source="LysandreJik" target="sgugger" />
+    <edge source="LysandreJik" target="Rocketknight1" />
+    <edge source="LysandreJik" target="szutenberg" />
+    <edge source="LysandreJik" target="Narsil" />
+    <edge source="LysandreJik" target="NielsRogge" />
+    <edge source="mishig25" target="Narsil" />
+    <edge source="mishig25" target="NielsRogge" />
+    <edge source="guyrosin" target="Narsil" />
+    <edge source="sgugger" target="patrickvonplaten" />
+    <edge source="sgugger" target="sam-writer" />
+    <edge source="Rocketknight1" target="szutenberg" />
+    <edge source="Narsil" target="NielsRogge" />
+    <edge source="michaelbenayoun" target="stas00" />
+  </graph>
+</graphml>

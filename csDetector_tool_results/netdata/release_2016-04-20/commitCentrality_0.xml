@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="costa@tsaousis.gr" />
+    <node id="faust64@gmail.com" />
+    <node id="jorge.romero@openbondx.com" />
+    <node id="kn007@users.noreply.github.com" />
+    <node id="chef@bitdeli.com" />
+    <node id="simonnagl@aim.com" />
+    <node id="tit.petric@monotek.net" />
+    <node id="github@rednsx.org" />
+    <node id="nightexcessive@users.noreply.github.com" />
+    <node id="svenstaro@gmail.com" />
+    <node id="phil@firehol.org" />
+    <node id="fredericopissarra@gmail.com" />
+    <node id="aldridge.mac@gmail.com" />
+    <node id="chris@chriseskow.com" />
+    <node id="safeie@163.com" />
+    <edge source="costa@tsaousis.gr" target="faust64@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="jorge.romero@openbondx.com" />
+    <edge source="costa@tsaousis.gr" target="kn007@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="chef@bitdeli.com" />
+    <edge source="costa@tsaousis.gr" target="simonnagl@aim.com" />
+    <edge source="costa@tsaousis.gr" target="tit.petric@monotek.net" />
+    <edge source="costa@tsaousis.gr" target="github@rednsx.org" />
+    <edge source="costa@tsaousis.gr" target="nightexcessive@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="svenstaro@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="phil@firehol.org" />
+    <edge source="costa@tsaousis.gr" target="fredericopissarra@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="aldridge.mac@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="chris@chriseskow.com" />
+    <edge source="costa@tsaousis.gr" target="safeie@163.com" />
+    <edge source="faust64@gmail.com" target="safeie@163.com" />
+    <edge source="faust64@gmail.com" target="jorge.romero@openbondx.com" />
+    <edge source="faust64@gmail.com" target="svenstaro@gmail.com" />
+    <edge source="faust64@gmail.com" target="kn007@users.noreply.github.com" />
+    <edge source="faust64@gmail.com" target="chris@chriseskow.com" />
+    <edge source="faust64@gmail.com" target="aldridge.mac@gmail.com" />
+    <edge source="faust64@gmail.com" target="simonnagl@aim.com" />
+    <edge source="faust64@gmail.com" target="tit.petric@monotek.net" />
+    <edge source="faust64@gmail.com" target="github@rednsx.org" />
+    <edge source="faust64@gmail.com" target="nightexcessive@users.noreply.github.com" />
+    <edge source="faust64@gmail.com" target="phil@firehol.org" />
+    <edge source="faust64@gmail.com" target="fredericopissarra@gmail.com" />
+    <edge source="faust64@gmail.com" target="chef@bitdeli.com" />
+    <edge source="jorge.romero@openbondx.com" target="safeie@163.com" />
+    <edge source="jorge.romero@openbondx.com" target="kn007@users.noreply.github.com" />
+    <edge source="jorge.romero@openbondx.com" target="chef@bitdeli.com" />
+    <edge source="jorge.romero@openbondx.com" target="simonnagl@aim.com" />
+    <edge source="jorge.romero@openbondx.com" target="tit.petric@monotek.net" />
+    <edge source="jorge.romero@openbondx.com" target="github@rednsx.org" />
+    <edge source="jorge.romero@openbondx.com" target="nightexcessive@users.noreply.github.com" />
+    <edge source="jorge.romero@openbondx.com" target="svenstaro@gmail.com" />
+    <edge source="jorge.romero@openbondx.com" target="phil@firehol.org" />
+    <edge source="jorge.romero@openbondx.com" target="fredericopissarra@gmail.com" />
+    <edge source="jorge.romero@openbondx.com" target="aldridge.mac@gmail.com" />
+    <edge source="jorge.romero@openbondx.com" target="chris@chriseskow.com" />
+    <edge source="kn007@users.noreply.github.com" target="safeie@163.com" />
+    <edge source="kn007@users.noreply.github.com" target="svenstaro@gmail.com" />
+    <edge source="kn007@users.noreply.github.com" target="chef@bitdeli.com" />
+    <edge source="kn007@users.noreply.github.com" target="simonnagl@aim.com" />
+    <edge source="kn007@users.noreply.github.com" target="tit.petric@monotek.net" />
+    <edge source="kn007@users.noreply.github.com" target="github@rednsx.org" />
+    <edge source="kn007@users.noreply.github.com" target="nightexcessive@users.noreply.github.com" />
+    <edge source="kn007@users.noreply.github.com" target="phil@firehol.org" />
+    <edge source="kn007@users.noreply.github.com" target="fredericopissarra@gmail.com" />
+    <edge source="kn007@users.noreply.github.com" target="aldridge.mac@gmail.com" />
+    <edge source="kn007@users.noreply.github.com" target="chris@chriseskow.com" />
+    <edge source="chef@bitdeli.com" target="safeie@163.com" />
+    <edge source="chef@bitdeli.com" target="svenstaro@gmail.com" />
+    <edge source="chef@bitdeli.com" target="chris@chriseskow.com" />
+    <edge source="chef@bitdeli.com" target="aldridge.mac@gmail.com" />
+    <edge source="chef@bitdeli.com" target="github@rednsx.org" />
+    <edge source="chef@bitdeli.com" target="simonnagl@aim.com" />
+    <edge source="chef@bitdeli.com" target="tit.petric@monotek.net" />
+    <edge source="chef@bitdeli.com" target="phil@firehol.org" />
+    <edge source="chef@bitdeli.com" target="nightexcessive@users.noreply.github.com" />
+    <edge source="chef@bitdeli.com" target="fredericopissarra@gmail.com" />
+    <edge source="simonnagl@aim.com" target="safeie@163.com" />
+    <edge source="simonnagl@aim.com" target="svenstaro@gmail.com" />
+    <edge source="simonnagl@aim.com" target="chris@chriseskow.com" />
+    <edge source="simonnagl@aim.com" target="aldridge.mac@gmail.com" />
+    <edge source="simonnagl@aim.com" target="github@rednsx.org" />
+    <edge source="simonnagl@aim.com" target="tit.petric@monotek.net" />
+    <edge source="simonnagl@aim.com" target="nightexcessive@users.noreply.github.com" />
+    <edge source="simonnagl@aim.com" target="phil@firehol.org" />
+    <edge source="simonnagl@aim.com" target="fredericopissarra@gmail.com" />
+    <edge source="tit.petric@monotek.net" target="safeie@163.com" />
+    <edge source="tit.petric@monotek.net" target="svenstaro@gmail.com" />
+    <edge source="tit.petric@monotek.net" target="chris@chriseskow.com" />
+    <edge source="tit.petric@monotek.net" target="aldridge.mac@gmail.com" />
+    <edge source="tit.petric@monotek.net" target="github@rednsx.org" />
+    <edge source="tit.petric@monotek.net" target="nightexcessive@users.noreply.github.com" />
+    <edge source="tit.petric@monotek.net" target="phil@firehol.org" />
+    <edge source="tit.petric@monotek.net" target="fredericopissarra@gmail.com" />
+    <edge source="github@rednsx.org" target="safeie@163.com" />
+    <edge source="github@rednsx.org" target="svenstaro@gmail.com" />
+    <edge source="github@rednsx.org" target="chris@chriseskow.com" />
+    <edge source="github@rednsx.org" target="aldridge.mac@gmail.com" />
+    <edge source="github@rednsx.org" target="nightexcessive@users.noreply.github.com" />
+    <edge source="github@rednsx.org" target="phil@firehol.org" />
+    <edge source="github@rednsx.org" target="fredericopissarra@gmail.com" />
+    <edge source="nightexcessive@users.noreply.github.com" target="safeie@163.com" />
+    <edge source="nightexcessive@users.noreply.github.com" target="svenstaro@gmail.com" />
+    <edge source="nightexcessive@users.noreply.github.com" target="chris@chriseskow.com" />
+    <edge source="nightexcessive@users.noreply.github.com" target="aldridge.mac@gmail.com" />
+    <edge source="nightexcessive@users.noreply.github.com" target="phil@firehol.org" />
+    <edge source="nightexcessive@users.noreply.github.com" target="fredericopissarra@gmail.com" />
+    <edge source="svenstaro@gmail.com" target="safeie@163.com" />
+    <edge source="svenstaro@gmail.com" target="phil@firehol.org" />
+    <edge source="svenstaro@gmail.com" target="fredericopissarra@gmail.com" />
+    <edge source="svenstaro@gmail.com" target="aldridge.mac@gmail.com" />
+    <edge source="svenstaro@gmail.com" target="chris@chriseskow.com" />
+    <edge source="phil@firehol.org" target="safeie@163.com" />
+    <edge source="phil@firehol.org" target="chris@chriseskow.com" />
+    <edge source="phil@firehol.org" target="aldridge.mac@gmail.com" />
+    <edge source="phil@firehol.org" target="fredericopissarra@gmail.com" />
+    <edge source="fredericopissarra@gmail.com" target="safeie@163.com" />
+    <edge source="fredericopissarra@gmail.com" target="chris@chriseskow.com" />
+    <edge source="fredericopissarra@gmail.com" target="aldridge.mac@gmail.com" />
+    <edge source="aldridge.mac@gmail.com" target="safeie@163.com" />
+    <edge source="aldridge.mac@gmail.com" target="chris@chriseskow.com" />
+    <edge source="chris@chriseskow.com" target="safeie@163.com" />
+  </graph>
+</graphml>

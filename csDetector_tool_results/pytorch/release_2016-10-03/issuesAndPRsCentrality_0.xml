@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="apaszke" />
+    <node id="ebetica" />
+    <node id="jytug" />
+    <node id="denisyarats" />
+    <node id="fmassa" />
+    <node id="0mp" />
+    <node id="adamlerer" />
+    <node id="bamos" />
+    <node id="soumith" />
+    <node id="howard0su" />
+    <node id="gchanan" />
+    <node id="colesbury" />
+    <node id="BTNC" />
+    <node id="ezyang" />
+    <node id="VirrageS" />
+    <node id="thatguymike" />
+    <node id="killeent" />
+    <node id="andreaskoepf" />
+    <node id="lantiga" />
+    <node id="dbolkensteyn" />
+    <edge source="apaszke" target="ebetica" />
+    <edge source="apaszke" target="jytug" />
+    <edge source="apaszke" target="denisyarats" />
+    <edge source="apaszke" target="fmassa" />
+    <edge source="apaszke" target="0mp" />
+    <edge source="apaszke" target="adamlerer" />
+    <edge source="apaszke" target="bamos" />
+    <edge source="apaszke" target="soumith" />
+    <edge source="apaszke" target="howard0su" />
+    <edge source="apaszke" target="gchanan" />
+    <edge source="apaszke" target="colesbury" />
+    <edge source="apaszke" target="BTNC" />
+    <edge source="apaszke" target="ezyang" />
+    <edge source="apaszke" target="VirrageS" />
+    <edge source="apaszke" target="thatguymike" />
+    <edge source="apaszke" target="killeent" />
+    <edge source="ebetica" target="soumith" />
+    <edge source="ebetica" target="fmassa" />
+    <edge source="jytug" target="ezyang" />
+    <edge source="jytug" target="0mp" />
+    <edge source="jytug" target="VirrageS" />
+    <edge source="denisyarats" target="soumith" />
+    <edge source="denisyarats" target="BTNC" />
+    <edge source="denisyarats" target="gchanan" />
+    <edge source="denisyarats" target="killeent" />
+    <edge source="denisyarats" target="howard0su" />
+    <edge source="fmassa" target="ezyang" />
+    <edge source="fmassa" target="soumith" />
+    <edge source="fmassa" target="lantiga" />
+    <edge source="fmassa" target="howard0su" />
+    <edge source="fmassa" target="colesbury" />
+    <edge source="fmassa" target="BTNC" />
+    <edge source="fmassa" target="gchanan" />
+    <edge source="fmassa" target="killeent" />
+    <edge source="0mp" target="ezyang" />
+    <edge source="0mp" target="VirrageS" />
+    <edge source="adamlerer" target="soumith" />
+    <edge source="bamos" target="soumith" />
+    <edge source="soumith" target="ezyang" />
+    <edge source="soumith" target="lantiga" />
+    <edge source="soumith" target="dbolkensteyn" />
+    <edge source="soumith" target="howard0su" />
+    <edge source="soumith" target="colesbury" />
+    <edge source="soumith" target="BTNC" />
+    <edge source="soumith" target="gchanan" />
+    <edge source="soumith" target="thatguymike" />
+    <edge source="soumith" target="killeent" />
+    <edge source="howard0su" target="colesbury" />
+    <edge source="howard0su" target="BTNC" />
+    <edge source="howard0su" target="gchanan" />
+    <edge source="howard0su" target="killeent" />
+    <edge source="howard0su" target="lantiga" />
+    <edge source="gchanan" target="ezyang" />
+    <edge source="gchanan" target="colesbury" />
+    <edge source="gchanan" target="BTNC" />
+    <edge source="gchanan" target="lantiga" />
+    <edge source="gchanan" target="dbolkensteyn" />
+    <edge source="gchanan" target="killeent" />
+    <edge source="colesbury" target="ezyang" />
+    <edge source="colesbury" target="lantiga" />
+    <edge source="colesbury" target="BTNC" />
+    <edge source="colesbury" target="thatguymike" />
+    <edge source="colesbury" target="killeent" />
+    <edge source="BTNC" target="lantiga" />
+    <edge source="BTNC" target="killeent" />
+    <edge source="ezyang" target="andreaskoepf" />
+    <edge source="ezyang" target="VirrageS" />
+    <edge source="killeent" target="lantiga" />
+  </graph>
+</graphml>

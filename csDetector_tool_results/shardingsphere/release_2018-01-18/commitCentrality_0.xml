@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="caohaoch@gmail.com" />
+    <node id="linrongbin16@gmail.com" />
+    <node id="fuhai999@gmail.com" />
+    <node id="terrymanu@163.com" />
+    <node id="duqing.zhou@taoluemedia.com" />
+    <node id="damu@pinduoduo.com" />
+    <edge source="caohaoch@gmail.com" target="linrongbin16@gmail.com" />
+    <edge source="caohaoch@gmail.com" target="fuhai999@gmail.com" />
+    <edge source="caohaoch@gmail.com" target="terrymanu@163.com" />
+    <edge source="caohaoch@gmail.com" target="duqing.zhou@taoluemedia.com" />
+    <edge source="caohaoch@gmail.com" target="damu@pinduoduo.com" />
+    <edge source="linrongbin16@gmail.com" target="terrymanu@163.com" />
+    <edge source="linrongbin16@gmail.com" target="damu@pinduoduo.com" />
+    <edge source="linrongbin16@gmail.com" target="fuhai999@gmail.com" />
+    <edge source="linrongbin16@gmail.com" target="duqing.zhou@taoluemedia.com" />
+    <edge source="fuhai999@gmail.com" target="terrymanu@163.com" />
+    <edge source="fuhai999@gmail.com" target="damu@pinduoduo.com" />
+    <edge source="fuhai999@gmail.com" target="duqing.zhou@taoluemedia.com" />
+    <edge source="terrymanu@163.com" target="duqing.zhou@taoluemedia.com" />
+    <edge source="terrymanu@163.com" target="damu@pinduoduo.com" />
+    <edge source="duqing.zhou@taoluemedia.com" target="damu@pinduoduo.com" />
+  </graph>
+</graphml>

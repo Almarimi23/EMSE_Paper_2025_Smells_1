@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="mbforbes@users.noreply.github.com" />
+    <node id="patry.nicolas@protonmail.com" />
+    <node id="thibaultfevry@gmail.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="stas00@users.noreply.github.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <edge source="mbforbes@users.noreply.github.com" target="patry.nicolas@protonmail.com" />
+    <edge source="mbforbes@users.noreply.github.com" target="thibaultfevry@gmail.com" />
+    <edge source="mbforbes@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="mbforbes@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="mbforbes@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="patry.nicolas@protonmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patry.nicolas@protonmail.com" target="thibaultfevry@gmail.com" />
+    <edge source="patry.nicolas@protonmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="patry.nicolas@protonmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="thibaultfevry@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="thibaultfevry@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="thibaultfevry@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="patrick.v.platen@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="stas00@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+  </graph>
+</graphml>

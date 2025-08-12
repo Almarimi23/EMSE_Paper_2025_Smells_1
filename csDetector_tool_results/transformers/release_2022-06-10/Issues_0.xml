@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Narsil" />
+    <node id="gante" />
+    <node id="nitaytech" />
+    <node id="patil-suraj" />
+    <node id="jhoanmartinez" />
+    <node id="KoichiYasuoka" />
+    <node id="patrickvonplaten" />
+    <node id="xixiaoyao" />
+    <node id="johnnv1" />
+    <node id="LysandreJik" />
+    <node id="NielsRogge" />
+    <edge source="Narsil" target="gante" />
+    <edge source="Narsil" target="nitaytech" />
+    <edge source="Narsil" target="patil-suraj" />
+    <edge source="Narsil" target="jhoanmartinez" />
+    <edge source="Narsil" target="KoichiYasuoka" />
+    <edge source="Narsil" target="patrickvonplaten" />
+    <edge source="gante" target="patil-suraj" />
+    <edge source="gante" target="nitaytech" />
+    <edge source="gante" target="jhoanmartinez" />
+    <edge source="gante" target="KoichiYasuoka" />
+    <edge source="gante" target="patrickvonplaten" />
+    <edge source="nitaytech" target="patrickvonplaten" />
+    <edge source="nitaytech" target="patil-suraj" />
+    <edge source="nitaytech" target="jhoanmartinez" />
+    <edge source="patil-suraj" target="patrickvonplaten" />
+    <edge source="patil-suraj" target="jhoanmartinez" />
+    <edge source="jhoanmartinez" target="patrickvonplaten" />
+    <edge source="johnnv1" target="LysandreJik" />
+    <edge source="johnnv1" target="NielsRogge" />
+    <edge source="LysandreJik" target="NielsRogge" />
+  </graph>
+</graphml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="TheOldMan2000" />
+    <node id="ilyam8" />
+    <node id="redwardh" />
+    <node id="ruradium" />
+    <node id="fti-sfuke" />
+    <edge source="TheOldMan2000" target="ilyam8" />
+    <edge source="TheOldMan2000" target="redwardh" />
+    <edge source="ilyam8" target="ruradium" />
+    <edge source="ilyam8" target="fti-sfuke" />
+    <edge source="ilyam8" target="redwardh" />
+  </graph>
+</graphml>

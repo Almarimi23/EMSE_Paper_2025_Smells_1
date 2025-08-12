@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="joelhans" />
+    <node id="jlbriston" />
+    <node id="aabatangle" />
+    <node id="mfundul" />
+    <node id="vlvkobal" />
+    <node id="thiagoftsm" />
+    <node id="stelfrag" />
+    <node id="MrZammler" />
+    <node id="WilsonChong8882" />
+    <node id="ilyam8" />
+    <node id="underhood" />
+    <node id="andrewm4894" />
+    <node id="maristeslk" />
+    <node id="rda0" />
+    <node id="smhaller" />
+    <node id="CLAassistant" />
+    <node id="netdata-community-bot" />
+    <node id="d235j" />
+    <node id="kaskavel" />
+    <node id="Ferroin" />
+    <node id="vkalintiris" />
+    <node id="dimko" />
+    <node id="knatsakis" />
+    <edge source="joelhans" target="jlbriston" />
+    <edge source="joelhans" target="aabatangle" />
+    <edge source="jlbriston" target="aabatangle" />
+    <edge source="mfundul" target="vlvkobal" />
+    <edge source="mfundul" target="thiagoftsm" />
+    <edge source="mfundul" target="stelfrag" />
+    <edge source="mfundul" target="MrZammler" />
+    <edge source="vlvkobal" target="thiagoftsm" />
+    <edge source="vlvkobal" target="stelfrag" />
+    <edge source="vlvkobal" target="ilyam8" />
+    <edge source="vlvkobal" target="WilsonChong8882" />
+    <edge source="vlvkobal" target="CLAassistant" />
+    <edge source="vlvkobal" target="rda0" />
+    <edge source="thiagoftsm" target="WilsonChong8882" />
+    <edge source="thiagoftsm" target="ilyam8" />
+    <edge source="thiagoftsm" target="stelfrag" />
+    <edge source="thiagoftsm" target="MrZammler" />
+    <edge source="stelfrag" target="MrZammler" />
+    <edge source="stelfrag" target="underhood" />
+    <edge source="MrZammler" target="underhood" />
+    <edge source="WilsonChong8882" target="ilyam8" />
+    <edge source="ilyam8" target="andrewm4894" />
+    <edge source="ilyam8" target="maristeslk" />
+    <edge source="ilyam8" target="rda0" />
+    <edge source="ilyam8" target="smhaller" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="d235j" />
+    <edge source="andrewm4894" target="smhaller" />
+    <edge source="andrewm4894" target="d235j" />
+    <edge source="andrewm4894" target="netdata-community-bot" />
+    <edge source="maristeslk" target="CLAassistant" />
+    <edge source="rda0" target="CLAassistant" />
+    <edge source="smhaller" target="netdata-community-bot" />
+    <edge source="smhaller" target="d235j" />
+    <edge source="netdata-community-bot" target="d235j" />
+    <edge source="kaskavel" target="Ferroin" />
+    <edge source="kaskavel" target="vkalintiris" />
+    <edge source="kaskavel" target="dimko" />
+    <edge source="kaskavel" target="knatsakis" />
+    <edge source="Ferroin" target="vkalintiris" />
+    <edge source="Ferroin" target="dimko" />
+    <edge source="Ferroin" target="knatsakis" />
+    <edge source="vkalintiris" target="dimko" />
+  </graph>
+</graphml>

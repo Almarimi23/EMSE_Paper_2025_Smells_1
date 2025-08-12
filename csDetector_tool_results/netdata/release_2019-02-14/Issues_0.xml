@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="candlerb" />
+    <node id="netdata-community-bot" />
+    <node id="Vartkat" />
+    <node id="ilyam8" />
+    <node id="modem7" />
+    <node id="thiagoftsm" />
+    <node id="alsoeric" />
+    <node id="gmosx" />
+    <node id="EnzoAkira" />
+    <node id="TH-HA" />
+    <node id="libanaabdul" />
+    <node id="shadycuz" />
+    <node id="Mic-Pod" />
+    <node id="gpapamathND" />
+    <node id="cakrit" />
+    <node id="Ferroin" />
+    <node id="nakermann1973" />
+    <node id="Arnaud92BlR" />
+    <node id="vlvkobal" />
+    <node id="trebonius0" />
+    <node id="netdatabot" />
+    <node id="ktsaou" />
+    <node id="socomsystems" />
+    <node id="zivanfi" />
+    <node id="putnam" />
+    <node id="hereTac" />
+    <node id="Thatdarkone" />
+    <node id="Hufschmidt" />
+    <node id="jjhesk" />
+    <node id="paulfantom" />
+    <node id="BKPepe" />
+    <node id="ainiyt" />
+    <node id="flippy1345" />
+    <node id="ArnaudLier" />
+    <node id="Wing924" />
+    <node id="ferenc0521" />
+    <node id="simonnagl" />
+    <node id="apardyl" />
+    <node id="NotSqrt" />
+    <node id="DriverXX" />
+    <node id="davejonesbkk" />
+    <edge source="candlerb" target="netdata-community-bot" />
+    <edge source="candlerb" target="Vartkat" />
+    <edge source="candlerb" target="ilyam8" />
+    <edge source="netdata-community-bot" target="Vartkat" />
+    <edge source="netdata-community-bot" target="ilyam8" />
+    <edge source="Vartkat" target="ilyam8" />
+    <edge source="ilyam8" target="modem7" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="alsoeric" />
+    <edge source="ilyam8" target="gmosx" />
+    <edge source="ilyam8" target="EnzoAkira" />
+    <edge source="ilyam8" target="TH-HA" />
+    <edge source="ilyam8" target="libanaabdul" />
+    <edge source="ilyam8" target="shadycuz" />
+    <edge source="ilyam8" target="Mic-Pod" />
+    <edge source="ilyam8" target="gpapamathND" />
+    <edge source="ilyam8" target="cakrit" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="nakermann1973" />
+    <edge source="ilyam8" target="Arnaud92BlR" />
+    <edge source="ilyam8" target="vlvkobal" />
+    <edge source="ilyam8" target="trebonius0" />
+    <edge source="ilyam8" target="netdatabot" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="ilyam8" target="socomsystems" />
+    <edge source="ilyam8" target="zivanfi" />
+    <edge source="ilyam8" target="putnam" />
+    <edge source="modem7" target="cakrit" />
+    <edge source="modem7" target="putnam" />
+    <edge source="modem7" target="Mic-Pod" />
+    <edge source="thiagoftsm" target="cakrit" />
+    <edge source="alsoeric" target="cakrit" />
+    <edge source="alsoeric" target="netdatabot" />
+    <edge source="alsoeric" target="ktsaou" />
+    <edge source="gmosx" target="cakrit" />
+    <edge source="gmosx" target="netdatabot" />
+    <edge source="gmosx" target="paulfantom" />
+    <edge source="gmosx" target="gpapamathND" />
+    <edge source="gmosx" target="Ferroin" />
+    <edge source="gmosx" target="jjhesk" />
+    <edge source="gmosx" target="Arnaud92BlR" />
+    <edge source="gmosx" target="trebonius0" />
+    <edge source="gmosx" target="TH-HA" />
+    <edge source="EnzoAkira" target="cakrit" />
+    <edge source="EnzoAkira" target="netdatabot" />
+    <edge source="TH-HA" target="cakrit" />
+    <edge source="TH-HA" target="gpapamathND" />
+    <edge source="TH-HA" target="Arnaud92BlR" />
+    <edge source="libanaabdul" target="cakrit" />
+    <edge source="libanaabdul" target="netdatabot" />
+    <edge source="shadycuz" target="cakrit" />
+    <edge source="shadycuz" target="vlvkobal" />
+    <edge source="Mic-Pod" target="cakrit" />
+    <edge source="Mic-Pod" target="putnam" />
+    <edge source="gpapamathND" target="cakrit" />
+    <edge source="gpapamathND" target="netdatabot" />
+    <edge source="gpapamathND" target="Ferroin" />
+    <edge source="gpapamathND" target="trebonius0" />
+    <edge source="gpapamathND" target="Arnaud92BlR" />
+    <edge source="cakrit" target="hereTac" />
+    <edge source="cakrit" target="Thatdarkone" />
+    <edge source="cakrit" target="Hufschmidt" />
+    <edge source="cakrit" target="jjhesk" />
+    <edge source="cakrit" target="paulfantom" />
+    <edge source="cakrit" target="BKPepe" />
+    <edge source="cakrit" target="ainiyt" />
+    <edge source="cakrit" target="flippy1345" />
+    <edge source="cakrit" target="ArnaudLier" />
+    <edge source="cakrit" target="Ferroin" />
+    <edge source="cakrit" target="Wing924" />
+    <edge source="cakrit" target="ferenc0521" />
+    <edge source="cakrit" target="Arnaud92BlR" />
+    <edge source="cakrit" target="vlvkobal" />
+    <edge source="cakrit" target="trebonius0" />
+    <edge source="cakrit" target="netdatabot" />
+    <edge source="cakrit" target="ktsaou" />
+    <edge source="cakrit" target="putnam" />
+    <edge source="Ferroin" target="netdatabot" />
+    <edge source="Ferroin" target="trebonius0" />
+    <edge source="nakermann1973" target="netdatabot" />
+    <edge source="vlvkobal" target="ferenc0521" />
+    <edge source="trebonius0" target="netdatabot" />
+    <edge source="netdatabot" target="hereTac" />
+    <edge source="netdatabot" target="Thatdarkone" />
+    <edge source="netdatabot" target="Hufschmidt" />
+    <edge source="netdatabot" target="jjhesk" />
+    <edge source="netdatabot" target="simonnagl" />
+    <edge source="netdatabot" target="apardyl" />
+    <edge source="netdatabot" target="BKPepe" />
+    <edge source="netdatabot" target="ainiyt" />
+    <edge source="netdatabot" target="flippy1345" />
+    <edge source="netdatabot" target="NotSqrt" />
+    <edge source="netdatabot" target="Wing924" />
+    <edge source="netdatabot" target="ktsaou" />
+    <edge source="netdatabot" target="socomsystems" />
+    <edge source="netdatabot" target="paulfantom" />
+    <edge source="hereTac" target="Thatdarkone" />
+    <edge source="Hufschmidt" target="paulfantom" />
+    <edge source="jjhesk" target="paulfantom" />
+    <edge source="paulfantom" target="DriverXX" />
+    <edge source="paulfantom" target="davejonesbkk" />
+    <edge source="paulfantom" target="ArnaudLier" />
+    <edge source="simonnagl" target="NotSqrt" />
+  </graph>
+</graphml>

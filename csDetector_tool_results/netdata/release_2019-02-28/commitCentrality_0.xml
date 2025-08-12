@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ilyamaschenko@gmail.com" />
+    <node id="43294513+cakrit@users.noreply.github.com" />
+    <node id="p-thurner@users.noreply.github.com" />
+    <node id="pawel@krupa.net.pl" />
+    <node id="ahferroin7@gmail.com" />
+    <node id="ing.maxjrb@gmail.com" />
+    <node id="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <node id="vlad@prokk.net" />
+    <node id="george.moschovitis@gmail.com" />
+    <node id="bot@netdata.cloud" />
+    <edge source="ilyamaschenko@gmail.com" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="p-thurner@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="ilyamaschenko@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="ing.maxjrb@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="vlad@prokk.net" />
+    <edge source="ilyamaschenko@gmail.com" target="george.moschovitis@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="bot@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="george.moschovitis@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="p-thurner@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="ing.maxjrb@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="p-thurner@users.noreply.github.com" target="george.moschovitis@gmail.com" />
+    <edge source="p-thurner@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="p-thurner@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="p-thurner@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="p-thurner@users.noreply.github.com" target="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <edge source="p-thurner@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="p-thurner@users.noreply.github.com" target="ing.maxjrb@gmail.com" />
+    <edge source="pawel@krupa.net.pl" target="george.moschovitis@gmail.com" />
+    <edge source="pawel@krupa.net.pl" target="ahferroin7@gmail.com" />
+    <edge source="pawel@krupa.net.pl" target="ing.maxjrb@gmail.com" />
+    <edge source="pawel@krupa.net.pl" target="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <edge source="pawel@krupa.net.pl" target="vlad@prokk.net" />
+    <edge source="pawel@krupa.net.pl" target="bot@netdata.cloud" />
+    <edge source="ahferroin7@gmail.com" target="george.moschovitis@gmail.com" />
+    <edge source="ahferroin7@gmail.com" target="bot@netdata.cloud" />
+    <edge source="ahferroin7@gmail.com" target="ing.maxjrb@gmail.com" />
+    <edge source="ahferroin7@gmail.com" target="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <edge source="ahferroin7@gmail.com" target="vlad@prokk.net" />
+    <edge source="ing.maxjrb@gmail.com" target="george.moschovitis@gmail.com" />
+    <edge source="ing.maxjrb@gmail.com" target="bot@netdata.cloud" />
+    <edge source="ing.maxjrb@gmail.com" target="34388743+paulkatsoulakis@users.noreply.github.com" />
+    <edge source="ing.maxjrb@gmail.com" target="vlad@prokk.net" />
+    <edge source="34388743+paulkatsoulakis@users.noreply.github.com" target="george.moschovitis@gmail.com" />
+    <edge source="34388743+paulkatsoulakis@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="34388743+paulkatsoulakis@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="vlad@prokk.net" target="george.moschovitis@gmail.com" />
+    <edge source="vlad@prokk.net" target="bot@netdata.cloud" />
+    <edge source="george.moschovitis@gmail.com" target="bot@netdata.cloud" />
+  </graph>
+</graphml>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="slhck" />
+    <node id="amoss" />
+    <node id="CLAassistant" />
+    <node id="joelhans" />
+    <node id="ilyam8" />
+    <node id="gruentee" />
+    <node id="prologic" />
+    <node id="cakrit" />
+    <node id="underhood" />
+    <node id="mfundul" />
+    <node id="aabatangle" />
+    <node id="Ferroin" />
+    <edge source="slhck" target="amoss" />
+    <edge source="slhck" target="CLAassistant" />
+    <edge source="amoss" target="CLAassistant" />
+    <edge source="amoss" target="prologic" />
+    <edge source="amoss" target="joelhans" />
+    <edge source="amoss" target="cakrit" />
+    <edge source="amoss" target="underhood" />
+    <edge source="CLAassistant" target="joelhans" />
+    <edge source="CLAassistant" target="ilyam8" />
+    <edge source="CLAassistant" target="gruentee" />
+    <edge source="CLAassistant" target="prologic" />
+    <edge source="joelhans" target="gruentee" />
+    <edge source="joelhans" target="ilyam8" />
+    <edge source="joelhans" target="prologic" />
+    <edge source="joelhans" target="cakrit" />
+    <edge source="joelhans" target="underhood" />
+    <edge source="joelhans" target="mfundul" />
+    <edge source="joelhans" target="aabatangle" />
+    <edge source="joelhans" target="Ferroin" />
+    <edge source="ilyam8" target="gruentee" />
+    <edge source="ilyam8" target="prologic" />
+    <edge source="gruentee" target="prologic" />
+    <edge source="prologic" target="aabatangle" />
+    <edge source="cakrit" target="underhood" />
+    <edge source="mfundul" target="Ferroin" />
+  </graph>
+</graphml>

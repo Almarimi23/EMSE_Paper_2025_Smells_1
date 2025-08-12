@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="adam.paszke@gmail.com" />
+    <node id="soumith@gmail.com" />
+    <node id="gchanan@fb.com" />
+    <node id="davidy@me.com" />
+    <node id="sjeaugey@nvidia.com" />
+    <node id="sgross@fb.com" />
+    <node id="cdluminate@users.noreply.github.com" />
+    <node id="jiayq84@gmail.com" />
+    <node id="colesbury@gmail.com" />
+    <node id="rguthrie3@users.noreply.github.com" />
+    <node id="soumith@fb.com" />
+    <edge source="adam.paszke@gmail.com" target="soumith@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="gchanan@fb.com" />
+    <edge source="adam.paszke@gmail.com" target="davidy@me.com" />
+    <edge source="adam.paszke@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="adam.paszke@gmail.com" target="sgross@fb.com" />
+    <edge source="adam.paszke@gmail.com" target="cdluminate@users.noreply.github.com" />
+    <edge source="adam.paszke@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="colesbury@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="adam.paszke@gmail.com" target="soumith@fb.com" />
+    <edge source="soumith@gmail.com" target="gchanan@fb.com" />
+    <edge source="soumith@gmail.com" target="davidy@me.com" />
+    <edge source="soumith@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="soumith@gmail.com" target="sgross@fb.com" />
+    <edge source="soumith@gmail.com" target="cdluminate@users.noreply.github.com" />
+    <edge source="soumith@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="soumith@gmail.com" target="colesbury@gmail.com" />
+    <edge source="soumith@gmail.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="soumith@gmail.com" target="soumith@fb.com" />
+    <edge source="gchanan@fb.com" target="sgross@fb.com" />
+    <edge source="gchanan@fb.com" target="cdluminate@users.noreply.github.com" />
+    <edge source="gchanan@fb.com" target="jiayq84@gmail.com" />
+    <edge source="gchanan@fb.com" target="colesbury@gmail.com" />
+    <edge source="gchanan@fb.com" target="davidy@me.com" />
+    <edge source="gchanan@fb.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="gchanan@fb.com" target="soumith@fb.com" />
+    <edge source="gchanan@fb.com" target="sjeaugey@nvidia.com" />
+    <edge source="davidy@me.com" target="colesbury@gmail.com" />
+    <edge source="davidy@me.com" target="soumith@fb.com" />
+    <edge source="davidy@me.com" target="sgross@fb.com" />
+    <edge source="davidy@me.com" target="jiayq84@gmail.com" />
+    <edge source="davidy@me.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="davidy@me.com" target="cdluminate@users.noreply.github.com" />
+    <edge source="davidy@me.com" target="sjeaugey@nvidia.com" />
+    <edge source="sjeaugey@nvidia.com" target="colesbury@gmail.com" />
+    <edge source="sjeaugey@nvidia.com" target="soumith@fb.com" />
+    <edge source="sjeaugey@nvidia.com" target="sgross@fb.com" />
+    <edge source="sjeaugey@nvidia.com" target="jiayq84@gmail.com" />
+    <edge source="sjeaugey@nvidia.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="sjeaugey@nvidia.com" target="cdluminate@users.noreply.github.com" />
+    <edge source="sgross@fb.com" target="colesbury@gmail.com" />
+    <edge source="sgross@fb.com" target="soumith@fb.com" />
+    <edge source="sgross@fb.com" target="cdluminate@users.noreply.github.com" />
+    <edge source="sgross@fb.com" target="jiayq84@gmail.com" />
+    <edge source="sgross@fb.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="cdluminate@users.noreply.github.com" target="colesbury@gmail.com" />
+    <edge source="cdluminate@users.noreply.github.com" target="soumith@fb.com" />
+    <edge source="cdluminate@users.noreply.github.com" target="jiayq84@gmail.com" />
+    <edge source="cdluminate@users.noreply.github.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="jiayq84@gmail.com" target="colesbury@gmail.com" />
+    <edge source="jiayq84@gmail.com" target="soumith@fb.com" />
+    <edge source="jiayq84@gmail.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="colesbury@gmail.com" target="rguthrie3@users.noreply.github.com" />
+    <edge source="colesbury@gmail.com" target="soumith@fb.com" />
+    <edge source="rguthrie3@users.noreply.github.com" target="soumith@fb.com" />
+  </graph>
+</graphml>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ddrm86" />
+    <node id="LysandreJik" />
+    <node id="alexorona" />
+    <node id="StellaAthena" />
+    <node id="sgugger" />
+    <node id="ioana-blue" />
+    <node id="Narsil" />
+    <node id="patil-suraj" />
+    <node id="patrickvonplaten" />
+    <node id="stas00" />
+    <node id="anton-l" />
+    <node id="t-vi" />
+    <node id="NielsRogge" />
+    <edge source="ddrm86" target="LysandreJik" />
+    <edge source="LysandreJik" target="alexorona" />
+    <edge source="LysandreJik" target="StellaAthena" />
+    <edge source="LysandreJik" target="sgugger" />
+    <edge source="LysandreJik" target="ioana-blue" />
+    <edge source="LysandreJik" target="Narsil" />
+    <edge source="LysandreJik" target="patil-suraj" />
+    <edge source="alexorona" target="patil-suraj" />
+    <edge source="alexorona" target="StellaAthena" />
+    <edge source="alexorona" target="sgugger" />
+    <edge source="StellaAthena" target="patil-suraj" />
+    <edge source="StellaAthena" target="sgugger" />
+    <edge source="sgugger" target="patil-suraj" />
+    <edge source="sgugger" target="patrickvonplaten" />
+    <edge source="sgugger" target="stas00" />
+    <edge source="sgugger" target="anton-l" />
+    <edge source="sgugger" target="t-vi" />
+    <edge source="ioana-blue" target="Narsil" />
+    <edge source="patrickvonplaten" target="anton-l" />
+    <edge source="patrickvonplaten" target="NielsRogge" />
+    <edge source="stas00" target="t-vi" />
+  </graph>
+</graphml>

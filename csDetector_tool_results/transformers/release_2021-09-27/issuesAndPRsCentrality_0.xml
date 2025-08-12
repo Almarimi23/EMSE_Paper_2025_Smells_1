@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Traubert" />
+    <node id="patrickvonplaten" />
+    <node id="patil-suraj" />
+    <node id="ydshieh" />
+    <node id="NielsRogge" />
+    <node id="garymm" />
+    <node id="LysandreJik" />
+    <node id="versae" />
+    <node id="fatcat-z" />
+    <node id="m-wiesner" />
+    <node id="Rocketknight1" />
+    <node id="anton-l" />
+    <node id="piegu" />
+    <node id="stefan-it" />
+    <node id="sgugger" />
+    <node id="mfuntowicz" />
+    <node id="Narsil" />
+    <node id="Hecim1984" />
+    <node id="dennlinger" />
+    <node id="federicoruggeri" />
+    <node id="teodortita2" />
+    <node id="Ryan-Qiyu-Jiang" />
+    <node id="quantitative-technologies" />
+    <node id="stas00" />
+    <node id="xloem" />
+    <node id="gretatuckute" />
+    <node id="pradeepdev-1995" />
+    <node id="qqaatw" />
+    <node id="kyle-bong" />
+    <node id="samzabdiel" />
+    <node id="aqred1" />
+    <node id="LukasStankevicius" />
+    <node id="elishowk" />
+    <node id="julien-c" />
+    <node id="Embedding" />
+    <node id="yananchen1989" />
+    <node id="JerryPan2718" />
+    <edge source="Traubert" target="patrickvonplaten" />
+    <edge source="Traubert" target="patil-suraj" />
+    <edge source="patrickvonplaten" target="ydshieh" />
+    <edge source="patrickvonplaten" target="NielsRogge" />
+    <edge source="patrickvonplaten" target="garymm" />
+    <edge source="patrickvonplaten" target="LysandreJik" />
+    <edge source="patrickvonplaten" target="versae" />
+    <edge source="patrickvonplaten" target="fatcat-z" />
+    <edge source="patrickvonplaten" target="m-wiesner" />
+    <edge source="patrickvonplaten" target="Rocketknight1" />
+    <edge source="patrickvonplaten" target="anton-l" />
+    <edge source="patrickvonplaten" target="piegu" />
+    <edge source="patrickvonplaten" target="stefan-it" />
+    <edge source="patrickvonplaten" target="sgugger" />
+    <edge source="patrickvonplaten" target="patil-suraj" />
+    <edge source="patrickvonplaten" target="mfuntowicz" />
+    <edge source="patrickvonplaten" target="Narsil" />
+    <edge source="patrickvonplaten" target="Hecim1984" />
+    <edge source="patrickvonplaten" target="dennlinger" />
+    <edge source="patrickvonplaten" target="federicoruggeri" />
+    <edge source="patil-suraj" target="teodortita2" />
+    <edge source="patil-suraj" target="Ryan-Qiyu-Jiang" />
+    <edge source="patil-suraj" target="sgugger" />
+    <edge source="patil-suraj" target="NielsRogge" />
+    <edge source="ydshieh" target="sgugger" />
+    <edge source="ydshieh" target="LysandreJik" />
+    <edge source="ydshieh" target="NielsRogge" />
+    <edge source="ydshieh" target="Rocketknight1" />
+    <edge source="NielsRogge" target="sgugger" />
+    <edge source="NielsRogge" target="LysandreJik" />
+    <edge source="NielsRogge" target="Ryan-Qiyu-Jiang" />
+    <edge source="NielsRogge" target="gretatuckute" />
+    <edge source="NielsRogge" target="mfuntowicz" />
+    <edge source="NielsRogge" target="garymm" />
+    <edge source="NielsRogge" target="pradeepdev-1995" />
+    <edge source="NielsRogge" target="fatcat-z" />
+    <edge source="NielsRogge" target="Rocketknight1" />
+    <edge source="garymm" target="fatcat-z" />
+    <edge source="garymm" target="mfuntowicz" />
+    <edge source="LysandreJik" target="sgugger" />
+    <edge source="LysandreJik" target="quantitative-technologies" />
+    <edge source="LysandreJik" target="Narsil" />
+    <edge source="LysandreJik" target="Hecim1984" />
+    <edge source="LysandreJik" target="xloem" />
+    <edge source="LysandreJik" target="Rocketknight1" />
+    <edge source="versae" target="stefan-it" />
+    <edge source="versae" target="Narsil" />
+    <edge source="versae" target="dennlinger" />
+    <edge source="versae" target="piegu" />
+    <edge source="fatcat-z" target="mfuntowicz" />
+    <edge source="m-wiesner" target="Hecim1984" />
+    <edge source="Rocketknight1" target="sgugger" />
+    <edge source="Rocketknight1" target="Hecim1984" />
+    <edge source="Rocketknight1" target="federicoruggeri" />
+    <edge source="anton-l" target="sgugger" />
+    <edge source="piegu" target="stefan-it" />
+    <edge source="piegu" target="Narsil" />
+    <edge source="piegu" target="dennlinger" />
+    <edge source="stefan-it" target="Narsil" />
+    <edge source="stefan-it" target="LukasStankevicius" />
+    <edge source="stefan-it" target="dennlinger" />
+    <edge source="sgugger" target="quantitative-technologies" />
+    <edge source="sgugger" target="stas00" />
+    <edge source="sgugger" target="Ryan-Qiyu-Jiang" />
+    <edge source="sgugger" target="Hecim1984" />
+    <edge source="Narsil" target="dennlinger" />
+    <edge source="Narsil" target="xloem" />
+    <edge source="qqaatw" target="kyle-bong" />
+    <edge source="samzabdiel" target="aqred1" />
+    <edge source="elishowk" target="julien-c" />
+    <edge source="elishowk" target="Embedding" />
+    <edge source="julien-c" target="Embedding" />
+  </graph>
+</graphml>

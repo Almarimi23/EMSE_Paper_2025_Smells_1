@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="simonnagl" />
+    <node id="ktsaou" />
+    <node id="netdatabot" />
+    <node id="cakrit" />
+    <node id="paulfantom" />
+    <node id="paulkatsoulakis" />
+    <node id="CLAassistant" />
+    <node id="gmosx" />
+    <node id="ilyam8" />
+    <node id="mullnerz" />
+    <node id="flippy1345" />
+    <node id="tctovsli" />
+    <node id="pschiffe" />
+    <node id="mfundul" />
+    <node id="kamcpp" />
+    <node id="thiagoftsm" />
+    <node id="elfgoh" />
+    <node id="infl00p" />
+    <node id="pinpox" />
+    <node id="Ferroin" />
+    <node id="RX14" />
+    <node id="vlvkobal" />
+    <edge source="simonnagl" target="ktsaou" />
+    <edge source="simonnagl" target="netdatabot" />
+    <edge source="simonnagl" target="cakrit" />
+    <edge source="simonnagl" target="paulfantom" />
+    <edge source="ktsaou" target="paulfantom" />
+    <edge source="ktsaou" target="cakrit" />
+    <edge source="ktsaou" target="netdatabot" />
+    <edge source="ktsaou" target="vlvkobal" />
+    <edge source="ktsaou" target="paulkatsoulakis" />
+    <edge source="ktsaou" target="mfundul" />
+    <edge source="ktsaou" target="CLAassistant" />
+    <edge source="ktsaou" target="gmosx" />
+    <edge source="ktsaou" target="ilyam8" />
+    <edge source="ktsaou" target="RX14" />
+    <edge source="netdatabot" target="paulfantom" />
+    <edge source="netdatabot" target="cakrit" />
+    <edge source="netdatabot" target="flippy1345" />
+    <edge source="netdatabot" target="vlvkobal" />
+    <edge source="netdatabot" target="paulkatsoulakis" />
+    <edge source="netdatabot" target="tctovsli" />
+    <edge source="netdatabot" target="pschiffe" />
+    <edge source="netdatabot" target="mfundul" />
+    <edge source="netdatabot" target="ilyam8" />
+    <edge source="netdatabot" target="kamcpp" />
+    <edge source="netdatabot" target="thiagoftsm" />
+    <edge source="netdatabot" target="elfgoh" />
+    <edge source="netdatabot" target="infl00p" />
+    <edge source="netdatabot" target="pinpox" />
+    <edge source="netdatabot" target="Ferroin" />
+    <edge source="netdatabot" target="CLAassistant" />
+    <edge source="netdatabot" target="gmosx" />
+    <edge source="netdatabot" target="mullnerz" />
+    <edge source="netdatabot" target="RX14" />
+    <edge source="cakrit" target="paulfantom" />
+    <edge source="cakrit" target="flippy1345" />
+    <edge source="cakrit" target="paulkatsoulakis" />
+    <edge source="cakrit" target="tctovsli" />
+    <edge source="cakrit" target="pschiffe" />
+    <edge source="cakrit" target="mfundul" />
+    <edge source="cakrit" target="ilyam8" />
+    <edge source="cakrit" target="kamcpp" />
+    <edge source="cakrit" target="thiagoftsm" />
+    <edge source="cakrit" target="elfgoh" />
+    <edge source="cakrit" target="infl00p" />
+    <edge source="cakrit" target="pinpox" />
+    <edge source="cakrit" target="Ferroin" />
+    <edge source="cakrit" target="CLAassistant" />
+    <edge source="cakrit" target="gmosx" />
+    <edge source="cakrit" target="RX14" />
+    <edge source="paulfantom" target="paulkatsoulakis" />
+    <edge source="paulfantom" target="CLAassistant" />
+    <edge source="paulfantom" target="gmosx" />
+    <edge source="paulfantom" target="ilyam8" />
+    <edge source="paulfantom" target="mullnerz" />
+    <edge source="paulkatsoulakis" target="CLAassistant" />
+    <edge source="CLAassistant" target="elfgoh" />
+    <edge source="CLAassistant" target="flippy1345" />
+    <edge source="CLAassistant" target="tctovsli" />
+    <edge source="CLAassistant" target="infl00p" />
+    <edge source="CLAassistant" target="pinpox" />
+    <edge source="CLAassistant" target="Ferroin" />
+    <edge source="CLAassistant" target="mullnerz" />
+    <edge source="gmosx" target="elfgoh" />
+    <edge source="gmosx" target="RX14" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="tctovsli" target="Ferroin" />
+    <edge source="pschiffe" target="kamcpp" />
+    <edge source="pschiffe" target="thiagoftsm" />
+    <edge source="kamcpp" target="thiagoftsm" />
+    <edge source="infl00p" target="pinpox" />
+  </graph>
+</graphml>

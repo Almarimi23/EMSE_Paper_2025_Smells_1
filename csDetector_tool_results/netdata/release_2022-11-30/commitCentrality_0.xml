@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="costa@netdata.cloud" />
+    <node id="bot@netdata.cloud" />
+    <node id="52996999+stelfrag@users.noreply.github.com" />
+    <node id="ilya@netdata.cloud" />
+    <node id="austin@netdata.cloud" />
+    <node id="dim.kouts88@gmail.com" />
+    <edge source="costa@netdata.cloud" target="bot@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="dim.kouts88@gmail.com" />
+    <edge source="bot@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="dim.kouts88@gmail.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="dim.kouts88@gmail.com" />
+    <edge source="ilya@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="dim.kouts88@gmail.com" />
+    <edge source="austin@netdata.cloud" target="dim.kouts88@gmail.com" />
+  </graph>
+</graphml>

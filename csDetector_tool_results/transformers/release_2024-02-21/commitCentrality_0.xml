@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="arthur.zucker@gmail.com" />
+    <node id="48595927+arthurzucker@users.noreply.github.com" />
+    <node id="andrei@panferov.org" />
+    <node id="49240599+younesbelkada@users.noreply.github.com" />
+    <node id="9808326+fxmarty@users.noreply.github.com" />
+    <node id="joaofranciscocardosogante@gmail.com" />
+    <node id="ekaterina.aidova@intel.com" />
+    <node id="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="arthur.zucker@gmail.com" target="48595927+arthurzucker@users.noreply.github.com" />
+    <edge source="arthur.zucker@gmail.com" target="andrei@panferov.org" />
+    <edge source="arthur.zucker@gmail.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="arthur.zucker@gmail.com" target="9808326+fxmarty@users.noreply.github.com" />
+    <edge source="arthur.zucker@gmail.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="arthur.zucker@gmail.com" target="ekaterina.aidova@intel.com" />
+    <edge source="arthur.zucker@gmail.com" target="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="48595927+arthurzucker@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="48595927+arthurzucker@users.noreply.github.com" target="9808326+fxmarty@users.noreply.github.com" />
+    <edge source="48595927+arthurzucker@users.noreply.github.com" target="ekaterina.aidova@intel.com" />
+    <edge source="48595927+arthurzucker@users.noreply.github.com" target="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="48595927+arthurzucker@users.noreply.github.com" target="andrei@panferov.org" />
+    <edge source="48595927+arthurzucker@users.noreply.github.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="andrei@panferov.org" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="andrei@panferov.org" target="9808326+fxmarty@users.noreply.github.com" />
+    <edge source="andrei@panferov.org" target="ekaterina.aidova@intel.com" />
+    <edge source="andrei@panferov.org" target="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="andrei@panferov.org" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="9808326+fxmarty@users.noreply.github.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="ekaterina.aidova@intel.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="9808326+fxmarty@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="9808326+fxmarty@users.noreply.github.com" target="ekaterina.aidova@intel.com" />
+    <edge source="9808326+fxmarty@users.noreply.github.com" target="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="joaofranciscocardosogante@gmail.com" target="ekaterina.aidova@intel.com" />
+    <edge source="joaofranciscocardosogante@gmail.com" target="22614925+amyeroberts@users.noreply.github.com" />
+    <edge source="ekaterina.aidova@intel.com" target="22614925+amyeroberts@users.noreply.github.com" />
+  </graph>
+</graphml>

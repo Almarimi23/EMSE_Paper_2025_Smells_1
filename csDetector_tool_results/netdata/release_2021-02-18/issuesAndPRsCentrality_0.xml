@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="odyslam" />
+    <node id="joelhans" />
+    <node id="ilyam8" />
+    <node id="ossimantylahti" />
+    <node id="kaskavel" />
+    <node id="thiagoftsm" />
+    <node id="manos-saratsis" />
+    <node id="CLAassistant" />
+    <node id="aabatangle" />
+    <node id="netdata-community-bot" />
+    <node id="mfundul" />
+    <node id="andrewm4894" />
+    <node id="vlvkobal" />
+    <node id="vkalintiris" />
+    <node id="knatsakis" />
+    <node id="stelfrag" />
+    <node id="Ferroin" />
+    <edge source="odyslam" target="joelhans" />
+    <edge source="odyslam" target="ilyam8" />
+    <edge source="joelhans" target="ossimantylahti" />
+    <edge source="joelhans" target="kaskavel" />
+    <edge source="joelhans" target="ilyam8" />
+    <edge source="joelhans" target="thiagoftsm" />
+    <edge source="joelhans" target="manos-saratsis" />
+    <edge source="joelhans" target="CLAassistant" />
+    <edge source="joelhans" target="aabatangle" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="kaskavel" />
+    <edge source="ilyam8" target="mfundul" />
+    <edge source="ilyam8" target="andrewm4894" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="ossimantylahti" />
+    <edge source="ilyam8" target="vlvkobal" />
+    <edge source="ilyam8" target="vkalintiris" />
+    <edge source="ilyam8" target="knatsakis" />
+    <edge source="ilyam8" target="stelfrag" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ossimantylahti" target="thiagoftsm" />
+    <edge source="ossimantylahti" target="CLAassistant" />
+    <edge source="thiagoftsm" target="knatsakis" />
+    <edge source="thiagoftsm" target="vlvkobal" />
+    <edge source="thiagoftsm" target="vkalintiris" />
+    <edge source="thiagoftsm" target="andrewm4894" />
+    <edge source="thiagoftsm" target="CLAassistant" />
+    <edge source="manos-saratsis" target="aabatangle" />
+    <edge source="netdata-community-bot" target="vlvkobal" />
+    <edge source="netdata-community-bot" target="andrewm4894" />
+    <edge source="mfundul" target="vlvkobal" />
+    <edge source="mfundul" target="stelfrag" />
+    <edge source="andrewm4894" target="vlvkobal" />
+    <edge source="vlvkobal" target="knatsakis" />
+    <edge source="vlvkobal" target="vkalintiris" />
+    <edge source="vlvkobal" target="stelfrag" />
+    <edge source="vkalintiris" target="knatsakis" />
+    <edge source="knatsakis" target="Ferroin" />
+  </graph>
+</graphml>

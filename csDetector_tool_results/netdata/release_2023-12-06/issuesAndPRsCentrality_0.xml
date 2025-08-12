@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="tkatsoulas" />
+    <node id="vkalintiris" />
+    <node id="ktsaou" />
+    <node id="stelfrag" />
+    <node id="thiagoftsm" />
+    <node id="Ferroin" />
+    <node id="ilyam8" />
+    <node id="MrZammler" />
+    <node id="k0ste" />
+    <edge source="tkatsoulas" target="vkalintiris" />
+    <edge source="tkatsoulas" target="ktsaou" />
+    <edge source="tkatsoulas" target="stelfrag" />
+    <edge source="tkatsoulas" target="thiagoftsm" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="ilyam8" />
+    <edge source="vkalintiris" target="stelfrag" />
+    <edge source="vkalintiris" target="MrZammler" />
+    <edge source="vkalintiris" target="ktsaou" />
+    <edge source="vkalintiris" target="thiagoftsm" />
+    <edge source="vkalintiris" target="ilyam8" />
+    <edge source="ktsaou" target="stelfrag" />
+    <edge source="ktsaou" target="ilyam8" />
+    <edge source="stelfrag" target="thiagoftsm" />
+    <edge source="stelfrag" target="ilyam8" />
+    <edge source="stelfrag" target="MrZammler" />
+    <edge source="thiagoftsm" target="MrZammler" />
+    <edge source="thiagoftsm" target="ilyam8" />
+    <edge source="Ferroin" target="ilyam8" />
+    <edge source="ilyam8" target="MrZammler" />
+    <edge source="ilyam8" target="k0ste" />
+  </graph>
+</graphml>

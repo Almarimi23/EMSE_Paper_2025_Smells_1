@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="thiagoftsm" />
+    <node id="Ancairon" />
+    <node id="CLAassistant" />
+    <node id="ktsaou" />
+    <node id="stelfrag" />
+    <node id="ilyam8" />
+    <node id="vkalintiris" />
+    <node id="k0ste" />
+    <node id="Ferroin" />
+    <node id="juacker" />
+    <node id="tkatsoulas" />
+    <node id="carrychair" />
+    <node id="Aliki92" />
+    <node id="PaulSzymanski" />
+    <node id="hugovalente-pm" />
+    <node id="netdatabot" />
+    <node id="pschaer" />
+    <node id="netdata-community-bot" />
+    <node id="luisj1983" />
+    <node id="rex4539" />
+    <node id="car12o" />
+    <node id="ralphm" />
+    <edge source="thiagoftsm" target="Ancairon" />
+    <edge source="thiagoftsm" target="CLAassistant" />
+    <edge source="thiagoftsm" target="ktsaou" />
+    <edge source="thiagoftsm" target="stelfrag" />
+    <edge source="thiagoftsm" target="ilyam8" />
+    <edge source="thiagoftsm" target="vkalintiris" />
+    <edge source="thiagoftsm" target="k0ste" />
+    <edge source="thiagoftsm" target="Ferroin" />
+    <edge source="Ancairon" target="ilyam8" />
+    <edge source="Ancairon" target="stelfrag" />
+    <edge source="Ancairon" target="vkalintiris" />
+    <edge source="Ancairon" target="ktsaou" />
+    <edge source="Ancairon" target="Ferroin" />
+    <edge source="Ancairon" target="tkatsoulas" />
+    <edge source="Ancairon" target="netdatabot" />
+    <edge source="Ancairon" target="carrychair" />
+    <edge source="Ancairon" target="luisj1983" />
+    <edge source="Ancairon" target="car12o" />
+    <edge source="Ancairon" target="CLAassistant" />
+    <edge source="Ancairon" target="hugovalente-pm" />
+    <edge source="CLAassistant" target="ilyam8" />
+    <edge source="CLAassistant" target="stelfrag" />
+    <edge source="CLAassistant" target="ktsaou" />
+    <edge source="CLAassistant" target="Ferroin" />
+    <edge source="CLAassistant" target="tkatsoulas" />
+    <edge source="CLAassistant" target="pschaer" />
+    <edge source="CLAassistant" target="carrychair" />
+    <edge source="CLAassistant" target="PaulSzymanski" />
+    <edge source="ktsaou" target="ilyam8" />
+    <edge source="ktsaou" target="stelfrag" />
+    <edge source="ktsaou" target="Ferroin" />
+    <edge source="stelfrag" target="ilyam8" />
+    <edge source="stelfrag" target="tkatsoulas" />
+    <edge source="stelfrag" target="netdatabot" />
+    <edge source="stelfrag" target="vkalintiris" />
+    <edge source="stelfrag" target="Ferroin" />
+    <edge source="ilyam8" target="juacker" />
+    <edge source="ilyam8" target="tkatsoulas" />
+    <edge source="ilyam8" target="carrychair" />
+    <edge source="ilyam8" target="k0ste" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="Aliki92" />
+    <edge source="ilyam8" target="PaulSzymanski" />
+    <edge source="ilyam8" target="hugovalente-pm" />
+    <edge source="ilyam8" target="netdatabot" />
+    <edge source="ilyam8" target="pschaer" />
+    <edge source="ilyam8" target="vkalintiris" />
+    <edge source="vkalintiris" target="tkatsoulas" />
+    <edge source="vkalintiris" target="Ferroin" />
+    <edge source="Ferroin" target="netdata-community-bot" />
+    <edge source="Ferroin" target="tkatsoulas" />
+    <edge source="Ferroin" target="PaulSzymanski" />
+    <edge source="Ferroin" target="netdatabot" />
+    <edge source="tkatsoulas" target="netdata-community-bot" />
+    <edge source="tkatsoulas" target="luisj1983" />
+    <edge source="tkatsoulas" target="rex4539" />
+    <edge source="tkatsoulas" target="PaulSzymanski" />
+    <edge source="tkatsoulas" target="netdatabot" />
+    <edge source="tkatsoulas" target="pschaer" />
+  </graph>
+</graphml>

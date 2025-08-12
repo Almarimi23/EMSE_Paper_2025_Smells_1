@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="prologic@shortcircuit.net.au" />
+    <node id="ilya@netdata.cloud" />
+    <node id="52996999+stelfrag@users.noreply.github.com" />
+    <node id="thenktor@users.noreply.github.com" />
+    <node id="joel@netdata.cloud" />
+    <node id="1043609+amoss@users.noreply.github.com" />
+    <node id="illumineitconsulting@outlook.com" />
+    <node id="vlad@prokk.net" />
+    <node id="bot@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="ilya@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="thenktor@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="joel@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="illumineitconsulting@outlook.com" />
+    <edge source="prologic@shortcircuit.net.au" target="vlad@prokk.net" />
+    <edge source="prologic@shortcircuit.net.au" target="bot@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="bot@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="vlad@prokk.net" />
+    <edge source="ilya@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="ilya@netdata.cloud" target="thenktor@users.noreply.github.com" />
+    <edge source="ilya@netdata.cloud" target="joel@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="illumineitconsulting@outlook.com" />
+    <edge source="ilya@netdata.cloud" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="illumineitconsulting@outlook.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="thenktor@users.noreply.github.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="thenktor@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="thenktor@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="thenktor@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="thenktor@users.noreply.github.com" target="illumineitconsulting@outlook.com" />
+    <edge source="thenktor@users.noreply.github.com" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="joel@netdata.cloud" target="bot@netdata.cloud" />
+    <edge source="joel@netdata.cloud" target="vlad@prokk.net" />
+    <edge source="joel@netdata.cloud" target="illumineitconsulting@outlook.com" />
+    <edge source="joel@netdata.cloud" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="illumineitconsulting@outlook.com" />
+    <edge source="illumineitconsulting@outlook.com" target="bot@netdata.cloud" />
+    <edge source="illumineitconsulting@outlook.com" target="vlad@prokk.net" />
+    <edge source="vlad@prokk.net" target="bot@netdata.cloud" />
+  </graph>
+</graphml>

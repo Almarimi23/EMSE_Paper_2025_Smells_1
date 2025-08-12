@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stas00@users.noreply.github.com" />
+    <node id="surajp815@gmail.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="mori@mi.t.u-tokyo.ac.jp" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="lysandre@huggingface.co" />
+    <node id="lsinev@users.noreply.github.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="julien@huggingface.co" />
+    <node id="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="surajp815@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="mori@mi.t.u-tokyo.ac.jp" />
+    <edge source="stas00@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="stas00@users.noreply.github.com" target="lsinev@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="stas00@users.noreply.github.com" target="julien@huggingface.co" />
+    <edge source="stas00@users.noreply.github.com" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="surajp815@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="surajp815@gmail.com" target="mori@mi.t.u-tokyo.ac.jp" />
+    <edge source="surajp815@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="surajp815@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="surajp815@gmail.com" target="lsinev@users.noreply.github.com" />
+    <edge source="surajp815@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="surajp815@gmail.com" target="julien@huggingface.co" />
+    <edge source="surajp815@gmail.com" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="julien@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lsinev@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="mori@mi.t.u-tokyo.ac.jp" />
+    <edge source="patrick.v.platen@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="mori@mi.t.u-tokyo.ac.jp" target="julien@huggingface.co" />
+    <edge source="mori@mi.t.u-tokyo.ac.jp" target="lysandre@huggingface.co" />
+    <edge source="mori@mi.t.u-tokyo.ac.jp" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="mori@mi.t.u-tokyo.ac.jp" target="lsinev@users.noreply.github.com" />
+    <edge source="mori@mi.t.u-tokyo.ac.jp" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="mori@mi.t.u-tokyo.ac.jp" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="julien@huggingface.co" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lsinev@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="lysandre@huggingface.co" target="julien@huggingface.co" />
+    <edge source="lysandre@huggingface.co" target="lsinev@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="lysandre@huggingface.co" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="lsinev@users.noreply.github.com" target="julien@huggingface.co" />
+    <edge source="lsinev@users.noreply.github.com" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="lsinev@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="julien@huggingface.co" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="35535358+pashok3d@users.noreply.github.com" />
+    <edge source="julien@huggingface.co" target="35535358+pashok3d@users.noreply.github.com" />
+  </graph>
+</graphml>

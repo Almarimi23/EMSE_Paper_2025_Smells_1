@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="shirayu" />
+    <node id="qqaatw" />
+    <node id="LysandreJik" />
+    <node id="sgugger" />
+    <node id="JetRunner" />
+    <node id="datquocnguyen" />
+    <node id="patil-suraj" />
+    <node id="patrickvonplaten" />
+    <node id="SaulLu" />
+    <node id="Rocketknight1" />
+    <node id="stas00" />
+    <node id="silviu-oprea" />
+    <edge source="qqaatw" target="LysandreJik" />
+    <edge source="qqaatw" target="sgugger" />
+    <edge source="qqaatw" target="JetRunner" />
+    <edge source="LysandreJik" target="JetRunner" />
+    <edge source="LysandreJik" target="datquocnguyen" />
+    <edge source="LysandreJik" target="patil-suraj" />
+    <edge source="LysandreJik" target="patrickvonplaten" />
+    <edge source="LysandreJik" target="SaulLu" />
+    <edge source="LysandreJik" target="sgugger" />
+    <edge source="sgugger" target="JetRunner" />
+    <edge source="sgugger" target="datquocnguyen" />
+    <edge source="sgugger" target="patil-suraj" />
+    <edge source="sgugger" target="Rocketknight1" />
+    <edge source="sgugger" target="stas00" />
+    <edge source="sgugger" target="patrickvonplaten" />
+    <edge source="sgugger" target="SaulLu" />
+    <edge source="datquocnguyen" target="patrickvonplaten" />
+    <edge source="datquocnguyen" target="SaulLu" />
+    <edge source="datquocnguyen" target="patil-suraj" />
+    <edge source="patil-suraj" target="patrickvonplaten" />
+    <edge source="patil-suraj" target="SaulLu" />
+    <edge source="patrickvonplaten" target="silviu-oprea" />
+    <edge source="patrickvonplaten" target="SaulLu" />
+  </graph>
+</graphml>

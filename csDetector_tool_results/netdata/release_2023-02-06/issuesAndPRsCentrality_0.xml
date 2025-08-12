@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="tkatsoulas" />
+    <node id="MrZammler" />
+    <node id="andrewm4894" />
+    <node id="ilyam8" />
+    <node id="juacker" />
+    <node id="Ferroin" />
+    <node id="Ancairon" />
+    <node id="ralphm" />
+    <node id="cakrit" />
+    <node id="Dim-P" />
+    <node id="thiagoftsm" />
+    <node id="sboisson" />
+    <node id="hugovalente-pm" />
+    <node id="iluvatar1" />
+    <node id="iorvd" />
+    <node id="Tommuh" />
+    <node id="chi-miel" />
+    <node id="stelfrag" />
+    <node id="underhood" />
+    <node id="cayenne17" />
+    <node id="Garahk" />
+    <node id="shyamvalsan" />
+    <node id="ktsaou" />
+    <node id="netdata-community-bot" />
+    <node id="Ukko-Ylijumala" />
+    <node id="christophidesp" />
+    <node id="sashwathn" />
+    <edge source="tkatsoulas" target="MrZammler" />
+    <edge source="tkatsoulas" target="andrewm4894" />
+    <edge source="tkatsoulas" target="ilyam8" />
+    <edge source="tkatsoulas" target="juacker" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="Ancairon" />
+    <edge source="tkatsoulas" target="ralphm" />
+    <edge source="tkatsoulas" target="cakrit" />
+    <edge source="tkatsoulas" target="Dim-P" />
+    <edge source="tkatsoulas" target="thiagoftsm" />
+    <edge source="tkatsoulas" target="sboisson" />
+    <edge source="tkatsoulas" target="hugovalente-pm" />
+    <edge source="tkatsoulas" target="iluvatar1" />
+    <edge source="MrZammler" target="Ferroin" />
+    <edge source="MrZammler" target="iorvd" />
+    <edge source="MrZammler" target="andrewm4894" />
+    <edge source="MrZammler" target="Tommuh" />
+    <edge source="MrZammler" target="ilyam8" />
+    <edge source="MrZammler" target="chi-miel" />
+    <edge source="MrZammler" target="cakrit" />
+    <edge source="MrZammler" target="Dim-P" />
+    <edge source="MrZammler" target="stelfrag" />
+    <edge source="MrZammler" target="thiagoftsm" />
+    <edge source="MrZammler" target="underhood" />
+    <edge source="MrZammler" target="iluvatar1" />
+    <edge source="andrewm4894" target="ilyam8" />
+    <edge source="andrewm4894" target="iorvd" />
+    <edge source="andrewm4894" target="thiagoftsm" />
+    <edge source="andrewm4894" target="cakrit" />
+    <edge source="andrewm4894" target="Dim-P" />
+    <edge source="andrewm4894" target="Ancairon" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="cayenne17" />
+    <edge source="ilyam8" target="chi-miel" />
+    <edge source="ilyam8" target="cakrit" />
+    <edge source="ilyam8" target="Garahk" />
+    <edge source="ilyam8" target="shyamvalsan" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="ilyam8" target="Dim-P" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="stelfrag" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="underhood" />
+    <edge source="ilyam8" target="Ukko-Ylijumala" />
+    <edge source="ilyam8" target="sboisson" />
+    <edge source="ilyam8" target="iluvatar1" />
+    <edge source="juacker" target="cakrit" />
+    <edge source="juacker" target="hugovalente-pm" />
+    <edge source="juacker" target="ralphm" />
+    <edge source="Ferroin" target="cakrit" />
+    <edge source="Ferroin" target="Dim-P" />
+    <edge source="Ferroin" target="thiagoftsm" />
+    <edge source="Ferroin" target="sboisson" />
+    <edge source="Ferroin" target="iluvatar1" />
+    <edge source="Ancairon" target="cakrit" />
+    <edge source="ralphm" target="cakrit" />
+    <edge source="ralphm" target="hugovalente-pm" />
+    <edge source="cakrit" target="iorvd" />
+    <edge source="cakrit" target="thiagoftsm" />
+    <edge source="cakrit" target="Dim-P" />
+    <edge source="cakrit" target="hugovalente-pm" />
+    <edge source="Dim-P" target="thiagoftsm" />
+    <edge source="Dim-P" target="shyamvalsan" />
+    <edge source="Dim-P" target="sashwathn" />
+    <edge source="Dim-P" target="underhood" />
+    <edge source="Dim-P" target="sboisson" />
+    <edge source="Dim-P" target="hugovalente-pm" />
+    <edge source="thiagoftsm" target="iorvd" />
+    <edge source="thiagoftsm" target="chi-miel" />
+    <edge source="thiagoftsm" target="shyamvalsan" />
+    <edge source="thiagoftsm" target="netdata-community-bot" />
+    <edge source="thiagoftsm" target="stelfrag" />
+    <edge source="thiagoftsm" target="underhood" />
+    <edge source="thiagoftsm" target="hugovalente-pm" />
+    <edge source="thiagoftsm" target="christophidesp" />
+    <edge source="hugovalente-pm" target="shyamvalsan" />
+    <edge source="hugovalente-pm" target="sashwathn" />
+    <edge source="hugovalente-pm" target="christophidesp" />
+    <edge source="Tommuh" target="stelfrag" />
+    <edge source="stelfrag" target="ktsaou" />
+    <edge source="stelfrag" target="netdata-community-bot" />
+    <edge source="shyamvalsan" target="sashwathn" />
+    <edge source="ktsaou" target="netdata-community-bot" />
+  </graph>
+</graphml>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="lysandre@huggingface.co" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="pistasable@gmail.com" />
+    <node id="stas00@users.noreply.github.com" />
+    <node id="sylvain.gugger@gmail.com" />
+    <node id="surajp815@gmail.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="mansmane@amazon.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="pistasable@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="sylvain.gugger@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="surajp815@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patrick.v.platen@gmail.com" target="mansmane@amazon.com" />
+    <edge source="lysandre@huggingface.co" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="pistasable@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="stas00@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="sylvain.gugger@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="surajp815@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="lysandre@huggingface.co" target="mansmane@amazon.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="pistasable@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="sylvain.gugger@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="surajp815@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="mansmane@amazon.com" />
+    <edge source="pistasable@gmail.com" target="surajp815@gmail.com" />
+    <edge source="pistasable@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="pistasable@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="pistasable@gmail.com" target="sylvain.gugger@gmail.com" />
+    <edge source="pistasable@gmail.com" target="mansmane@amazon.com" />
+    <edge source="stas00@users.noreply.github.com" target="surajp815@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="stas00@users.noreply.github.com" target="sylvain.gugger@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="mansmane@amazon.com" />
+    <edge source="sylvain.gugger@gmail.com" target="surajp815@gmail.com" />
+    <edge source="sylvain.gugger@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="sylvain.gugger@gmail.com" target="mansmane@amazon.com" />
+    <edge source="surajp815@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="surajp815@gmail.com" target="mansmane@amazon.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="mansmane@amazon.com" />
+  </graph>
+</graphml>

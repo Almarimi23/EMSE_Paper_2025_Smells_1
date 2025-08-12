@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ja5087" />
+    <node id="HuggingFaceDocBuilderDev" />
+    <node id="sgugger" />
+    <node id="daspartho" />
+    <node id="Narsil" />
+    <node id="wlhgtc" />
+    <node id="gante" />
+    <node id="LysandreJik" />
+    <node id="sanchit-gandhi" />
+    <node id="ArthurZucker" />
+    <node id="mishig25" />
+    <node id="NielsRogge" />
+    <node id="r-terada" />
+    <node id="Rocketknight1" />
+    <node id="flozi00" />
+    <node id="xyh1756" />
+    <node id="SaulLu" />
+    <node id="stas00" />
+    <node id="lewtun" />
+    <node id="younesbelkada" />
+    <node id="ydshieh" />
+    <node id="ankrgyl" />
+    <node id="abdouaziz" />
+    <node id="michaelbenayoun" />
+    <edge source="ja5087" target="HuggingFaceDocBuilderDev" />
+    <edge source="HuggingFaceDocBuilderDev" target="sgugger" />
+    <edge source="HuggingFaceDocBuilderDev" target="daspartho" />
+    <edge source="HuggingFaceDocBuilderDev" target="Narsil" />
+    <edge source="HuggingFaceDocBuilderDev" target="wlhgtc" />
+    <edge source="HuggingFaceDocBuilderDev" target="gante" />
+    <edge source="HuggingFaceDocBuilderDev" target="LysandreJik" />
+    <edge source="HuggingFaceDocBuilderDev" target="sanchit-gandhi" />
+    <edge source="HuggingFaceDocBuilderDev" target="ArthurZucker" />
+    <edge source="HuggingFaceDocBuilderDev" target="mishig25" />
+    <edge source="HuggingFaceDocBuilderDev" target="NielsRogge" />
+    <edge source="HuggingFaceDocBuilderDev" target="r-terada" />
+    <edge source="HuggingFaceDocBuilderDev" target="Rocketknight1" />
+    <edge source="HuggingFaceDocBuilderDev" target="flozi00" />
+    <edge source="HuggingFaceDocBuilderDev" target="xyh1756" />
+    <edge source="HuggingFaceDocBuilderDev" target="SaulLu" />
+    <edge source="HuggingFaceDocBuilderDev" target="stas00" />
+    <edge source="HuggingFaceDocBuilderDev" target="lewtun" />
+    <edge source="HuggingFaceDocBuilderDev" target="younesbelkada" />
+    <edge source="HuggingFaceDocBuilderDev" target="ydshieh" />
+    <edge source="HuggingFaceDocBuilderDev" target="ankrgyl" />
+    <edge source="HuggingFaceDocBuilderDev" target="abdouaziz" />
+    <edge source="HuggingFaceDocBuilderDev" target="michaelbenayoun" />
+    <edge source="sgugger" target="ydshieh" />
+    <edge source="sgugger" target="Narsil" />
+    <edge source="sgugger" target="flozi00" />
+    <edge source="sgugger" target="xyh1756" />
+    <edge source="sgugger" target="SaulLu" />
+    <edge source="sgugger" target="wlhgtc" />
+    <edge source="sgugger" target="gante" />
+    <edge source="sgugger" target="LysandreJik" />
+    <edge source="sgugger" target="stas00" />
+    <edge source="sgugger" target="lewtun" />
+    <edge source="sgugger" target="ankrgyl" />
+    <edge source="sgugger" target="ArthurZucker" />
+    <edge source="sgugger" target="mishig25" />
+    <edge source="sgugger" target="NielsRogge" />
+    <edge source="sgugger" target="r-terada" />
+    <edge source="sgugger" target="michaelbenayoun" />
+    <edge source="sgugger" target="Rocketknight1" />
+    <edge source="daspartho" target="Rocketknight1" />
+    <edge source="Narsil" target="ydshieh" />
+    <edge source="wlhgtc" target="xyh1756" />
+    <edge source="gante" target="ydshieh" />
+    <edge source="gante" target="Rocketknight1" />
+    <edge source="LysandreJik" target="ydshieh" />
+    <edge source="LysandreJik" target="Rocketknight1" />
+    <edge source="sanchit-gandhi" target="abdouaziz" />
+    <edge source="ArthurZucker" target="SaulLu" />
+    <edge source="NielsRogge" target="ankrgyl" />
+    <edge source="NielsRogge" target="stas00" />
+    <edge source="NielsRogge" target="younesbelkada" />
+    <edge source="stas00" target="ydshieh" />
+    <edge source="stas00" target="younesbelkada" />
+  </graph>
+</graphml>

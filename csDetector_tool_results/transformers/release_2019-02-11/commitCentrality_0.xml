@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="thomwolf@gmail.com" />
+    <node id="niuliang3@gmail.com" />
+    <node id="thomwolf@users.noreply.github.com" />
+    <edge source="thomwolf@gmail.com" target="niuliang3@gmail.com" />
+    <edge source="thomwolf@gmail.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="niuliang3@gmail.com" target="thomwolf@users.noreply.github.com" />
+  </graph>
+</graphml>

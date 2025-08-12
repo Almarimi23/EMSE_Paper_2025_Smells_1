@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="renovamenzxh@gmail.com" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="rocketknight1@users.noreply.github.com" />
+    <node id="sylvain.gugger@gmail.com" />
+    <edge source="renovamenzxh@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="renovamenzxh@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="renovamenzxh@gmail.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="renovamenzxh@gmail.com" target="sylvain.gugger@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="sylvain.gugger@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="rocketknight1@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="sylvain.gugger@gmail.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="sylvain.gugger@gmail.com" />
+  </graph>
+</graphml>

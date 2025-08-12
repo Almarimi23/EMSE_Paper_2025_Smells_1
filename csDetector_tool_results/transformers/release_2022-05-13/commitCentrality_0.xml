@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="rzimmerdev@gmail.com" />
+    <node id="gerardohuerta1705@gmail.com" />
+    <node id="49240599+younesbelkada@users.noreply.github.com" />
+    <node id="ignaciotalaveracepeda@gmail.com" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="2521628+ydshieh@users.noreply.github.com" />
+    <node id="81062614+fellip15@users.noreply.github.com" />
+    <edge source="rzimmerdev@gmail.com" target="gerardohuerta1705@gmail.com" />
+    <edge source="rzimmerdev@gmail.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="rzimmerdev@gmail.com" target="ignaciotalaveracepeda@gmail.com" />
+    <edge source="rzimmerdev@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="rzimmerdev@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="rzimmerdev@gmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="rzimmerdev@gmail.com" target="81062614+fellip15@users.noreply.github.com" />
+    <edge source="gerardohuerta1705@gmail.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="gerardohuerta1705@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="gerardohuerta1705@gmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="gerardohuerta1705@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="gerardohuerta1705@gmail.com" target="81062614+fellip15@users.noreply.github.com" />
+    <edge source="gerardohuerta1705@gmail.com" target="ignaciotalaveracepeda@gmail.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="ignaciotalaveracepeda@gmail.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="81062614+fellip15@users.noreply.github.com" />
+    <edge source="ignaciotalaveracepeda@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="ignaciotalaveracepeda@gmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="ignaciotalaveracepeda@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="ignaciotalaveracepeda@gmail.com" target="81062614+fellip15@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="81062614+fellip15@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="81062614+fellip15@users.noreply.github.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="81062614+fellip15@users.noreply.github.com" />
+  </graph>
+</graphml>

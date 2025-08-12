@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="thomwolf" />
+    <node id="xelibrion" />
+    <node id="joelgrus" />
+    <node id="xiaoda99" />
+    <node id="weiyumou" />
+    <node id="artemisart" />
+    <edge source="thomwolf" target="xelibrion" />
+    <edge source="thomwolf" target="joelgrus" />
+    <edge source="thomwolf" target="xiaoda99" />
+    <edge source="thomwolf" target="weiyumou" />
+    <edge source="thomwolf" target="artemisart" />
+    <edge source="xelibrion" target="xiaoda99" />
+    <edge source="xelibrion" target="artemisart" />
+    <edge source="xiaoda99" target="artemisart" />
+  </graph>
+</graphml>

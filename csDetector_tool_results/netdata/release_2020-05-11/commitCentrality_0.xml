@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="1043609+amoss@users.noreply.github.com" />
+    <node id="bot@netdata.cloud" />
+    <node id="44345837+mfundul@users.noreply.github.com" />
+    <node id="prologic@shortcircuit.net.au" />
+    <node id="joel@netdata.cloud" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="prologic@shortcircuit.net.au" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="prologic@shortcircuit.net.au" />
+    <edge source="bot@netdata.cloud" target="joel@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="prologic@shortcircuit.net.au" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="joel@netdata.cloud" />
+  </graph>
+</graphml>

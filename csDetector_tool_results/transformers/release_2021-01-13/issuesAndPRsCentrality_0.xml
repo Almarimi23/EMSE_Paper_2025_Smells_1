@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stas00" />
+    <node id="Narsil" />
+    <node id="jncasey" />
+    <node id="sgugger" />
+    <node id="LysandreJik" />
+    <node id="jordiae" />
+    <node id="patrickvonplaten" />
+    <node id="stancld" />
+    <node id="ethch18" />
+    <node id="thomwolf" />
+    <node id="jplu" />
+    <node id="NielsRogge" />
+    <node id="mkserge" />
+    <node id="sednaasil" />
+    <node id="LSinev" />
+    <node id="CMobley7" />
+    <node id="pashok3d" />
+    <node id="cheop-byeon" />
+    <node id="widerspruchs" />
+    <node id="miketrimmel" />
+    <node id="Zessay" />
+    <node id="patil-suraj" />
+    <node id="marcoabrate" />
+    <node id="julien-c" />
+    <node id="sersoage" />
+    <node id="JetRunner" />
+    <node id="rodrigoheck" />
+    <edge source="stas00" target="Narsil" />
+    <edge source="stas00" target="jncasey" />
+    <edge source="stas00" target="sgugger" />
+    <edge source="stas00" target="LysandreJik" />
+    <edge source="stas00" target="jordiae" />
+    <edge source="Narsil" target="jordiae" />
+    <edge source="jncasey" target="sgugger" />
+    <edge source="sgugger" target="LysandreJik" />
+    <edge source="sgugger" target="patrickvonplaten" />
+    <edge source="sgugger" target="CMobley7" />
+    <edge source="sgugger" target="stancld" />
+    <edge source="sgugger" target="jplu" />
+    <edge source="sgugger" target="pashok3d" />
+    <edge source="sgugger" target="LSinev" />
+    <edge source="LysandreJik" target="patrickvonplaten" />
+    <edge source="LysandreJik" target="stancld" />
+    <edge source="LysandreJik" target="ethch18" />
+    <edge source="LysandreJik" target="thomwolf" />
+    <edge source="LysandreJik" target="jplu" />
+    <edge source="LysandreJik" target="NielsRogge" />
+    <edge source="LysandreJik" target="mkserge" />
+    <edge source="LysandreJik" target="sednaasil" />
+    <edge source="LysandreJik" target="LSinev" />
+    <edge source="patrickvonplaten" target="LSinev" />
+    <edge source="patrickvonplaten" target="cheop-byeon" />
+    <edge source="patrickvonplaten" target="stancld" />
+    <edge source="patrickvonplaten" target="jplu" />
+    <edge source="jplu" target="widerspruchs" />
+    <edge source="NielsRogge" target="sednaasil" />
+    <edge source="NielsRogge" target="miketrimmel" />
+    <edge source="patil-suraj" target="marcoabrate" />
+    <edge source="julien-c" target="sersoage" />
+    <edge source="julien-c" target="JetRunner" />
+    <edge source="julien-c" target="rodrigoheck" />
+    <edge source="sersoage" target="JetRunner" />
+    <edge source="sersoage" target="rodrigoheck" />
+    <edge source="JetRunner" target="rodrigoheck" />
+  </graph>
+</graphml>

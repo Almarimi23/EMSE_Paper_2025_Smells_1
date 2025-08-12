@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Joshuaclymer" />
+    <node id="sgugger" />
+    <node id="gante" />
+    <node id="blucz" />
+    <node id="Taytay" />
+    <node id="idisuu" />
+    <node id="murthyrudra" />
+    <node id="Oxi84" />
+    <node id="amyeroberts" />
+    <node id="gmlwns2000" />
+    <node id="ydshieh" />
+    <node id="XingyuZhu-Pamela" />
+    <node id="sanchit-gandhi" />
+    <node id="Hertin" />
+    <node id="xingener" />
+    <node id="sniperyyc" />
+    <node id="ArthurZucker" />
+    <node id="younesbelkada" />
+    <edge source="Joshuaclymer" target="sgugger" />
+    <edge source="gante" target="blucz" />
+    <edge source="gante" target="Taytay" />
+    <edge source="gante" target="idisuu" />
+    <edge source="gante" target="murthyrudra" />
+    <edge source="gante" target="Oxi84" />
+    <edge source="gante" target="amyeroberts" />
+    <edge source="blucz" target="murthyrudra" />
+    <edge source="Oxi84" target="amyeroberts" />
+    <edge source="amyeroberts" target="ydshieh" />
+    <edge source="amyeroberts" target="XingyuZhu-Pamela" />
+    <edge source="amyeroberts" target="sanchit-gandhi" />
+    <edge source="amyeroberts" target="Hertin" />
+    <edge source="amyeroberts" target="xingener" />
+    <edge source="ydshieh" target="XingyuZhu-Pamela" />
+    <edge source="sanchit-gandhi" target="Hertin" />
+    <edge source="sniperyyc" target="ArthurZucker" />
+    <edge source="sniperyyc" target="younesbelkada" />
+    <edge source="ArthurZucker" target="younesbelkada" />
+  </graph>
+</graphml>

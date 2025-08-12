@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="bot@netdata.cloud" />
+    <node id="43409846+netdatabot@users.noreply.github.com" />
+    <node id="ilya@netdata.cloud" />
+    <node id="52996999+stelfrag@users.noreply.github.com" />
+    <node id="mrzammler@mm.st" />
+    <node id="costa@netdata.cloud" />
+    <node id="austin@netdata.cloud" />
+    <node id="fotis@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="mrzammler@mm.st" />
+    <edge source="bot@netdata.cloud" target="costa@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="fotis@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="fotis@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="costa@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="mrzammler@mm.st" />
+    <edge source="ilya@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="ilya@netdata.cloud" target="fotis@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="costa@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="mrzammler@mm.st" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="mrzammler@mm.st" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="costa@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="fotis@netdata.cloud" />
+    <edge source="mrzammler@mm.st" target="austin@netdata.cloud" />
+    <edge source="mrzammler@mm.st" target="fotis@netdata.cloud" />
+    <edge source="mrzammler@mm.st" target="costa@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="fotis@netdata.cloud" />
+    <edge source="austin@netdata.cloud" target="fotis@netdata.cloud" />
+  </graph>
+</graphml>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="shyamvalsan" />
+    <node id="ilyam8" />
+    <node id="thiagoftsm" />
+    <node id="MrZammler" />
+    <node id="netdata-community-bot" />
+    <node id="chi-miel" />
+    <node id="hugovalente-pm" />
+    <node id="christophidesp" />
+    <node id="sboisson" />
+    <node id="tkatsoulas" />
+    <node id="Ferroin" />
+    <node id="Dim-P" />
+    <node id="iluvatar1" />
+    <node id="cayenne17" />
+    <node id="Garahk" />
+    <node id="Ukko-Ylijumala" />
+    <node id="Tommuh" />
+    <node id="stelfrag" />
+    <edge source="shyamvalsan" target="ilyam8" />
+    <edge source="shyamvalsan" target="thiagoftsm" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="sboisson" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="Dim-P" />
+    <edge source="ilyam8" target="tkatsoulas" />
+    <edge source="ilyam8" target="MrZammler" />
+    <edge source="ilyam8" target="cayenne17" />
+    <edge source="ilyam8" target="chi-miel" />
+    <edge source="ilyam8" target="Garahk" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="Ukko-Ylijumala" />
+    <edge source="ilyam8" target="iluvatar1" />
+    <edge source="thiagoftsm" target="MrZammler" />
+    <edge source="thiagoftsm" target="netdata-community-bot" />
+    <edge source="thiagoftsm" target="chi-miel" />
+    <edge source="thiagoftsm" target="hugovalente-pm" />
+    <edge source="thiagoftsm" target="christophidesp" />
+    <edge source="MrZammler" target="Ferroin" />
+    <edge source="MrZammler" target="tkatsoulas" />
+    <edge source="MrZammler" target="Tommuh" />
+    <edge source="MrZammler" target="stelfrag" />
+    <edge source="MrZammler" target="chi-miel" />
+    <edge source="MrZammler" target="iluvatar1" />
+    <edge source="hugovalente-pm" target="christophidesp" />
+    <edge source="sboisson" target="tkatsoulas" />
+    <edge source="sboisson" target="Ferroin" />
+    <edge source="sboisson" target="Dim-P" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="Dim-P" />
+    <edge source="tkatsoulas" target="iluvatar1" />
+    <edge source="Ferroin" target="Dim-P" />
+    <edge source="Ferroin" target="iluvatar1" />
+    <edge source="Tommuh" target="stelfrag" />
+  </graph>
+</graphml>

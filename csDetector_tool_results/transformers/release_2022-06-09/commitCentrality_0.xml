@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="amy@huggingface.co" />
+    <node id="stas00@users.noreply.github.com" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="patry.nicolas@protonmail.com" />
+    <node id="15324346+regisss@users.noreply.github.com" />
+    <node id="49240599+younesbelkada@users.noreply.github.com" />
+    <node id="2521628+ydshieh@users.noreply.github.com" />
+    <node id="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="amy@huggingface.co" target="stas00@users.noreply.github.com" />
+    <edge source="amy@huggingface.co" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="amy@huggingface.co" target="patry.nicolas@protonmail.com" />
+    <edge source="amy@huggingface.co" target="15324346+regisss@users.noreply.github.com" />
+    <edge source="amy@huggingface.co" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="amy@huggingface.co" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="amy@huggingface.co" target="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="15324346+regisss@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="patry.nicolas@protonmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="15324346+regisss@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="patry.nicolas@protonmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="patry.nicolas@protonmail.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="patry.nicolas@protonmail.com" target="15324346+regisss@users.noreply.github.com" />
+    <edge source="patry.nicolas@protonmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="patry.nicolas@protonmail.com" target="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="15324346+regisss@users.noreply.github.com" target="49240599+younesbelkada@users.noreply.github.com" />
+    <edge source="15324346+regisss@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="15324346+regisss@users.noreply.github.com" target="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="49240599+younesbelkada@users.noreply.github.com" target="43734688+sam-h-bean@users.noreply.github.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="43734688+sam-h-bean@users.noreply.github.com" />
+  </graph>
+</graphml>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="33579638+nishprabhu@users.noreply.github.com" />
+    <node id="qqaatw@gmail.com" />
+    <node id="sylvain.gugger@gmail.com" />
+    <node id="surajp815@gmail.com" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="rocketknight1@users.noreply.github.com" />
+    <node id="stas00@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="33579638+nishprabhu@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="qqaatw@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="sylvain.gugger@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="surajp815@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="33579638+nishprabhu@users.noreply.github.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="33579638+nishprabhu@users.noreply.github.com" target="qqaatw@gmail.com" />
+    <edge source="33579638+nishprabhu@users.noreply.github.com" target="sylvain.gugger@gmail.com" />
+    <edge source="33579638+nishprabhu@users.noreply.github.com" target="surajp815@gmail.com" />
+    <edge source="33579638+nishprabhu@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="33579638+nishprabhu@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="qqaatw@gmail.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="qqaatw@gmail.com" target="sylvain.gugger@gmail.com" />
+    <edge source="qqaatw@gmail.com" target="surajp815@gmail.com" />
+    <edge source="qqaatw@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="qqaatw@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="surajp815@gmail.com" />
+    <edge source="sylvain.gugger@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="surajp815@gmail.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="surajp815@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="surajp815@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+  </graph>
+</graphml>

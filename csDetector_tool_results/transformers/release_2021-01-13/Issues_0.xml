@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="mkserge" />
+    <node id="LysandreJik" />
+    <node id="NielsRogge" />
+    <node id="ethch18" />
+    <node id="thomwolf" />
+    <node id="sednaasil" />
+    <node id="miketrimmel" />
+    <node id="Zessay" />
+    <node id="Narsil" />
+    <node id="stas00" />
+    <node id="jordiae" />
+    <node id="jncasey" />
+    <node id="sgugger" />
+    <node id="patil-suraj" />
+    <node id="marcoabrate" />
+    <node id="patrickvonplaten" />
+    <node id="cheop-byeon" />
+    <node id="jplu" />
+    <node id="widerspruchs" />
+    <node id="julien-c" />
+    <node id="sersoage" />
+    <node id="JetRunner" />
+    <node id="rodrigoheck" />
+    <node id="CMobley7" />
+    <edge source="mkserge" target="LysandreJik" />
+    <edge source="LysandreJik" target="NielsRogge" />
+    <edge source="LysandreJik" target="ethch18" />
+    <edge source="LysandreJik" target="thomwolf" />
+    <edge source="LysandreJik" target="sednaasil" />
+    <edge source="NielsRogge" target="sednaasil" />
+    <edge source="NielsRogge" target="miketrimmel" />
+    <edge source="Narsil" target="stas00" />
+    <edge source="Narsil" target="jordiae" />
+    <edge source="stas00" target="jordiae" />
+    <edge source="stas00" target="jncasey" />
+    <edge source="stas00" target="sgugger" />
+    <edge source="jncasey" target="sgugger" />
+    <edge source="sgugger" target="CMobley7" />
+    <edge source="patil-suraj" target="marcoabrate" />
+    <edge source="patrickvonplaten" target="cheop-byeon" />
+    <edge source="jplu" target="widerspruchs" />
+    <edge source="julien-c" target="sersoage" />
+    <edge source="julien-c" target="JetRunner" />
+    <edge source="julien-c" target="rodrigoheck" />
+    <edge source="sersoage" target="JetRunner" />
+    <edge source="sersoage" target="rodrigoheck" />
+    <edge source="JetRunner" target="rodrigoheck" />
+  </graph>
+</graphml>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stas00" />
+    <node id="patrickvonplaten" />
+    <node id="HeroadZ" />
+    <node id="sgugger" />
+    <node id="LysandreJik" />
+    <node id="patil-suraj" />
+    <node id="cchen-dialpad" />
+    <node id="julien-c" />
+    <node id="mansimane" />
+    <node id="philschmid" />
+    <node id="mfuntowicz" />
+    <edge source="stas00" target="patrickvonplaten" />
+    <edge source="stas00" target="HeroadZ" />
+    <edge source="stas00" target="sgugger" />
+    <edge source="stas00" target="LysandreJik" />
+    <edge source="patrickvonplaten" target="patil-suraj" />
+    <edge source="patrickvonplaten" target="HeroadZ" />
+    <edge source="patrickvonplaten" target="sgugger" />
+    <edge source="patrickvonplaten" target="LysandreJik" />
+    <edge source="HeroadZ" target="sgugger" />
+    <edge source="sgugger" target="cchen-dialpad" />
+    <edge source="sgugger" target="julien-c" />
+    <edge source="sgugger" target="mansimane" />
+    <edge source="sgugger" target="philschmid" />
+    <edge source="sgugger" target="mfuntowicz" />
+    <edge source="sgugger" target="LysandreJik" />
+    <edge source="LysandreJik" target="patil-suraj" />
+    <edge source="LysandreJik" target="cchen-dialpad" />
+    <edge source="LysandreJik" target="julien-c" />
+    <edge source="LysandreJik" target="mansimane" />
+    <edge source="LysandreJik" target="philschmid" />
+    <edge source="mansimane" target="philschmid" />
+  </graph>
+</graphml>

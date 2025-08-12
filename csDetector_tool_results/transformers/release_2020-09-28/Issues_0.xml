@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="sshleifer" />
+    <node id="Sun694" />
+    <node id="julien-c" />
+    <node id="AmirAktify" />
+    <node id="salimmj" />
+    <node id="GarrettLee" />
+    <node id="baiziyuandyufei" />
+    <node id="sgugger" />
+    <node id="nhsjgczryf" />
+    <node id="thomwolf" />
+    <node id="peastman" />
+    <node id="mfuntowicz" />
+    <node id="pinakimishra95" />
+    <node id="patrickvonplaten" />
+    <node id="LysandreJik" />
+    <node id="ucas010" />
+    <node id="naturecreator" />
+    <node id="rxlian" />
+    <node id="enricoros" />
+    <node id="kliuPIDS" />
+    <edge source="sshleifer" target="Sun694" />
+    <edge source="julien-c" target="AmirAktify" />
+    <edge source="julien-c" target="salimmj" />
+    <edge source="AmirAktify" target="salimmj" />
+    <edge source="baiziyuandyufei" target="sgugger" />
+    <edge source="sgugger" target="nhsjgczryf" />
+    <edge source="sgugger" target="thomwolf" />
+    <edge source="sgugger" target="peastman" />
+    <edge source="nhsjgczryf" target="peastman" />
+    <edge source="nhsjgczryf" target="thomwolf" />
+    <edge source="thomwolf" target="peastman" />
+    <edge source="mfuntowicz" target="pinakimishra95" />
+    <edge source="LysandreJik" target="ucas010" />
+    <edge source="LysandreJik" target="naturecreator" />
+    <edge source="LysandreJik" target="rxlian" />
+    <edge source="ucas010" target="naturecreator" />
+    <edge source="enricoros" target="kliuPIDS" />
+  </graph>
+</graphml>

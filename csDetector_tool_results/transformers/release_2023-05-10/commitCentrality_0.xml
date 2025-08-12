@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="2521628+ydshieh@users.noreply.github.com" />
+    <node id="93319775+jose-turintech@users.noreply.github.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="kafooster@gmail.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="93319775+jose-turintech@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="kafooster@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="kafooster@gmail.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="93319775+jose-turintech@users.noreply.github.com" />
+    <edge source="93319775+jose-turintech@users.noreply.github.com" target="kafooster@gmail.com" />
+    <edge source="93319775+jose-turintech@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="93319775+jose-turintech@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patrick.v.platen@gmail.com" target="kafooster@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="kafooster@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+  </graph>
+</graphml>

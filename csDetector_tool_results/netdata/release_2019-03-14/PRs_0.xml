@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ilyam8" />
+    <node id="huww98" />
+    <node id="Ferroin" />
+    <node id="anht10" />
+    <node id="ekartsonakis" />
+    <node id="cakrit" />
+    <node id="paulkatsoulakis" />
+    <node id="vlvkobal" />
+    <node id="pinpox" />
+    <node id="matiasdelellis" />
+    <node id="Steve8291" />
+    <node id="mmokhi" />
+    <node id="netdatabot" />
+    <node id="CLAassistant" />
+    <node id="okias" />
+    <node id="spinitron" />
+    <node id="hsegnitz" />
+    <node id="infl00p" />
+    <node id="anayrat" />
+    <node id="DenLilleMand" />
+    <node id="wolph" />
+    <node id="ktsaou" />
+    <node id="andvgal" />
+    <node id="skrzyp1" />
+    <node id="mfundul" />
+    <node id="irvintim" />
+    <node id="gmosx" />
+    <node id="netdata-community-bot" />
+    <node id="GNSubrahmanyam" />
+    <node id="paulfantom" />
+    <node id="muizzk" />
+    <node id="johlandabee" />
+    <node id="thiagoftsm" />
+    <node id="ntimo" />
+    <node id="archisgore" />
+    <node id="archis-polyverse" />
+    <node id="VLegakis" />
+    <node id="honzahommer" />
+    <node id="vinyasmusic" />
+    <node id="nichivo" />
+    <edge source="ilyam8" target="huww98" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="anht10" />
+    <edge source="ilyam8" target="ekartsonakis" />
+    <edge source="ilyam8" target="cakrit" />
+    <edge source="ilyam8" target="paulkatsoulakis" />
+    <edge source="ilyam8" target="vlvkobal" />
+    <edge source="ilyam8" target="pinpox" />
+    <edge source="ilyam8" target="matiasdelellis" />
+    <edge source="ilyam8" target="Steve8291" />
+    <edge source="ilyam8" target="mmokhi" />
+    <edge source="ilyam8" target="netdatabot" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="okias" />
+    <edge source="ilyam8" target="spinitron" />
+    <edge source="ilyam8" target="hsegnitz" />
+    <edge source="ilyam8" target="infl00p" />
+    <edge source="ilyam8" target="anayrat" />
+    <edge source="ilyam8" target="DenLilleMand" />
+    <edge source="ilyam8" target="wolph" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="ilyam8" target="andvgal" />
+    <edge source="huww98" target="netdatabot" />
+    <edge source="huww98" target="CLAassistant" />
+    <edge source="Ferroin" target="netdatabot" />
+    <edge source="Ferroin" target="paulkatsoulakis" />
+    <edge source="Ferroin" target="cakrit" />
+    <edge source="Ferroin" target="ktsaou" />
+    <edge source="Ferroin" target="CLAassistant" />
+    <edge source="Ferroin" target="okias" />
+    <edge source="Ferroin" target="pinpox" />
+    <edge source="Ferroin" target="infl00p" />
+    <edge source="Ferroin" target="andvgal" />
+    <edge source="anht10" target="netdatabot" />
+    <edge source="anht10" target="cakrit" />
+    <edge source="anht10" target="CLAassistant" />
+    <edge source="ekartsonakis" target="netdatabot" />
+    <edge source="ekartsonakis" target="CLAassistant" />
+    <edge source="cakrit" target="vlvkobal" />
+    <edge source="cakrit" target="netdatabot" />
+    <edge source="cakrit" target="paulfantom" />
+    <edge source="cakrit" target="paulkatsoulakis" />
+    <edge source="cakrit" target="GNSubrahmanyam" />
+    <edge source="cakrit" target="pinpox" />
+    <edge source="cakrit" target="johlandabee" />
+    <edge source="cakrit" target="thiagoftsm" />
+    <edge source="cakrit" target="mfundul" />
+    <edge source="cakrit" target="ntimo" />
+    <edge source="cakrit" target="irvintim" />
+    <edge source="cakrit" target="CLAassistant" />
+    <edge source="cakrit" target="okias" />
+    <edge source="cakrit" target="VLegakis" />
+    <edge source="cakrit" target="spinitron" />
+    <edge source="cakrit" target="infl00p" />
+    <edge source="cakrit" target="gmosx" />
+    <edge source="cakrit" target="ktsaou" />
+    <edge source="cakrit" target="honzahommer" />
+    <edge source="cakrit" target="andvgal" />
+    <edge source="cakrit" target="vinyasmusic" />
+    <edge source="paulkatsoulakis" target="vlvkobal" />
+    <edge source="paulkatsoulakis" target="netdatabot" />
+    <edge source="paulkatsoulakis" target="paulfantom" />
+    <edge source="paulkatsoulakis" target="ntimo" />
+    <edge source="paulkatsoulakis" target="archisgore" />
+    <edge source="paulkatsoulakis" target="irvintim" />
+    <edge source="paulkatsoulakis" target="archis-polyverse" />
+    <edge source="paulkatsoulakis" target="CLAassistant" />
+    <edge source="paulkatsoulakis" target="muizzk" />
+    <edge source="paulkatsoulakis" target="nichivo" />
+    <edge source="paulkatsoulakis" target="spinitron" />
+    <edge source="paulkatsoulakis" target="gmosx" />
+    <edge source="paulkatsoulakis" target="johlandabee" />
+    <edge source="paulkatsoulakis" target="ktsaou" />
+    <edge source="paulkatsoulakis" target="andvgal" />
+    <edge source="vlvkobal" target="skrzyp1" />
+    <edge source="vlvkobal" target="mfundul" />
+    <edge source="vlvkobal" target="irvintim" />
+    <edge source="vlvkobal" target="CLAassistant" />
+    <edge source="vlvkobal" target="spinitron" />
+    <edge source="vlvkobal" target="gmosx" />
+    <edge source="vlvkobal" target="DenLilleMand" />
+    <edge source="vlvkobal" target="anayrat" />
+    <edge source="vlvkobal" target="netdata-community-bot" />
+    <edge source="vlvkobal" target="Steve8291" />
+    <edge source="vlvkobal" target="ktsaou" />
+    <edge source="vlvkobal" target="netdatabot" />
+    <edge source="pinpox" target="netdatabot" />
+    <edge source="pinpox" target="CLAassistant" />
+    <edge source="pinpox" target="infl00p" />
+    <edge source="pinpox" target="okias" />
+    <edge source="matiasdelellis" target="netdatabot" />
+    <edge source="matiasdelellis" target="CLAassistant" />
+    <edge source="Steve8291" target="netdatabot" />
+    <edge source="mmokhi" target="netdatabot" />
+    <edge source="mmokhi" target="CLAassistant" />
+    <edge source="mmokhi" target="anayrat" />
+    <edge source="mmokhi" target="wolph" />
+    <edge source="netdatabot" target="GNSubrahmanyam" />
+    <edge source="netdatabot" target="skrzyp1" />
+    <edge source="netdatabot" target="paulfantom" />
+    <edge source="netdatabot" target="muizzk" />
+    <edge source="netdatabot" target="johlandabee" />
+    <edge source="netdatabot" target="thiagoftsm" />
+    <edge source="netdatabot" target="mfundul" />
+    <edge source="netdatabot" target="ntimo" />
+    <edge source="netdatabot" target="archisgore" />
+    <edge source="netdatabot" target="irvintim" />
+    <edge source="netdatabot" target="archis-polyverse" />
+    <edge source="netdatabot" target="CLAassistant" />
+    <edge source="netdatabot" target="okias" />
+    <edge source="netdatabot" target="VLegakis" />
+    <edge source="netdatabot" target="spinitron" />
+    <edge source="netdatabot" target="hsegnitz" />
+    <edge source="netdatabot" target="infl00p" />
+    <edge source="netdatabot" target="gmosx" />
+    <edge source="netdatabot" target="DenLilleMand" />
+    <edge source="netdatabot" target="anayrat" />
+    <edge source="netdatabot" target="wolph" />
+    <edge source="netdatabot" target="netdata-community-bot" />
+    <edge source="netdatabot" target="ktsaou" />
+    <edge source="netdatabot" target="honzahommer" />
+    <edge source="netdatabot" target="andvgal" />
+    <edge source="netdatabot" target="vinyasmusic" />
+    <edge source="CLAassistant" target="gmosx" />
+    <edge source="CLAassistant" target="honzahommer" />
+    <edge source="CLAassistant" target="GNSubrahmanyam" />
+    <edge source="CLAassistant" target="nichivo" />
+    <edge source="CLAassistant" target="muizzk" />
+    <edge source="CLAassistant" target="johlandabee" />
+    <edge source="CLAassistant" target="okias" />
+    <edge source="CLAassistant" target="VLegakis" />
+    <edge source="CLAassistant" target="hsegnitz" />
+    <edge source="CLAassistant" target="infl00p" />
+    <edge source="CLAassistant" target="anayrat" />
+    <edge source="CLAassistant" target="wolph" />
+    <edge source="CLAassistant" target="netdata-community-bot" />
+    <edge source="CLAassistant" target="andvgal" />
+    <edge source="CLAassistant" target="vinyasmusic" />
+    <edge source="okias" target="infl00p" />
+    <edge source="anayrat" target="DenLilleMand" />
+    <edge source="anayrat" target="wolph" />
+    <edge source="ktsaou" target="gmosx" />
+    <edge source="ktsaou" target="andvgal" />
+    <edge source="mfundul" target="thiagoftsm" />
+    <edge source="gmosx" target="VLegakis" />
+    <edge source="GNSubrahmanyam" target="vinyasmusic" />
+    <edge source="archisgore" target="archis-polyverse" />
+  </graph>
+</graphml>

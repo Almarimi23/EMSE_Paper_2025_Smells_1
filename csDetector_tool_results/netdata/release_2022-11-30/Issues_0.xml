@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ilyam8" />
+    <node id="schwarmco" />
+    <node id="slyrack0" />
+    <node id="thiagoftsm" />
+    <node id="lukas-fichtner" />
+    <node id="brettowe" />
+    <node id="Dim-P" />
+    <edge source="ilyam8" target="schwarmco" />
+    <edge source="ilyam8" target="slyrack0" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="lukas-fichtner" />
+    <edge source="ilyam8" target="brettowe" />
+    <edge source="ilyam8" target="Dim-P" />
+    <edge source="thiagoftsm" target="Dim-P" />
+    <edge source="thiagoftsm" target="lukas-fichtner" />
+    <edge source="lukas-fichtner" target="Dim-P" />
+  </graph>
+</graphml>

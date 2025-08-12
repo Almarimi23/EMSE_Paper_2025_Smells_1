@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="soumith" />
+    <node id="szagoruyko" />
+    <node id="fmassa" />
+    <node id="apaszke" />
+    <node id="rguthrie3" />
+    <node id="andreaskoepf" />
+    <node id="colesbury" />
+    <node id="ezyang" />
+    <node id="themightyoarfish" />
+    <edge source="soumith" target="szagoruyko" />
+    <edge source="soumith" target="fmassa" />
+    <edge source="soumith" target="apaszke" />
+    <edge source="soumith" target="rguthrie3" />
+    <edge source="soumith" target="andreaskoepf" />
+    <edge source="soumith" target="colesbury" />
+    <edge source="soumith" target="ezyang" />
+    <edge source="soumith" target="themightyoarfish" />
+    <edge source="szagoruyko" target="colesbury" />
+    <edge source="szagoruyko" target="apaszke" />
+    <edge source="szagoruyko" target="fmassa" />
+    <edge source="fmassa" target="colesbury" />
+    <edge source="fmassa" target="apaszke" />
+    <edge source="fmassa" target="ezyang" />
+    <edge source="apaszke" target="colesbury" />
+    <edge source="apaszke" target="andreaskoepf" />
+    <edge source="apaszke" target="rguthrie3" />
+    <edge source="apaszke" target="ezyang" />
+    <edge source="apaszke" target="themightyoarfish" />
+    <edge source="rguthrie3" target="ezyang" />
+    <edge source="andreaskoepf" target="ezyang" />
+    <edge source="colesbury" target="themightyoarfish" />
+  </graph>
+</graphml>

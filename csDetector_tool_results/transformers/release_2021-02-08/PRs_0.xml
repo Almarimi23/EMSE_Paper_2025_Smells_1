@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="kylie-box" />
+    <node id="patrickvonplaten" />
+    <node id="sgugger" />
+    <node id="jplu" />
+    <node id="LysandreJik" />
+    <node id="n1t0" />
+    <node id="spatil6" />
+    <node id="noise-field" />
+    <node id="stas00" />
+    <node id="sadakmed" />
+    <node id="cbjuan" />
+    <edge source="kylie-box" target="patrickvonplaten" />
+    <edge source="patrickvonplaten" target="sgugger" />
+    <edge source="patrickvonplaten" target="jplu" />
+    <edge source="patrickvonplaten" target="LysandreJik" />
+    <edge source="sgugger" target="LysandreJik" />
+    <edge source="sgugger" target="jplu" />
+    <edge source="sgugger" target="cbjuan" />
+    <edge source="sgugger" target="noise-field" />
+    <edge source="sgugger" target="stas00" />
+    <edge source="jplu" target="LysandreJik" />
+    <edge source="LysandreJik" target="n1t0" />
+    <edge source="LysandreJik" target="spatil6" />
+    <edge source="LysandreJik" target="noise-field" />
+    <edge source="LysandreJik" target="stas00" />
+    <edge source="LysandreJik" target="sadakmed" />
+  </graph>
+</graphml>

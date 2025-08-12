@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ilyamaschenko@gmail.com" />
+    <node id="43294513+cakrit@users.noreply.github.com" />
+    <node id="singleton@acic.biz" />
+    <node id="michael@barrow.me" />
+    <node id="michael@mbwarez.dk" />
+    <node id="george.moschovitis@gmail.com" />
+    <node id="39164691+drwtsn32x@users.noreply.github.com" />
+    <node id="ekartsonakis@gmail.com" />
+    <node id="vlad@prokk.net" />
+    <node id="costa@tsaousis.gr" />
+    <node id="44607049+taniaab@users.noreply.github.com" />
+    <node id="hotio@users.noreply.github.com" />
+    <node id="nfsatterly@gmail.com" />
+    <node id="ofirule@gmail.com" />
+    <node id="abchk1234@gmail.com" />
+    <node id="44713028+nekkabcire@users.noreply.github.com" />
+    <node id="rune@juhljacobsen.dk" />
+    <node id="jbaczuk@users.noreply.github.com" />
+    <node id="ahferroin7@gmail.com" />
+    <node id="pawel@krupa.net.pl" />
+    <node id="pawel+bot@netdata.cloud" />
+    <edge source="ilyamaschenko@gmail.com" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="singleton@acic.biz" />
+    <edge source="ilyamaschenko@gmail.com" target="michael@barrow.me" />
+    <edge source="ilyamaschenko@gmail.com" target="michael@mbwarez.dk" />
+    <edge source="ilyamaschenko@gmail.com" target="george.moschovitis@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="39164691+drwtsn32x@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="ekartsonakis@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="vlad@prokk.net" />
+    <edge source="ilyamaschenko@gmail.com" target="costa@tsaousis.gr" />
+    <edge source="ilyamaschenko@gmail.com" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="hotio@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="nfsatterly@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="ofirule@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="abchk1234@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="rune@juhljacobsen.dk" />
+    <edge source="ilyamaschenko@gmail.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="ilyamaschenko@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="ilyamaschenko@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="pawel+bot@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="abchk1234@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="george.moschovitis@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="costa@tsaousis.gr" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="nfsatterly@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="michael@mbwarez.dk" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="hotio@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="ofirule@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="singleton@acic.biz" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="michael@barrow.me" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="39164691+drwtsn32x@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="ekartsonakis@gmail.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="rune@juhljacobsen.dk" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="singleton@acic.biz" target="pawel+bot@netdata.cloud" />
+    <edge source="singleton@acic.biz" target="jbaczuk@users.noreply.github.com" />
+    <edge source="singleton@acic.biz" target="abchk1234@gmail.com" />
+    <edge source="singleton@acic.biz" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="singleton@acic.biz" target="vlad@prokk.net" />
+    <edge source="singleton@acic.biz" target="george.moschovitis@gmail.com" />
+    <edge source="singleton@acic.biz" target="costa@tsaousis.gr" />
+    <edge source="singleton@acic.biz" target="nfsatterly@gmail.com" />
+    <edge source="singleton@acic.biz" target="michael@mbwarez.dk" />
+    <edge source="singleton@acic.biz" target="hotio@users.noreply.github.com" />
+    <edge source="singleton@acic.biz" target="ofirule@gmail.com" />
+    <edge source="singleton@acic.biz" target="pawel@krupa.net.pl" />
+    <edge source="singleton@acic.biz" target="ahferroin7@gmail.com" />
+    <edge source="singleton@acic.biz" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="singleton@acic.biz" target="michael@barrow.me" />
+    <edge source="singleton@acic.biz" target="39164691+drwtsn32x@users.noreply.github.com" />
+    <edge source="singleton@acic.biz" target="ekartsonakis@gmail.com" />
+    <edge source="singleton@acic.biz" target="rune@juhljacobsen.dk" />
+    <edge source="michael@barrow.me" target="pawel+bot@netdata.cloud" />
+    <edge source="michael@barrow.me" target="jbaczuk@users.noreply.github.com" />
+    <edge source="michael@barrow.me" target="abchk1234@gmail.com" />
+    <edge source="michael@barrow.me" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="michael@barrow.me" target="vlad@prokk.net" />
+    <edge source="michael@barrow.me" target="george.moschovitis@gmail.com" />
+    <edge source="michael@barrow.me" target="costa@tsaousis.gr" />
+    <edge source="michael@barrow.me" target="nfsatterly@gmail.com" />
+    <edge source="michael@barrow.me" target="michael@mbwarez.dk" />
+    <edge source="michael@barrow.me" target="hotio@users.noreply.github.com" />
+    <edge source="michael@barrow.me" target="ofirule@gmail.com" />
+    <edge source="michael@barrow.me" target="pawel@krupa.net.pl" />
+    <edge source="michael@barrow.me" target="ahferroin7@gmail.com" />
+    <edge source="michael@barrow.me" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="michael@barrow.me" target="ekartsonakis@gmail.com" />
+    <edge source="michael@barrow.me" target="rune@juhljacobsen.dk" />
+    <edge source="michael@barrow.me" target="39164691+drwtsn32x@users.noreply.github.com" />
+    <edge source="michael@mbwarez.dk" target="pawel+bot@netdata.cloud" />
+    <edge source="michael@mbwarez.dk" target="jbaczuk@users.noreply.github.com" />
+    <edge source="michael@mbwarez.dk" target="abchk1234@gmail.com" />
+    <edge source="michael@mbwarez.dk" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="michael@mbwarez.dk" target="vlad@prokk.net" />
+    <edge source="michael@mbwarez.dk" target="george.moschovitis@gmail.com" />
+    <edge source="michael@mbwarez.dk" target="costa@tsaousis.gr" />
+    <edge source="michael@mbwarez.dk" target="nfsatterly@gmail.com" />
+    <edge source="michael@mbwarez.dk" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="michael@mbwarez.dk" target="hotio@users.noreply.github.com" />
+    <edge source="michael@mbwarez.dk" target="ofirule@gmail.com" />
+    <edge source="michael@mbwarez.dk" target="39164691+drwtsn32x@users.noreply.github.com" />
+    <edge source="michael@mbwarez.dk" target="ekartsonakis@gmail.com" />
+    <edge source="michael@mbwarez.dk" target="rune@juhljacobsen.dk" />
+    <edge source="michael@mbwarez.dk" target="ahferroin7@gmail.com" />
+    <edge source="michael@mbwarez.dk" target="pawel@krupa.net.pl" />
+    <edge source="george.moschovitis@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="george.moschovitis@gmail.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="abchk1234@gmail.com" />
+    <edge source="george.moschovitis@gmail.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="vlad@prokk.net" />
+    <edge source="george.moschovitis@gmail.com" target="39164691+drwtsn32x@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="ekartsonakis@gmail.com" />
+    <edge source="george.moschovitis@gmail.com" target="costa@tsaousis.gr" />
+    <edge source="george.moschovitis@gmail.com" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="hotio@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="nfsatterly@gmail.com" />
+    <edge source="george.moschovitis@gmail.com" target="ofirule@gmail.com" />
+    <edge source="george.moschovitis@gmail.com" target="rune@juhljacobsen.dk" />
+    <edge source="george.moschovitis@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="george.moschovitis@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="pawel+bot@netdata.cloud" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="abchk1234@gmail.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="costa@tsaousis.gr" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="nfsatterly@gmail.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="hotio@users.noreply.github.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="ofirule@gmail.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="ekartsonakis@gmail.com" />
+    <edge source="39164691+drwtsn32x@users.noreply.github.com" target="rune@juhljacobsen.dk" />
+    <edge source="ekartsonakis@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="ekartsonakis@gmail.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="ekartsonakis@gmail.com" target="abchk1234@gmail.com" />
+    <edge source="ekartsonakis@gmail.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="ekartsonakis@gmail.com" target="vlad@prokk.net" />
+    <edge source="ekartsonakis@gmail.com" target="costa@tsaousis.gr" />
+    <edge source="ekartsonakis@gmail.com" target="nfsatterly@gmail.com" />
+    <edge source="ekartsonakis@gmail.com" target="hotio@users.noreply.github.com" />
+    <edge source="ekartsonakis@gmail.com" target="ofirule@gmail.com" />
+    <edge source="ekartsonakis@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="ekartsonakis@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="ekartsonakis@gmail.com" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="ekartsonakis@gmail.com" target="rune@juhljacobsen.dk" />
+    <edge source="vlad@prokk.net" target="pawel+bot@netdata.cloud" />
+    <edge source="vlad@prokk.net" target="jbaczuk@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="abchk1234@gmail.com" />
+    <edge source="vlad@prokk.net" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="costa@tsaousis.gr" />
+    <edge source="vlad@prokk.net" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="hotio@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="nfsatterly@gmail.com" />
+    <edge source="vlad@prokk.net" target="ofirule@gmail.com" />
+    <edge source="vlad@prokk.net" target="rune@juhljacobsen.dk" />
+    <edge source="vlad@prokk.net" target="ahferroin7@gmail.com" />
+    <edge source="vlad@prokk.net" target="pawel@krupa.net.pl" />
+    <edge source="costa@tsaousis.gr" target="pawel+bot@netdata.cloud" />
+    <edge source="costa@tsaousis.gr" target="jbaczuk@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="abchk1234@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="44607049+taniaab@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="hotio@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="nfsatterly@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="ofirule@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="rune@juhljacobsen.dk" />
+    <edge source="costa@tsaousis.gr" target="ahferroin7@gmail.com" />
+    <edge source="costa@tsaousis.gr" target="pawel@krupa.net.pl" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="pawel+bot@netdata.cloud" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="abchk1234@gmail.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="nfsatterly@gmail.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="hotio@users.noreply.github.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="ofirule@gmail.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="44607049+taniaab@users.noreply.github.com" target="rune@juhljacobsen.dk" />
+    <edge source="hotio@users.noreply.github.com" target="pawel+bot@netdata.cloud" />
+    <edge source="hotio@users.noreply.github.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="hotio@users.noreply.github.com" target="abchk1234@gmail.com" />
+    <edge source="hotio@users.noreply.github.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="hotio@users.noreply.github.com" target="nfsatterly@gmail.com" />
+    <edge source="hotio@users.noreply.github.com" target="ofirule@gmail.com" />
+    <edge source="hotio@users.noreply.github.com" target="rune@juhljacobsen.dk" />
+    <edge source="hotio@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="hotio@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="nfsatterly@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="nfsatterly@gmail.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="nfsatterly@gmail.com" target="abchk1234@gmail.com" />
+    <edge source="nfsatterly@gmail.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="nfsatterly@gmail.com" target="ofirule@gmail.com" />
+    <edge source="nfsatterly@gmail.com" target="rune@juhljacobsen.dk" />
+    <edge source="nfsatterly@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="nfsatterly@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="ofirule@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="ofirule@gmail.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="ofirule@gmail.com" target="abchk1234@gmail.com" />
+    <edge source="ofirule@gmail.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="ofirule@gmail.com" target="rune@juhljacobsen.dk" />
+    <edge source="ofirule@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="ofirule@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="abchk1234@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="abchk1234@gmail.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="abchk1234@gmail.com" target="44713028+nekkabcire@users.noreply.github.com" />
+    <edge source="abchk1234@gmail.com" target="rune@juhljacobsen.dk" />
+    <edge source="abchk1234@gmail.com" target="ahferroin7@gmail.com" />
+    <edge source="abchk1234@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="44713028+nekkabcire@users.noreply.github.com" target="pawel+bot@netdata.cloud" />
+    <edge source="44713028+nekkabcire@users.noreply.github.com" target="jbaczuk@users.noreply.github.com" />
+    <edge source="44713028+nekkabcire@users.noreply.github.com" target="rune@juhljacobsen.dk" />
+    <edge source="44713028+nekkabcire@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="44713028+nekkabcire@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="rune@juhljacobsen.dk" target="pawel+bot@netdata.cloud" />
+    <edge source="rune@juhljacobsen.dk" target="jbaczuk@users.noreply.github.com" />
+    <edge source="rune@juhljacobsen.dk" target="pawel@krupa.net.pl" />
+    <edge source="rune@juhljacobsen.dk" target="ahferroin7@gmail.com" />
+    <edge source="jbaczuk@users.noreply.github.com" target="pawel+bot@netdata.cloud" />
+    <edge source="jbaczuk@users.noreply.github.com" target="ahferroin7@gmail.com" />
+    <edge source="jbaczuk@users.noreply.github.com" target="pawel@krupa.net.pl" />
+    <edge source="ahferroin7@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="ahferroin7@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="pawel@krupa.net.pl" target="pawel+bot@netdata.cloud" />
+  </graph>
+</graphml>

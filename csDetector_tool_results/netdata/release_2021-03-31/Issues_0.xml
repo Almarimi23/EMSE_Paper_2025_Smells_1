@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Ferroin" />
+    <node id="augustozanellato" />
+    <node id="kmlucy" />
+    <node id="underhood" />
+    <node id="Marcool04" />
+    <node id="diizzyy" />
+    <node id="ilyam8" />
+    <node id="candrews" />
+    <node id="stelfrag" />
+    <node id="netdata-community-bot" />
+    <node id="stdedos" />
+    <node id="georgeok" />
+    <node id="vlvkobal" />
+    <node id="nabijaczleweli" />
+    <node id="PenelopeFudd" />
+    <node id="thiagoftsm" />
+    <node id="dorpauli" />
+    <node id="ekexcello" />
+    <node id="alex222efx" />
+    <node id="Whisper40" />
+    <node id="aazedo" />
+    <node id="jacekkolasa" />
+    <node id="fzyzcjy" />
+    <node id="thepra" />
+    <node id="odyslam" />
+    <node id="crouthamela" />
+    <node id="joelhans" />
+    <node id="Mxater" />
+    <node id="andrezaycev" />
+    <node id="aldotms70" />
+    <node id="Tommuh" />
+    <edge source="Ferroin" target="augustozanellato" />
+    <edge source="Ferroin" target="kmlucy" />
+    <edge source="Ferroin" target="underhood" />
+    <edge source="Ferroin" target="Marcool04" />
+    <edge source="Ferroin" target="diizzyy" />
+    <edge source="Ferroin" target="ilyam8" />
+    <edge source="Ferroin" target="candrews" />
+    <edge source="Ferroin" target="stelfrag" />
+    <edge source="Ferroin" target="netdata-community-bot" />
+    <edge source="Ferroin" target="stdedos" />
+    <edge source="Ferroin" target="georgeok" />
+    <edge source="Ferroin" target="vlvkobal" />
+    <edge source="Ferroin" target="nabijaczleweli" />
+    <edge source="Ferroin" target="PenelopeFudd" />
+    <edge source="augustozanellato" target="ilyam8" />
+    <edge source="augustozanellato" target="georgeok" />
+    <edge source="augustozanellato" target="kmlucy" />
+    <edge source="augustozanellato" target="stelfrag" />
+    <edge source="kmlucy" target="ilyam8" />
+    <edge source="kmlucy" target="georgeok" />
+    <edge source="kmlucy" target="stelfrag" />
+    <edge source="underhood" target="candrews" />
+    <edge source="underhood" target="diizzyy" />
+    <edge source="Marcool04" target="netdata-community-bot" />
+    <edge source="Marcool04" target="PenelopeFudd" />
+    <edge source="Marcool04" target="nabijaczleweli" />
+    <edge source="diizzyy" target="candrews" />
+    <edge source="ilyam8" target="vlvkobal" />
+    <edge source="ilyam8" target="dorpauli" />
+    <edge source="ilyam8" target="ekexcello" />
+    <edge source="ilyam8" target="alex222efx" />
+    <edge source="ilyam8" target="Whisper40" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="aazedo" />
+    <edge source="ilyam8" target="georgeok" />
+    <edge source="ilyam8" target="jacekkolasa" />
+    <edge source="ilyam8" target="fzyzcjy" />
+    <edge source="ilyam8" target="thepra" />
+    <edge source="ilyam8" target="odyslam" />
+    <edge source="ilyam8" target="crouthamela" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="stelfrag" />
+    <edge source="ilyam8" target="joelhans" />
+    <edge source="ilyam8" target="Mxater" />
+    <edge source="ilyam8" target="andrezaycev" />
+    <edge source="ilyam8" target="nabijaczleweli" />
+    <edge source="ilyam8" target="aldotms70" />
+    <edge source="stelfrag" target="georgeok" />
+    <edge source="stelfrag" target="Tommuh" />
+    <edge source="stelfrag" target="andrezaycev" />
+    <edge source="netdata-community-bot" target="vlvkobal" />
+    <edge source="netdata-community-bot" target="odyslam" />
+    <edge source="netdata-community-bot" target="thiagoftsm" />
+    <edge source="netdata-community-bot" target="joelhans" />
+    <edge source="netdata-community-bot" target="Mxater" />
+    <edge source="netdata-community-bot" target="fzyzcjy" />
+    <edge source="netdata-community-bot" target="nabijaczleweli" />
+    <edge source="netdata-community-bot" target="PenelopeFudd" />
+    <edge source="vlvkobal" target="thiagoftsm" />
+    <edge source="nabijaczleweli" target="PenelopeFudd" />
+    <edge source="thiagoftsm" target="odyslam" />
+    <edge source="thiagoftsm" target="joelhans" />
+    <edge source="dorpauli" target="jacekkolasa" />
+    <edge source="alex222efx" target="Whisper40" />
+    <edge source="odyslam" target="Mxater" />
+    <edge source="odyslam" target="joelhans" />
+  </graph>
+</graphml>

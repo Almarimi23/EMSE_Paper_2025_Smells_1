@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="bot@netdata.cloud" />
+    <node id="costa@netdata.cloud" />
+    <node id="49699333+dependabot[bot]@users.noreply.github.com" />
+    <node id="vasilis@netdata.cloud" />
+    <node id="137268757+carrychair@users.noreply.github.com" />
+    <node id="thiagoftsm@gmail.com" />
+    <node id="fotis@netdata.cloud" />
+    <node id="43409846+netdatabot@users.noreply.github.com" />
+    <node id="car12o@users.noreply.github.com" />
+    <node id="2930882+juacker@users.noreply.github.com" />
+    <node id="82235632+hugovalente-pm@users.noreply.github.com" />
+    <node id="139226121+aliki92@users.noreply.github.com" />
+    <node id="12612986+tkatsoulas@users.noreply.github.com" />
+    <node id="67982749+luisj1983@users.noreply.github.com" />
+    <node id="52996999+stelfrag@users.noreply.github.com" />
+    <node id="pascal.schaer@gmail.com" />
+    <node id="ilya@netdata.cloud" />
+    <node id="austin@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="costa@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="vasilis@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="137268757+carrychair@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="bot@netdata.cloud" target="fotis@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="car12o@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="pascal.schaer@gmail.com" />
+    <edge source="bot@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="costa@netdata.cloud" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="vasilis@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="137268757+carrychair@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="fotis@netdata.cloud" />
+    <edge source="costa@netdata.cloud" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="car12o@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="costa@netdata.cloud" target="pascal.schaer@gmail.com" />
+    <edge source="costa@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="vasilis@netdata.cloud" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="fotis@netdata.cloud" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="pascal.schaer@gmail.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="137268757+carrychair@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="car12o@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="vasilis@netdata.cloud" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="vasilis@netdata.cloud" target="137268757+carrychair@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="fotis@netdata.cloud" />
+    <edge source="vasilis@netdata.cloud" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="car12o@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="vasilis@netdata.cloud" target="pascal.schaer@gmail.com" />
+    <edge source="vasilis@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="fotis@netdata.cloud" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="car12o@users.noreply.github.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="137268757+carrychair@users.noreply.github.com" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="fotis@netdata.cloud" />
+    <edge source="thiagoftsm@gmail.com" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="car12o@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="pascal.schaer@gmail.com" />
+    <edge source="thiagoftsm@gmail.com" target="ilya@netdata.cloud" />
+    <edge source="thiagoftsm@gmail.com" target="austin@netdata.cloud" />
+    <edge source="fotis@netdata.cloud" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="fotis@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="fotis@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="43409846+netdatabot@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="car12o@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="fotis@netdata.cloud" target="pascal.schaer@gmail.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="139226121+aliki92@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="car12o@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="43409846+netdatabot@users.noreply.github.com" target="pascal.schaer@gmail.com" />
+    <edge source="car12o@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="car12o@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="car12o@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="car12o@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="car12o@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="car12o@users.noreply.github.com" target="2930882+juacker@users.noreply.github.com" />
+    <edge source="car12o@users.noreply.github.com" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="2930882+juacker@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="2930882+juacker@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="2930882+juacker@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="2930882+juacker@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="2930882+juacker@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="2930882+juacker@users.noreply.github.com" target="82235632+hugovalente-pm@users.noreply.github.com" />
+    <edge source="82235632+hugovalente-pm@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="82235632+hugovalente-pm@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="82235632+hugovalente-pm@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="82235632+hugovalente-pm@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="82235632+hugovalente-pm@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="139226121+aliki92@users.noreply.github.com" target="12612986+tkatsoulas@users.noreply.github.com" />
+    <edge source="139226121+aliki92@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="139226121+aliki92@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="139226121+aliki92@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="139226121+aliki92@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="139226121+aliki92@users.noreply.github.com" target="pascal.schaer@gmail.com" />
+    <edge source="12612986+tkatsoulas@users.noreply.github.com" target="67982749+luisj1983@users.noreply.github.com" />
+    <edge source="12612986+tkatsoulas@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="12612986+tkatsoulas@users.noreply.github.com" target="pascal.schaer@gmail.com" />
+    <edge source="12612986+tkatsoulas@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="12612986+tkatsoulas@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="67982749+luisj1983@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="67982749+luisj1983@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="67982749+luisj1983@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="67982749+luisj1983@users.noreply.github.com" target="pascal.schaer@gmail.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="pascal.schaer@gmail.com" />
+    <edge source="pascal.schaer@gmail.com" target="ilya@netdata.cloud" />
+    <edge source="pascal.schaer@gmail.com" target="austin@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="austin@netdata.cloud" />
+  </graph>
+</graphml>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stelfrag" />
+    <node id="ilyam8" />
+    <node id="CLAassistant" />
+    <node id="tkatsoulas" />
+    <node id="vkalintiris" />
+    <node id="ktsaou" />
+    <node id="Ferroin" />
+    <node id="glebius" />
+    <node id="hugovalente-pm" />
+    <node id="car12o" />
+    <node id="Ancairon" />
+    <node id="juacker" />
+    <node id="netdatabot" />
+    <node id="M4itee" />
+    <node id="RaitoBezarius" />
+    <node id="thiagoftsm" />
+    <node id="witalisoft" />
+    <edge source="stelfrag" target="ilyam8" />
+    <edge source="stelfrag" target="CLAassistant" />
+    <edge source="stelfrag" target="tkatsoulas" />
+    <edge source="stelfrag" target="vkalintiris" />
+    <edge source="stelfrag" target="ktsaou" />
+    <edge source="stelfrag" target="Ferroin" />
+    <edge source="stelfrag" target="glebius" />
+    <edge source="ilyam8" target="hugovalente-pm" />
+    <edge source="ilyam8" target="car12o" />
+    <edge source="ilyam8" target="netdatabot" />
+    <edge source="ilyam8" target="M4itee" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="Ancairon" />
+    <edge source="ilyam8" target="juacker" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="glebius" />
+    <edge source="ilyam8" target="tkatsoulas" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="CLAassistant" target="glebius" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="vkalintiris" />
+    <edge source="tkatsoulas" target="ktsaou" />
+    <edge source="vkalintiris" target="Ferroin" />
+    <edge source="vkalintiris" target="thiagoftsm" />
+    <edge source="vkalintiris" target="ktsaou" />
+    <edge source="ktsaou" target="Ferroin" />
+    <edge source="ktsaou" target="RaitoBezarius" />
+    <edge source="Ferroin" target="RaitoBezarius" />
+    <edge source="hugovalente-pm" target="car12o" />
+    <edge source="hugovalente-pm" target="Ancairon" />
+    <edge source="hugovalente-pm" target="juacker" />
+    <edge source="car12o" target="juacker" />
+    <edge source="Ancairon" target="M4itee" />
+    <edge source="Ancairon" target="netdatabot" />
+    <edge source="Ancairon" target="witalisoft" />
+  </graph>
+</graphml>

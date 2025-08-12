@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="mfuntowicz@users.noreply.github.com" />
+    <node id="59010212+chrisliu298@users.noreply.github.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="lysandre@huggingface.co" />
+    <node id="mrm8488@gmail.com" />
+    <node id="thomwolf@users.noreply.github.com" />
+    <node id="sshleifer@gmail.com" />
+    <node id="moselim@hawaii.edu" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="59010212+chrisliu298@users.noreply.github.com" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="mrm8488@gmail.com" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="sshleifer@gmail.com" />
+    <edge source="mfuntowicz@users.noreply.github.com" target="moselim@hawaii.edu" />
+    <edge source="59010212+chrisliu298@users.noreply.github.com" target="mrm8488@gmail.com" />
+    <edge source="59010212+chrisliu298@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="59010212+chrisliu298@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="59010212+chrisliu298@users.noreply.github.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="59010212+chrisliu298@users.noreply.github.com" target="sshleifer@gmail.com" />
+    <edge source="59010212+chrisliu298@users.noreply.github.com" target="moselim@hawaii.edu" />
+    <edge source="patrick.v.platen@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="moselim@hawaii.edu" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="mrm8488@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="moselim@hawaii.edu" />
+    <edge source="lysandre@huggingface.co" target="thomwolf@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="sshleifer@gmail.com" />
+    <edge source="mrm8488@gmail.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="mrm8488@gmail.com" target="moselim@hawaii.edu" />
+    <edge source="mrm8488@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="thomwolf@users.noreply.github.com" target="moselim@hawaii.edu" />
+    <edge source="thomwolf@users.noreply.github.com" target="sshleifer@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="moselim@hawaii.edu" />
+  </graph>
+</graphml>

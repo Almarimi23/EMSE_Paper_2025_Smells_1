@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stas00@users.noreply.github.com" />
+    <node id="kadas2003@gmail.com" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="m.anthony.moi@gmail.com" />
+    <node id="nguyenolive@gmail.com" />
+    <node id="patry.nicolas@protonmail.com" />
+    <node id="sandip.aero@gmail.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="plu.julien@gmail.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="lysandre@huggingface.co" />
+    <node id="mamamot@gmail.com" />
+    <node id="juan.cruz.benito@ibm.com" />
+    <edge source="stas00@users.noreply.github.com" target="kadas2003@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="stas00@users.noreply.github.com" target="m.anthony.moi@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="nguyenolive@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="patry.nicolas@protonmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="sandip.aero@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="stas00@users.noreply.github.com" target="plu.julien@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="stas00@users.noreply.github.com" target="mamamot@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="kadas2003@gmail.com" target="sandip.aero@gmail.com" />
+    <edge source="kadas2003@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="kadas2003@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="kadas2003@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="kadas2003@gmail.com" target="patry.nicolas@protonmail.com" />
+    <edge source="kadas2003@gmail.com" target="plu.julien@gmail.com" />
+    <edge source="kadas2003@gmail.com" target="m.anthony.moi@gmail.com" />
+    <edge source="kadas2003@gmail.com" target="nguyenolive@gmail.com" />
+    <edge source="kadas2003@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="kadas2003@gmail.com" target="mamamot@gmail.com" />
+    <edge source="kadas2003@gmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="sandip.aero@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="m.anthony.moi@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="nguyenolive@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="patry.nicolas@protonmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="plu.julien@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="patrick.v.platen@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="mamamot@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="m.anthony.moi@gmail.com" target="sandip.aero@gmail.com" />
+    <edge source="m.anthony.moi@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="m.anthony.moi@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="m.anthony.moi@gmail.com" target="patry.nicolas@protonmail.com" />
+    <edge source="m.anthony.moi@gmail.com" target="plu.julien@gmail.com" />
+    <edge source="m.anthony.moi@gmail.com" target="nguyenolive@gmail.com" />
+    <edge source="m.anthony.moi@gmail.com" target="mamamot@gmail.com" />
+    <edge source="m.anthony.moi@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="m.anthony.moi@gmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="nguyenolive@gmail.com" target="sandip.aero@gmail.com" />
+    <edge source="nguyenolive@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="nguyenolive@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="nguyenolive@gmail.com" target="patry.nicolas@protonmail.com" />
+    <edge source="nguyenolive@gmail.com" target="plu.julien@gmail.com" />
+    <edge source="nguyenolive@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="nguyenolive@gmail.com" target="mamamot@gmail.com" />
+    <edge source="nguyenolive@gmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="patry.nicolas@protonmail.com" target="sandip.aero@gmail.com" />
+    <edge source="patry.nicolas@protonmail.com" target="lysandre@huggingface.co" />
+    <edge source="patry.nicolas@protonmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="patry.nicolas@protonmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patry.nicolas@protonmail.com" target="plu.julien@gmail.com" />
+    <edge source="patry.nicolas@protonmail.com" target="mamamot@gmail.com" />
+    <edge source="patry.nicolas@protonmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="sandip.aero@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="sandip.aero@gmail.com" target="plu.julien@gmail.com" />
+    <edge source="sandip.aero@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="sandip.aero@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="sandip.aero@gmail.com" target="mamamot@gmail.com" />
+    <edge source="sandip.aero@gmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="lysandre@huggingface.co" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="patrick.v.platen@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="plu.julien@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="mamamot@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="juan.cruz.benito@ibm.com" />
+    <edge source="plu.julien@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="plu.julien@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="plu.julien@gmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="plu.julien@gmail.com" target="mamamot@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="mamamot@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="juan.cruz.benito@ibm.com" />
+    <edge source="lysandre@huggingface.co" target="mamamot@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="juan.cruz.benito@ibm.com" />
+    <edge source="mamamot@gmail.com" target="juan.cruz.benito@ibm.com" />
+  </graph>
+</graphml>

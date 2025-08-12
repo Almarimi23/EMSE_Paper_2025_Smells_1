@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="apaszke" />
+    <node id="nluehr" />
+    <node id="slayton58" />
+    <node id="colesbury" />
+    <node id="soumith" />
+    <node id="borisfom" />
+    <node id="cliffwoolley" />
+    <node id="adamlerer" />
+    <node id="lukeyeager" />
+    <node id="ezyang" />
+    <node id="gchanan" />
+    <node id="jia-kai" />
+    <node id="BTNC" />
+    <node id="fmassa" />
+    <node id="sjeaugey" />
+    <edge source="apaszke" target="nluehr" />
+    <edge source="apaszke" target="slayton58" />
+    <edge source="apaszke" target="colesbury" />
+    <edge source="apaszke" target="soumith" />
+    <edge source="apaszke" target="borisfom" />
+    <edge source="apaszke" target="cliffwoolley" />
+    <edge source="apaszke" target="adamlerer" />
+    <edge source="apaszke" target="lukeyeager" />
+    <edge source="apaszke" target="ezyang" />
+    <edge source="apaszke" target="gchanan" />
+    <edge source="apaszke" target="jia-kai" />
+    <edge source="apaszke" target="BTNC" />
+    <edge source="apaszke" target="fmassa" />
+    <edge source="apaszke" target="sjeaugey" />
+    <edge source="nluehr" target="colesbury" />
+    <edge source="nluehr" target="slayton58" />
+    <edge source="nluehr" target="jia-kai" />
+    <edge source="nluehr" target="sjeaugey" />
+    <edge source="nluehr" target="borisfom" />
+    <edge source="nluehr" target="cliffwoolley" />
+    <edge source="nluehr" target="lukeyeager" />
+    <edge source="slayton58" target="colesbury" />
+    <edge source="slayton58" target="jia-kai" />
+    <edge source="slayton58" target="sjeaugey" />
+    <edge source="slayton58" target="borisfom" />
+    <edge source="slayton58" target="cliffwoolley" />
+    <edge source="slayton58" target="lukeyeager" />
+    <edge source="colesbury" target="ezyang" />
+    <edge source="colesbury" target="adamlerer" />
+    <edge source="colesbury" target="soumith" />
+    <edge source="colesbury" target="borisfom" />
+    <edge source="colesbury" target="cliffwoolley" />
+    <edge source="colesbury" target="lukeyeager" />
+    <edge source="colesbury" target="gchanan" />
+    <edge source="colesbury" target="jia-kai" />
+    <edge source="colesbury" target="fmassa" />
+    <edge source="colesbury" target="sjeaugey" />
+    <edge source="soumith" target="ezyang" />
+    <edge source="soumith" target="adamlerer" />
+    <edge source="soumith" target="fmassa" />
+    <edge source="soumith" target="gchanan" />
+    <edge source="borisfom" target="lukeyeager" />
+    <edge source="borisfom" target="jia-kai" />
+    <edge source="borisfom" target="sjeaugey" />
+    <edge source="borisfom" target="cliffwoolley" />
+    <edge source="cliffwoolley" target="lukeyeager" />
+    <edge source="cliffwoolley" target="sjeaugey" />
+    <edge source="cliffwoolley" target="jia-kai" />
+    <edge source="adamlerer" target="fmassa" />
+    <edge source="lukeyeager" target="jia-kai" />
+    <edge source="lukeyeager" target="sjeaugey" />
+    <edge source="ezyang" target="BTNC" />
+    <edge source="jia-kai" target="sjeaugey" />
+  </graph>
+</graphml>

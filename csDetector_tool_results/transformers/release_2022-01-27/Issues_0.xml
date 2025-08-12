@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="patrickvonplaten" />
+    <node id="patil-suraj" />
+    <node id="meguruin" />
+    <node id="LysandreJik" />
+    <node id="sgugger" />
+    <node id="eldarkurtic" />
+    <node id="stas00" />
+    <node id="peregilk" />
+    <node id="abhilashreddys" />
+    <node id="Jordy-VL" />
+    <node id="RitaDS" />
+    <node id="NielsRogge" />
+    <edge source="patrickvonplaten" target="patil-suraj" />
+    <edge source="patrickvonplaten" target="meguruin" />
+    <edge source="patrickvonplaten" target="LysandreJik" />
+    <edge source="patrickvonplaten" target="sgugger" />
+    <edge source="patrickvonplaten" target="eldarkurtic" />
+    <edge source="patrickvonplaten" target="stas00" />
+    <edge source="patrickvonplaten" target="peregilk" />
+    <edge source="patil-suraj" target="eldarkurtic" />
+    <edge source="patil-suraj" target="stas00" />
+    <edge source="patil-suraj" target="LysandreJik" />
+    <edge source="patil-suraj" target="sgugger" />
+    <edge source="LysandreJik" target="eldarkurtic" />
+    <edge source="LysandreJik" target="stas00" />
+    <edge source="LysandreJik" target="sgugger" />
+    <edge source="LysandreJik" target="abhilashreddys" />
+    <edge source="sgugger" target="eldarkurtic" />
+    <edge source="sgugger" target="stas00" />
+    <edge source="sgugger" target="abhilashreddys" />
+    <edge source="eldarkurtic" target="stas00" />
+    <edge source="Jordy-VL" target="RitaDS" />
+    <edge source="Jordy-VL" target="NielsRogge" />
+    <edge source="RitaDS" target="NielsRogge" />
+  </graph>
+</graphml>

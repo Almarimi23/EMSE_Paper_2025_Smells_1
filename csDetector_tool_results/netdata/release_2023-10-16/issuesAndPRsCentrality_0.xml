@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ilyam8" />
+    <node id="netdatabot" />
+    <node id="ktsaou" />
+    <node id="MrZammler" />
+    <node id="watsonbox" />
+    <node id="luchaos" />
+    <node id="underhood" />
+    <node id="tkatsoulas" />
+    <node id="boxjan" />
+    <node id="Ancairon" />
+    <node id="thiagoftsm" />
+    <node id="Ferroin" />
+    <node id="stelfrag" />
+    <node id="Dim-P" />
+    <node id="CLAassistant" />
+    <node id="seniorquico" />
+    <node id="andyundso" />
+    <node id="netdata-community-bot" />
+    <node id="vkalintiris" />
+    <edge source="ilyam8" target="netdatabot" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="ilyam8" target="MrZammler" />
+    <edge source="ilyam8" target="watsonbox" />
+    <edge source="ilyam8" target="luchaos" />
+    <edge source="ilyam8" target="underhood" />
+    <edge source="ilyam8" target="tkatsoulas" />
+    <edge source="ilyam8" target="boxjan" />
+    <edge source="ilyam8" target="Ancairon" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="stelfrag" />
+    <edge source="ilyam8" target="Dim-P" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="seniorquico" />
+    <edge source="ilyam8" target="andyundso" />
+    <edge source="netdatabot" target="Ancairon" />
+    <edge source="ktsaou" target="stelfrag" />
+    <edge source="ktsaou" target="vkalintiris" />
+    <edge source="ktsaou" target="Ancairon" />
+    <edge source="ktsaou" target="netdata-community-bot" />
+    <edge source="ktsaou" target="luchaos" />
+    <edge source="ktsaou" target="underhood" />
+    <edge source="ktsaou" target="tkatsoulas" />
+    <edge source="MrZammler" target="thiagoftsm" />
+    <edge source="MrZammler" target="Ferroin" />
+    <edge source="MrZammler" target="stelfrag" />
+    <edge source="MrZammler" target="underhood" />
+    <edge source="MrZammler" target="tkatsoulas" />
+    <edge source="watsonbox" target="thiagoftsm" />
+    <edge source="watsonbox" target="CLAassistant" />
+    <edge source="luchaos" target="stelfrag" />
+    <edge source="luchaos" target="thiagoftsm" />
+    <edge source="luchaos" target="tkatsoulas" />
+    <edge source="luchaos" target="CLAassistant" />
+    <edge source="underhood" target="stelfrag" />
+    <edge source="underhood" target="thiagoftsm" />
+    <edge source="tkatsoulas" target="stelfrag" />
+    <edge source="tkatsoulas" target="thiagoftsm" />
+    <edge source="tkatsoulas" target="Ancairon" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="boxjan" target="thiagoftsm" />
+    <edge source="Ancairon" target="thiagoftsm" />
+    <edge source="thiagoftsm" target="stelfrag" />
+    <edge source="thiagoftsm" target="Ferroin" />
+    <edge source="thiagoftsm" target="Dim-P" />
+    <edge source="thiagoftsm" target="CLAassistant" />
+    <edge source="thiagoftsm" target="seniorquico" />
+    <edge source="thiagoftsm" target="andyundso" />
+    <edge source="Ferroin" target="stelfrag" />
+    <edge source="stelfrag" target="netdata-community-bot" />
+    <edge source="stelfrag" target="vkalintiris" />
+    <edge source="Dim-P" target="andyundso" />
+    <edge source="CLAassistant" target="seniorquico" />
+    <edge source="netdata-community-bot" target="vkalintiris" />
+  </graph>
+</graphml>

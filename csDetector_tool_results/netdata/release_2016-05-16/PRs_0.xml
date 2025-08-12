@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="simonnagl" />
+    <node id="ktsaou" />
+    <node id="paulfantom" />
+    <node id="jasonwbarnett" />
+    <node id="fredericopissarra" />
+    <node id="candrews" />
+    <node id="anthonytsavdaridis" />
+    <node id="glensc" />
+    <node id="SanskritFritz" />
+    <node id="nizig" />
+    <node id="jgeromero" />
+    <node id="jurgenhaas" />
+    <node id="isonet" />
+    <node id="robbat2" />
+    <node id="ivanionut" />
+    <node id="agalera" />
+    <node id="fxthomas" />
+    <node id="pjz" />
+    <node id="jb098" />
+    <node id="Busindre" />
+    <node id="gitter-badger" />
+    <node id="alonbl" />
+    <node id="lhw" />
+    <node id="titpetric" />
+    <node id="jpedrot" />
+    <node id="jsveiga" />
+    <node id="tkuehne-deliveryhero" />
+    <node id="ilyam8" />
+    <node id="leepfrog-ger" />
+    <node id="davidak" />
+    <node id="bakalava" />
+    <node id="x4FF3" />
+    <node id="hhallman" />
+    <node id="fiveoclock" />
+    <node id="Flums" />
+    <node id="danfinn" />
+    <node id="NikTheDusky" />
+    <node id="netdata-community-bot" />
+    <node id="dseira" />
+    <node id="da2x" />
+    <node id="tferreira" />
+    <node id="LeeNX" />
+    <node id="philwhineray" />
+    <node id="brablc" />
+    <node id="rpisarev" />
+    <node id="aoyawale" />
+    <edge source="simonnagl" target="ktsaou" />
+    <edge source="simonnagl" target="paulfantom" />
+    <edge source="simonnagl" target="jasonwbarnett" />
+    <edge source="simonnagl" target="fredericopissarra" />
+    <edge source="simonnagl" target="candrews" />
+    <edge source="simonnagl" target="anthonytsavdaridis" />
+    <edge source="simonnagl" target="glensc" />
+    <edge source="ktsaou" target="SanskritFritz" />
+    <edge source="ktsaou" target="nizig" />
+    <edge source="ktsaou" target="jgeromero" />
+    <edge source="ktsaou" target="jurgenhaas" />
+    <edge source="ktsaou" target="isonet" />
+    <edge source="ktsaou" target="robbat2" />
+    <edge source="ktsaou" target="ivanionut" />
+    <edge source="ktsaou" target="agalera" />
+    <edge source="ktsaou" target="fxthomas" />
+    <edge source="ktsaou" target="pjz" />
+    <edge source="ktsaou" target="jb098" />
+    <edge source="ktsaou" target="Busindre" />
+    <edge source="ktsaou" target="paulfantom" />
+    <edge source="ktsaou" target="gitter-badger" />
+    <edge source="ktsaou" target="alonbl" />
+    <edge source="ktsaou" target="lhw" />
+    <edge source="ktsaou" target="titpetric" />
+    <edge source="ktsaou" target="jpedrot" />
+    <edge source="ktsaou" target="jasonwbarnett" />
+    <edge source="ktsaou" target="jsveiga" />
+    <edge source="ktsaou" target="tkuehne-deliveryhero" />
+    <edge source="ktsaou" target="candrews" />
+    <edge source="ktsaou" target="ilyam8" />
+    <edge source="ktsaou" target="leepfrog-ger" />
+    <edge source="ktsaou" target="davidak" />
+    <edge source="ktsaou" target="bakalava" />
+    <edge source="ktsaou" target="x4FF3" />
+    <edge source="ktsaou" target="glensc" />
+    <edge source="ktsaou" target="hhallman" />
+    <edge source="ktsaou" target="fiveoclock" />
+    <edge source="ktsaou" target="Flums" />
+    <edge source="ktsaou" target="danfinn" />
+    <edge source="ktsaou" target="NikTheDusky" />
+    <edge source="ktsaou" target="fredericopissarra" />
+    <edge source="ktsaou" target="netdata-community-bot" />
+    <edge source="ktsaou" target="dseira" />
+    <edge source="ktsaou" target="da2x" />
+    <edge source="ktsaou" target="tferreira" />
+    <edge source="ktsaou" target="LeeNX" />
+    <edge source="ktsaou" target="anthonytsavdaridis" />
+    <edge source="ktsaou" target="philwhineray" />
+    <edge source="paulfantom" target="glensc" />
+    <edge source="paulfantom" target="jurgenhaas" />
+    <edge source="paulfantom" target="candrews" />
+    <edge source="paulfantom" target="ilyam8" />
+    <edge source="paulfantom" target="leepfrog-ger" />
+    <edge source="paulfantom" target="davidak" />
+    <edge source="paulfantom" target="robbat2" />
+    <edge source="paulfantom" target="ivanionut" />
+    <edge source="paulfantom" target="x4FF3" />
+    <edge source="paulfantom" target="pjz" />
+    <edge source="paulfantom" target="Flums" />
+    <edge source="paulfantom" target="danfinn" />
+    <edge source="paulfantom" target="alonbl" />
+    <edge source="paulfantom" target="netdata-community-bot" />
+    <edge source="paulfantom" target="titpetric" />
+    <edge source="paulfantom" target="dseira" />
+    <edge source="paulfantom" target="jpedrot" />
+    <edge source="paulfantom" target="da2x" />
+    <edge source="paulfantom" target="LeeNX" />
+    <edge source="paulfantom" target="jasonwbarnett" />
+    <edge source="paulfantom" target="philwhineray" />
+    <edge source="paulfantom" target="brablc" />
+    <edge source="paulfantom" target="rpisarev" />
+    <edge source="jasonwbarnett" target="glensc" />
+    <edge source="jasonwbarnett" target="candrews" />
+    <edge source="jasonwbarnett" target="danfinn" />
+    <edge source="jasonwbarnett" target="philwhineray" />
+    <edge source="glensc" target="danfinn" />
+    <edge source="glensc" target="philwhineray" />
+    <edge source="SanskritFritz" target="isonet" />
+    <edge source="jurgenhaas" target="Flums" />
+    <edge source="jurgenhaas" target="ilyam8" />
+    <edge source="jurgenhaas" target="leepfrog-ger" />
+    <edge source="jurgenhaas" target="robbat2" />
+    <edge source="jurgenhaas" target="pjz" />
+    <edge source="jurgenhaas" target="dseira" />
+    <edge source="jurgenhaas" target="jpedrot" />
+    <edge source="robbat2" target="Flums" />
+    <edge source="robbat2" target="jpedrot" />
+    <edge source="robbat2" target="pjz" />
+    <edge source="robbat2" target="leepfrog-ger" />
+    <edge source="robbat2" target="dseira" />
+    <edge source="robbat2" target="ilyam8" />
+    <edge source="pjz" target="Flums" />
+    <edge source="pjz" target="jpedrot" />
+    <edge source="pjz" target="ilyam8" />
+    <edge source="pjz" target="leepfrog-ger" />
+    <edge source="pjz" target="dseira" />
+    <edge source="alonbl" target="davidak" />
+    <edge source="alonbl" target="titpetric" />
+    <edge source="titpetric" target="davidak" />
+    <edge source="jpedrot" target="Flums" />
+    <edge source="jpedrot" target="ilyam8" />
+    <edge source="jpedrot" target="leepfrog-ger" />
+    <edge source="jpedrot" target="dseira" />
+    <edge source="ilyam8" target="Flums" />
+    <edge source="ilyam8" target="leepfrog-ger" />
+    <edge source="ilyam8" target="dseira" />
+    <edge source="leepfrog-ger" target="Flums" />
+    <edge source="leepfrog-ger" target="dseira" />
+    <edge source="Flums" target="dseira" />
+    <edge source="Flums" target="LeeNX" />
+    <edge source="danfinn" target="philwhineray" />
+  </graph>
+</graphml>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stelfrag" />
+    <node id="candrews" />
+    <node id="vermaete" />
+    <node id="Ferroin" />
+    <node id="metajiji" />
+    <node id="cakrit" />
+    <node id="ilyam8" />
+    <edge source="candrews" target="vermaete" />
+    <edge source="candrews" target="Ferroin" />
+    <edge source="candrews" target="metajiji" />
+    <edge source="candrews" target="cakrit" />
+    <edge source="candrews" target="ilyam8" />
+    <edge source="vermaete" target="Ferroin" />
+    <edge source="vermaete" target="metajiji" />
+    <edge source="vermaete" target="cakrit" />
+    <edge source="vermaete" target="ilyam8" />
+    <edge source="Ferroin" target="cakrit" />
+    <edge source="Ferroin" target="metajiji" />
+    <edge source="Ferroin" target="ilyam8" />
+    <edge source="metajiji" target="cakrit" />
+    <edge source="metajiji" target="ilyam8" />
+    <edge source="cakrit" target="ilyam8" />
+  </graph>
+</graphml>

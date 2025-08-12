@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="jlamypoirier" />
+    <node id="amyeroberts" />
+    <node id="younesbelkada" />
+    <node id="HuggingFaceDocBuilderDev" />
+    <node id="Rocketknight1" />
+    <node id="Narsil" />
+    <node id="gante" />
+    <node id="pacman100" />
+    <node id="stas00" />
+    <node id="sgugger" />
+    <node id="ArthurZucker" />
+    <node id="NielsRogge" />
+    <node id="rockmagma02" />
+    <node id="muellerzr" />
+    <node id="rennn2002" />
+    <node id="ydshieh" />
+    <node id="sanchit-gandhi" />
+    <node id="ProgramadorArtificial" />
+    <edge source="jlamypoirier" target="amyeroberts" />
+    <edge source="jlamypoirier" target="younesbelkada" />
+    <edge source="jlamypoirier" target="HuggingFaceDocBuilderDev" />
+    <edge source="amyeroberts" target="HuggingFaceDocBuilderDev" />
+    <edge source="amyeroberts" target="Rocketknight1" />
+    <edge source="amyeroberts" target="sanchit-gandhi" />
+    <edge source="amyeroberts" target="pacman100" />
+    <edge source="amyeroberts" target="sgugger" />
+    <edge source="amyeroberts" target="ArthurZucker" />
+    <edge source="amyeroberts" target="muellerzr" />
+    <edge source="amyeroberts" target="rockmagma02" />
+    <edge source="amyeroberts" target="younesbelkada" />
+    <edge source="amyeroberts" target="ProgramadorArtificial" />
+    <edge source="amyeroberts" target="rennn2002" />
+    <edge source="amyeroberts" target="ydshieh" />
+    <edge source="younesbelkada" target="HuggingFaceDocBuilderDev" />
+    <edge source="HuggingFaceDocBuilderDev" target="Rocketknight1" />
+    <edge source="HuggingFaceDocBuilderDev" target="Narsil" />
+    <edge source="HuggingFaceDocBuilderDev" target="gante" />
+    <edge source="HuggingFaceDocBuilderDev" target="pacman100" />
+    <edge source="HuggingFaceDocBuilderDev" target="stas00" />
+    <edge source="HuggingFaceDocBuilderDev" target="sgugger" />
+    <edge source="HuggingFaceDocBuilderDev" target="ArthurZucker" />
+    <edge source="HuggingFaceDocBuilderDev" target="NielsRogge" />
+    <edge source="HuggingFaceDocBuilderDev" target="rockmagma02" />
+    <edge source="HuggingFaceDocBuilderDev" target="muellerzr" />
+    <edge source="HuggingFaceDocBuilderDev" target="rennn2002" />
+    <edge source="HuggingFaceDocBuilderDev" target="ydshieh" />
+    <edge source="Rocketknight1" target="ydshieh" />
+    <edge source="Rocketknight1" target="sgugger" />
+    <edge source="Narsil" target="ydshieh" />
+    <edge source="Narsil" target="sgugger" />
+    <edge source="gante" target="sgugger" />
+    <edge source="gante" target="NielsRogge" />
+    <edge source="pacman100" target="sgugger" />
+    <edge source="pacman100" target="muellerzr" />
+    <edge source="pacman100" target="rennn2002" />
+    <edge source="stas00" target="ydshieh" />
+    <edge source="stas00" target="sgugger" />
+    <edge source="sgugger" target="ydshieh" />
+    <edge source="sgugger" target="muellerzr" />
+    <edge source="sgugger" target="NielsRogge" />
+    <edge source="sgugger" target="rennn2002" />
+    <edge source="ArthurZucker" target="rockmagma02" />
+    <edge source="muellerzr" target="rennn2002" />
+    <edge source="sanchit-gandhi" target="ProgramadorArtificial" />
+  </graph>
+</graphml>

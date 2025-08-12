@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="MrZammler" />
+    <node id="nodiscc" />
+    <node id="stelfrag" />
+    <node id="davidmehren" />
+    <node id="ilyam8" />
+    <node id="vjt" />
+    <node id="yasharne" />
+    <node id="tkatsoulas" />
+    <node id="Dim-P" />
+    <node id="Ferroin" />
+    <node id="linuzer" />
+    <node id="thanos-karachalios" />
+    <node id="manos-saratsis" />
+    <node id="Whisper40" />
+    <node id="vlvkobal" />
+    <node id="vincentkersten" />
+    <node id="maneamarius" />
+    <node id="iigorkarpov" />
+    <edge source="MrZammler" target="nodiscc" />
+    <edge source="MrZammler" target="stelfrag" />
+    <edge source="MrZammler" target="davidmehren" />
+    <edge source="MrZammler" target="ilyam8" />
+    <edge source="MrZammler" target="vjt" />
+    <edge source="MrZammler" target="yasharne" />
+    <edge source="nodiscc" target="ilyam8" />
+    <edge source="nodiscc" target="stelfrag" />
+    <edge source="nodiscc" target="vjt" />
+    <edge source="stelfrag" target="davidmehren" />
+    <edge source="stelfrag" target="yasharne" />
+    <edge source="stelfrag" target="ilyam8" />
+    <edge source="stelfrag" target="vjt" />
+    <edge source="davidmehren" target="ilyam8" />
+    <edge source="davidmehren" target="yasharne" />
+    <edge source="ilyam8" target="yasharne" />
+    <edge source="ilyam8" target="tkatsoulas" />
+    <edge source="ilyam8" target="Dim-P" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="linuzer" />
+    <edge source="ilyam8" target="vjt" />
+    <edge source="ilyam8" target="thanos-karachalios" />
+    <edge source="ilyam8" target="manos-saratsis" />
+    <edge source="ilyam8" target="Whisper40" />
+    <edge source="ilyam8" target="vlvkobal" />
+    <edge source="ilyam8" target="vincentkersten" />
+    <edge source="ilyam8" target="maneamarius" />
+    <edge source="ilyam8" target="iigorkarpov" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="iigorkarpov" />
+    <edge source="tkatsoulas" target="vincentkersten" />
+    <edge source="tkatsoulas" target="Dim-P" />
+    <edge source="tkatsoulas" target="manos-saratsis" />
+    <edge source="tkatsoulas" target="maneamarius" />
+    <edge source="tkatsoulas" target="thanos-karachalios" />
+    <edge source="Dim-P" target="Ferroin" />
+    <edge source="Dim-P" target="iigorkarpov" />
+    <edge source="Dim-P" target="vincentkersten" />
+    <edge source="Dim-P" target="manos-saratsis" />
+    <edge source="Dim-P" target="maneamarius" />
+    <edge source="Dim-P" target="thanos-karachalios" />
+    <edge source="Ferroin" target="iigorkarpov" />
+    <edge source="Ferroin" target="manos-saratsis" />
+    <edge source="Ferroin" target="vincentkersten" />
+    <edge source="Ferroin" target="maneamarius" />
+    <edge source="Ferroin" target="thanos-karachalios" />
+    <edge source="thanos-karachalios" target="iigorkarpov" />
+    <edge source="thanos-karachalios" target="vincentkersten" />
+    <edge source="thanos-karachalios" target="maneamarius" />
+    <edge source="thanos-karachalios" target="manos-saratsis" />
+    <edge source="manos-saratsis" target="iigorkarpov" />
+    <edge source="manos-saratsis" target="vincentkersten" />
+    <edge source="manos-saratsis" target="maneamarius" />
+    <edge source="vincentkersten" target="iigorkarpov" />
+    <edge source="vincentkersten" target="maneamarius" />
+    <edge source="maneamarius" target="iigorkarpov" />
+  </graph>
+</graphml>

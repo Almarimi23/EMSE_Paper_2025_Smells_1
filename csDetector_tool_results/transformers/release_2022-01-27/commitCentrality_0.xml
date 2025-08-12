@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="rocketknight1@users.noreply.github.com" />
+    <node id="lysandre@huggingface.co" />
+    <node id="59462357+stevhliu@users.noreply.github.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="49699333+dependabot[bot]@users.noreply.github.com" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="aglozhkov@gmail.com" />
+    <node id="55560583+saullu@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="rocketknight1@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="59462357+stevhliu@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patrick.v.platen@gmail.com" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="aglozhkov@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="rocketknight1@users.noreply.github.com" target="59462357+stevhliu@users.noreply.github.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="rocketknight1@users.noreply.github.com" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="aglozhkov@gmail.com" />
+    <edge source="rocketknight1@users.noreply.github.com" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="aglozhkov@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="lysandre@huggingface.co" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="59462357+stevhliu@users.noreply.github.com" />
+    <edge source="59462357+stevhliu@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="59462357+stevhliu@users.noreply.github.com" target="aglozhkov@gmail.com" />
+    <edge source="59462357+stevhliu@users.noreply.github.com" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="59462357+stevhliu@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="59462357+stevhliu@users.noreply.github.com" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="aglozhkov@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="49699333+dependabot[bot]@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="aglozhkov@gmail.com" />
+    <edge source="49699333+dependabot[bot]@users.noreply.github.com" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="aglozhkov@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="55560583+saullu@users.noreply.github.com" />
+    <edge source="aglozhkov@gmail.com" target="55560583+saullu@users.noreply.github.com" />
+  </graph>
+</graphml>

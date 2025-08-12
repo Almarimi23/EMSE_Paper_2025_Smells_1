@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="adam.paszke@gmail.com" />
+    <node id="gchanan@fb.com" />
+    <node id="colesbury@gmail.com" />
+    <node id="fvsmassa@gmail.com" />
+    <node id="soumith@gmail.com" />
+    <node id="sgross@fb.com" />
+    <node id="jiayq84@gmail.com" />
+    <node id="soumith@fb.com" />
+    <node id="adam.lerer@gmail.com" />
+    <node id="rsf@google.com" />
+    <node id="guorui.xt@gmail.com" />
+    <node id="sjeaugey@nvidia.com" />
+    <node id="davidy@me.com" />
+    <edge source="adam.paszke@gmail.com" target="gchanan@fb.com" />
+    <edge source="adam.paszke@gmail.com" target="colesbury@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="fvsmassa@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="soumith@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="sgross@fb.com" />
+    <edge source="adam.paszke@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="soumith@fb.com" />
+    <edge source="adam.paszke@gmail.com" target="adam.lerer@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="rsf@google.com" />
+    <edge source="adam.paszke@gmail.com" target="guorui.xt@gmail.com" />
+    <edge source="adam.paszke@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="adam.paszke@gmail.com" target="davidy@me.com" />
+    <edge source="gchanan@fb.com" target="soumith@fb.com" />
+    <edge source="gchanan@fb.com" target="colesbury@gmail.com" />
+    <edge source="gchanan@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="gchanan@fb.com" target="soumith@gmail.com" />
+    <edge source="gchanan@fb.com" target="sgross@fb.com" />
+    <edge source="gchanan@fb.com" target="jiayq84@gmail.com" />
+    <edge source="gchanan@fb.com" target="adam.lerer@gmail.com" />
+    <edge source="gchanan@fb.com" target="rsf@google.com" />
+    <edge source="gchanan@fb.com" target="guorui.xt@gmail.com" />
+    <edge source="gchanan@fb.com" target="sjeaugey@nvidia.com" />
+    <edge source="gchanan@fb.com" target="davidy@me.com" />
+    <edge source="colesbury@gmail.com" target="soumith@fb.com" />
+    <edge source="colesbury@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="colesbury@gmail.com" target="guorui.xt@gmail.com" />
+    <edge source="colesbury@gmail.com" target="soumith@gmail.com" />
+    <edge source="colesbury@gmail.com" target="fvsmassa@gmail.com" />
+    <edge source="colesbury@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="colesbury@gmail.com" target="sgross@fb.com" />
+    <edge source="colesbury@gmail.com" target="adam.lerer@gmail.com" />
+    <edge source="colesbury@gmail.com" target="rsf@google.com" />
+    <edge source="colesbury@gmail.com" target="davidy@me.com" />
+    <edge source="fvsmassa@gmail.com" target="soumith@fb.com" />
+    <edge source="fvsmassa@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="fvsmassa@gmail.com" target="guorui.xt@gmail.com" />
+    <edge source="fvsmassa@gmail.com" target="soumith@gmail.com" />
+    <edge source="fvsmassa@gmail.com" target="sgross@fb.com" />
+    <edge source="fvsmassa@gmail.com" target="adam.lerer@gmail.com" />
+    <edge source="fvsmassa@gmail.com" target="rsf@google.com" />
+    <edge source="fvsmassa@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="fvsmassa@gmail.com" target="davidy@me.com" />
+    <edge source="soumith@gmail.com" target="soumith@fb.com" />
+    <edge source="soumith@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="soumith@gmail.com" target="guorui.xt@gmail.com" />
+    <edge source="soumith@gmail.com" target="sgross@fb.com" />
+    <edge source="soumith@gmail.com" target="adam.lerer@gmail.com" />
+    <edge source="soumith@gmail.com" target="rsf@google.com" />
+    <edge source="soumith@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="soumith@gmail.com" target="davidy@me.com" />
+    <edge source="sgross@fb.com" target="soumith@fb.com" />
+    <edge source="sgross@fb.com" target="jiayq84@gmail.com" />
+    <edge source="sgross@fb.com" target="guorui.xt@gmail.com" />
+    <edge source="sgross@fb.com" target="sjeaugey@nvidia.com" />
+    <edge source="sgross@fb.com" target="adam.lerer@gmail.com" />
+    <edge source="sgross@fb.com" target="rsf@google.com" />
+    <edge source="sgross@fb.com" target="davidy@me.com" />
+    <edge source="jiayq84@gmail.com" target="soumith@fb.com" />
+    <edge source="jiayq84@gmail.com" target="adam.lerer@gmail.com" />
+    <edge source="jiayq84@gmail.com" target="rsf@google.com" />
+    <edge source="jiayq84@gmail.com" target="guorui.xt@gmail.com" />
+    <edge source="jiayq84@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="jiayq84@gmail.com" target="davidy@me.com" />
+    <edge source="soumith@fb.com" target="adam.lerer@gmail.com" />
+    <edge source="soumith@fb.com" target="rsf@google.com" />
+    <edge source="soumith@fb.com" target="guorui.xt@gmail.com" />
+    <edge source="soumith@fb.com" target="sjeaugey@nvidia.com" />
+    <edge source="soumith@fb.com" target="davidy@me.com" />
+    <edge source="adam.lerer@gmail.com" target="guorui.xt@gmail.com" />
+    <edge source="adam.lerer@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="adam.lerer@gmail.com" target="davidy@me.com" />
+    <edge source="adam.lerer@gmail.com" target="rsf@google.com" />
+    <edge source="rsf@google.com" target="guorui.xt@gmail.com" />
+    <edge source="rsf@google.com" target="sjeaugey@nvidia.com" />
+    <edge source="rsf@google.com" target="davidy@me.com" />
+    <edge source="guorui.xt@gmail.com" target="sjeaugey@nvidia.com" />
+    <edge source="guorui.xt@gmail.com" target="davidy@me.com" />
+    <edge source="sjeaugey@nvidia.com" target="davidy@me.com" />
+  </graph>
+</graphml>

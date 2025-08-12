@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="soumith@gmail.com" />
+    <node id="azzolini@fb.com" />
+    <node id="angelafan@fb.com" />
+    <node id="ztan@fb.com" />
+    <node id="kecheng@fb.com" />
+    <node id="uyt@fb.com" />
+    <node id="ninghz@fb.com" />
+    <node id="soumith@fb.com" />
+    <node id="pietern@fb.com" />
+    <node id="akyrola@fb.com" />
+    <node id="will.frey@digitalreasoning.com" />
+    <node id="salex@fb.com" />
+    <node id="fvsmassa@gmail.com" />
+    <node id="jiayq84@gmail.com" />
+    <node id="bwasti@fb.com" />
+    <node id="borisfom@users.noreply.github.com" />
+    <edge source="soumith@gmail.com" target="azzolini@fb.com" />
+    <edge source="soumith@gmail.com" target="angelafan@fb.com" />
+    <edge source="soumith@gmail.com" target="ztan@fb.com" />
+    <edge source="soumith@gmail.com" target="kecheng@fb.com" />
+    <edge source="soumith@gmail.com" target="uyt@fb.com" />
+    <edge source="soumith@gmail.com" target="ninghz@fb.com" />
+    <edge source="soumith@gmail.com" target="soumith@fb.com" />
+    <edge source="soumith@gmail.com" target="pietern@fb.com" />
+    <edge source="soumith@gmail.com" target="akyrola@fb.com" />
+    <edge source="soumith@gmail.com" target="will.frey@digitalreasoning.com" />
+    <edge source="soumith@gmail.com" target="salex@fb.com" />
+    <edge source="soumith@gmail.com" target="fvsmassa@gmail.com" />
+    <edge source="soumith@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="soumith@gmail.com" target="bwasti@fb.com" />
+    <edge source="soumith@gmail.com" target="borisfom@users.noreply.github.com" />
+    <edge source="azzolini@fb.com" target="pietern@fb.com" />
+    <edge source="azzolini@fb.com" target="uyt@fb.com" />
+    <edge source="azzolini@fb.com" target="jiayq84@gmail.com" />
+    <edge source="azzolini@fb.com" target="soumith@fb.com" />
+    <edge source="azzolini@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="azzolini@fb.com" target="akyrola@fb.com" />
+    <edge source="azzolini@fb.com" target="ztan@fb.com" />
+    <edge source="azzolini@fb.com" target="angelafan@fb.com" />
+    <edge source="azzolini@fb.com" target="kecheng@fb.com" />
+    <edge source="azzolini@fb.com" target="ninghz@fb.com" />
+    <edge source="azzolini@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="azzolini@fb.com" target="salex@fb.com" />
+    <edge source="azzolini@fb.com" target="bwasti@fb.com" />
+    <edge source="azzolini@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="angelafan@fb.com" target="pietern@fb.com" />
+    <edge source="angelafan@fb.com" target="uyt@fb.com" />
+    <edge source="angelafan@fb.com" target="jiayq84@gmail.com" />
+    <edge source="angelafan@fb.com" target="soumith@fb.com" />
+    <edge source="angelafan@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="angelafan@fb.com" target="akyrola@fb.com" />
+    <edge source="angelafan@fb.com" target="ztan@fb.com" />
+    <edge source="angelafan@fb.com" target="bwasti@fb.com" />
+    <edge source="angelafan@fb.com" target="salex@fb.com" />
+    <edge source="angelafan@fb.com" target="ninghz@fb.com" />
+    <edge source="angelafan@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="angelafan@fb.com" target="kecheng@fb.com" />
+    <edge source="angelafan@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="ztan@fb.com" target="pietern@fb.com" />
+    <edge source="ztan@fb.com" target="uyt@fb.com" />
+    <edge source="ztan@fb.com" target="jiayq84@gmail.com" />
+    <edge source="ztan@fb.com" target="soumith@fb.com" />
+    <edge source="ztan@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="ztan@fb.com" target="akyrola@fb.com" />
+    <edge source="ztan@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="ztan@fb.com" target="kecheng@fb.com" />
+    <edge source="ztan@fb.com" target="salex@fb.com" />
+    <edge source="ztan@fb.com" target="ninghz@fb.com" />
+    <edge source="ztan@fb.com" target="bwasti@fb.com" />
+    <edge source="ztan@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="kecheng@fb.com" target="pietern@fb.com" />
+    <edge source="kecheng@fb.com" target="uyt@fb.com" />
+    <edge source="kecheng@fb.com" target="jiayq84@gmail.com" />
+    <edge source="kecheng@fb.com" target="soumith@fb.com" />
+    <edge source="kecheng@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="kecheng@fb.com" target="akyrola@fb.com" />
+    <edge source="kecheng@fb.com" target="bwasti@fb.com" />
+    <edge source="kecheng@fb.com" target="salex@fb.com" />
+    <edge source="kecheng@fb.com" target="ninghz@fb.com" />
+    <edge source="kecheng@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="kecheng@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="uyt@fb.com" target="pietern@fb.com" />
+    <edge source="uyt@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="uyt@fb.com" target="salex@fb.com" />
+    <edge source="uyt@fb.com" target="ninghz@fb.com" />
+    <edge source="uyt@fb.com" target="soumith@fb.com" />
+    <edge source="uyt@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="uyt@fb.com" target="jiayq84@gmail.com" />
+    <edge source="uyt@fb.com" target="bwasti@fb.com" />
+    <edge source="uyt@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="uyt@fb.com" target="akyrola@fb.com" />
+    <edge source="ninghz@fb.com" target="pietern@fb.com" />
+    <edge source="ninghz@fb.com" target="jiayq84@gmail.com" />
+    <edge source="ninghz@fb.com" target="soumith@fb.com" />
+    <edge source="ninghz@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="ninghz@fb.com" target="akyrola@fb.com" />
+    <edge source="ninghz@fb.com" target="bwasti@fb.com" />
+    <edge source="ninghz@fb.com" target="salex@fb.com" />
+    <edge source="ninghz@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="ninghz@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="soumith@fb.com" target="pietern@fb.com" />
+    <edge source="soumith@fb.com" target="jiayq84@gmail.com" />
+    <edge source="soumith@fb.com" target="akyrola@fb.com" />
+    <edge source="soumith@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="soumith@fb.com" target="salex@fb.com" />
+    <edge source="soumith@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="soumith@fb.com" target="bwasti@fb.com" />
+    <edge source="soumith@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="pietern@fb.com" target="akyrola@fb.com" />
+    <edge source="pietern@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="pietern@fb.com" target="salex@fb.com" />
+    <edge source="pietern@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="pietern@fb.com" target="jiayq84@gmail.com" />
+    <edge source="pietern@fb.com" target="bwasti@fb.com" />
+    <edge source="pietern@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="akyrola@fb.com" target="jiayq84@gmail.com" />
+    <edge source="akyrola@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="akyrola@fb.com" target="will.frey@digitalreasoning.com" />
+    <edge source="akyrola@fb.com" target="salex@fb.com" />
+    <edge source="akyrola@fb.com" target="bwasti@fb.com" />
+    <edge source="akyrola@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="will.frey@digitalreasoning.com" target="jiayq84@gmail.com" />
+    <edge source="will.frey@digitalreasoning.com" target="fvsmassa@gmail.com" />
+    <edge source="will.frey@digitalreasoning.com" target="bwasti@fb.com" />
+    <edge source="will.frey@digitalreasoning.com" target="salex@fb.com" />
+    <edge source="will.frey@digitalreasoning.com" target="borisfom@users.noreply.github.com" />
+    <edge source="salex@fb.com" target="jiayq84@gmail.com" />
+    <edge source="salex@fb.com" target="fvsmassa@gmail.com" />
+    <edge source="salex@fb.com" target="bwasti@fb.com" />
+    <edge source="salex@fb.com" target="borisfom@users.noreply.github.com" />
+    <edge source="fvsmassa@gmail.com" target="jiayq84@gmail.com" />
+    <edge source="fvsmassa@gmail.com" target="bwasti@fb.com" />
+    <edge source="fvsmassa@gmail.com" target="borisfom@users.noreply.github.com" />
+    <edge source="jiayq84@gmail.com" target="bwasti@fb.com" />
+    <edge source="jiayq84@gmail.com" target="borisfom@users.noreply.github.com" />
+    <edge source="bwasti@fb.com" target="borisfom@users.noreply.github.com" />
+  </graph>
+</graphml>

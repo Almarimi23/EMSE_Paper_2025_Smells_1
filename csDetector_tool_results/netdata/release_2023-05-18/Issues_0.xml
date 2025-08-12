@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="jaroslawr" />
+    <node id="k0ste" />
+    <node id="thiagoftsm" />
+    <node id="ilyam8" />
+    <node id="netdata-community-bot" />
+    <node id="RaitoBezarius" />
+    <node id="petecooper" />
+    <node id="arodland" />
+    <node id="underhood" />
+    <node id="nathnial" />
+    <node id="tkatsoulas" />
+    <node id="duy13" />
+    <node id="MrZammler" />
+    <node id="Pihaar" />
+    <node id="mailinglists35" />
+    <node id="iulianhlc" />
+    <node id="Ferroin" />
+    <node id="fayak" />
+    <node id="Dim-P" />
+    <node id="davidcba1" />
+    <node id="stelfrag" />
+    <node id="jmakov" />
+    <node id="krosseyed" />
+    <node id="audioscavenger" />
+    <edge source="jaroslawr" target="k0ste" />
+    <edge source="jaroslawr" target="thiagoftsm" />
+    <edge source="jaroslawr" target="ilyam8" />
+    <edge source="k0ste" target="thiagoftsm" />
+    <edge source="k0ste" target="netdata-community-bot" />
+    <edge source="k0ste" target="ilyam8" />
+    <edge source="thiagoftsm" target="ilyam8" />
+    <edge source="ilyam8" target="RaitoBezarius" />
+    <edge source="ilyam8" target="petecooper" />
+    <edge source="ilyam8" target="arodland" />
+    <edge source="ilyam8" target="underhood" />
+    <edge source="ilyam8" target="nathnial" />
+    <edge source="ilyam8" target="tkatsoulas" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="duy13" />
+    <edge source="ilyam8" target="MrZammler" />
+    <edge source="ilyam8" target="Pihaar" />
+    <edge source="ilyam8" target="mailinglists35" />
+    <edge source="ilyam8" target="iulianhlc" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="fayak" />
+    <edge source="ilyam8" target="Dim-P" />
+    <edge source="netdata-community-bot" target="MrZammler" />
+    <edge source="netdata-community-bot" target="jmakov" />
+    <edge source="netdata-community-bot" target="krosseyed" />
+    <edge source="netdata-community-bot" target="audioscavenger" />
+    <edge source="netdata-community-bot" target="tkatsoulas" />
+    <edge source="petecooper" target="Ferroin" />
+    <edge source="petecooper" target="tkatsoulas" />
+    <edge source="arodland" target="mailinglists35" />
+    <edge source="nathnial" target="MrZammler" />
+    <edge source="nathnial" target="Dim-P" />
+    <edge source="nathnial" target="duy13" />
+    <edge source="nathnial" target="tkatsoulas" />
+    <edge source="nathnial" target="iulianhlc" />
+    <edge source="tkatsoulas" target="MrZammler" />
+    <edge source="tkatsoulas" target="Dim-P" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="duy13" />
+    <edge source="tkatsoulas" target="krosseyed" />
+    <edge source="tkatsoulas" target="Pihaar" />
+    <edge source="tkatsoulas" target="jmakov" />
+    <edge source="tkatsoulas" target="iulianhlc" />
+    <edge source="tkatsoulas" target="audioscavenger" />
+    <edge source="duy13" target="MrZammler" />
+    <edge source="duy13" target="Dim-P" />
+    <edge source="duy13" target="Ferroin" />
+    <edge source="duy13" target="iulianhlc" />
+    <edge source="MrZammler" target="davidcba1" />
+    <edge source="MrZammler" target="iulianhlc" />
+    <edge source="MrZammler" target="stelfrag" />
+    <edge source="MrZammler" target="fayak" />
+    <edge source="MrZammler" target="Dim-P" />
+    <edge source="iulianhlc" target="Dim-P" />
+    <edge source="fayak" target="Dim-P" />
+    <edge source="davidcba1" target="stelfrag" />
+    <edge source="jmakov" target="krosseyed" />
+    <edge source="jmakov" target="audioscavenger" />
+    <edge source="krosseyed" target="audioscavenger" />
+  </graph>
+</graphml>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="soumith" />
+    <node id="ezyang" />
+    <node id="apaszke" />
+    <node id="elistevens" />
+    <node id="cliffwoolley" />
+    <node id="fmassa" />
+    <edge source="soumith" target="ezyang" />
+    <edge source="soumith" target="apaszke" />
+    <edge source="soumith" target="elistevens" />
+    <edge source="soumith" target="cliffwoolley" />
+    <edge source="ezyang" target="elistevens" />
+    <edge source="ezyang" target="apaszke" />
+    <edge source="apaszke" target="elistevens" />
+    <edge source="apaszke" target="fmassa" />
+  </graph>
+</graphml>

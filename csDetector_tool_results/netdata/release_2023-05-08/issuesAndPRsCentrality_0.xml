@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stelfrag" />
+    <node id="andrewm4894" />
+    <node id="MrZammler" />
+    <node id="ktsaou" />
+    <node id="cakrit" />
+    <node id="thiagoftsm" />
+    <node id="vkalintiris" />
+    <node id="tkatsoulas" />
+    <node id="Dim-P" />
+    <node id="Ferroin" />
+    <node id="underhood" />
+    <node id="ilyam8" />
+    <node id="CLAassistant" />
+    <node id="jamgregory" />
+    <node id="jmphilippe" />
+    <node id="jonapoul" />
+    <node id="Ancairon" />
+    <node id="sashwathn" />
+    <node id="hugovalente-pm" />
+    <node id="l2dy" />
+    <node id="ChillarAnand" />
+    <node id="mtrdoo" />
+    <node id="netdata-community-bot" />
+    <node id="moliqingwa" />
+    <node id="vtone-tkay" />
+    <node id="bluepuma77" />
+    <node id="denbonte" />
+    <node id="mailinglists35" />
+    <node id="ralphm" />
+    <edge source="stelfrag" target="andrewm4894" />
+    <edge source="stelfrag" target="MrZammler" />
+    <edge source="stelfrag" target="ktsaou" />
+    <edge source="stelfrag" target="cakrit" />
+    <edge source="stelfrag" target="thiagoftsm" />
+    <edge source="stelfrag" target="vkalintiris" />
+    <edge source="stelfrag" target="tkatsoulas" />
+    <edge source="stelfrag" target="Dim-P" />
+    <edge source="stelfrag" target="Ferroin" />
+    <edge source="stelfrag" target="underhood" />
+    <edge source="stelfrag" target="ilyam8" />
+    <edge source="andrewm4894" target="vkalintiris" />
+    <edge source="andrewm4894" target="cakrit" />
+    <edge source="andrewm4894" target="ilyam8" />
+    <edge source="andrewm4894" target="MrZammler" />
+    <edge source="MrZammler" target="thiagoftsm" />
+    <edge source="MrZammler" target="vkalintiris" />
+    <edge source="MrZammler" target="cakrit" />
+    <edge source="MrZammler" target="ilyam8" />
+    <edge source="MrZammler" target="Dim-P" />
+    <edge source="MrZammler" target="hugovalente-pm" />
+    <edge source="MrZammler" target="bluepuma77" />
+    <edge source="ktsaou" target="underhood" />
+    <edge source="ktsaou" target="thiagoftsm" />
+    <edge source="ktsaou" target="tkatsoulas" />
+    <edge source="ktsaou" target="Ferroin" />
+    <edge source="ktsaou" target="ilyam8" />
+    <edge source="ktsaou" target="cakrit" />
+    <edge source="cakrit" target="vkalintiris" />
+    <edge source="cakrit" target="CLAassistant" />
+    <edge source="cakrit" target="Ancairon" />
+    <edge source="cakrit" target="ilyam8" />
+    <edge source="cakrit" target="tkatsoulas" />
+    <edge source="cakrit" target="Ferroin" />
+    <edge source="cakrit" target="sashwathn" />
+    <edge source="cakrit" target="hugovalente-pm" />
+    <edge source="thiagoftsm" target="underhood" />
+    <edge source="thiagoftsm" target="CLAassistant" />
+    <edge source="thiagoftsm" target="jamgregory" />
+    <edge source="thiagoftsm" target="vkalintiris" />
+    <edge source="thiagoftsm" target="tkatsoulas" />
+    <edge source="thiagoftsm" target="Dim-P" />
+    <edge source="thiagoftsm" target="Ferroin" />
+    <edge source="thiagoftsm" target="jmphilippe" />
+    <edge source="thiagoftsm" target="jonapoul" />
+    <edge source="thiagoftsm" target="ilyam8" />
+    <edge source="vkalintiris" target="ilyam8" />
+    <edge source="tkatsoulas" target="underhood" />
+    <edge source="tkatsoulas" target="Ferroin" />
+    <edge source="tkatsoulas" target="ilyam8" />
+    <edge source="tkatsoulas" target="l2dy" />
+    <edge source="tkatsoulas" target="ChillarAnand" />
+    <edge source="tkatsoulas" target="Dim-P" />
+    <edge source="tkatsoulas" target="mtrdoo" />
+    <edge source="Dim-P" target="underhood" />
+    <edge source="Dim-P" target="Ferroin" />
+    <edge source="Dim-P" target="ilyam8" />
+    <edge source="Dim-P" target="l2dy" />
+    <edge source="Dim-P" target="netdata-community-bot" />
+    <edge source="Dim-P" target="moliqingwa" />
+    <edge source="Dim-P" target="vtone-tkay" />
+    <edge source="Dim-P" target="bluepuma77" />
+    <edge source="Dim-P" target="mtrdoo" />
+    <edge source="Dim-P" target="denbonte" />
+    <edge source="Ferroin" target="l2dy" />
+    <edge source="Ferroin" target="CLAassistant" />
+    <edge source="Ferroin" target="jamgregory" />
+    <edge source="Ferroin" target="ChillarAnand" />
+    <edge source="Ferroin" target="mtrdoo" />
+    <edge source="Ferroin" target="ilyam8" />
+    <edge source="underhood" target="ilyam8" />
+    <edge source="ilyam8" target="Ancairon" />
+    <edge source="ilyam8" target="l2dy" />
+    <edge source="ilyam8" target="netdata-community-bot" />
+    <edge source="ilyam8" target="moliqingwa" />
+    <edge source="ilyam8" target="jamgregory" />
+    <edge source="ilyam8" target="ChillarAnand" />
+    <edge source="ilyam8" target="jonapoul" />
+    <edge source="ilyam8" target="vtone-tkay" />
+    <edge source="ilyam8" target="bluepuma77" />
+    <edge source="ilyam8" target="hugovalente-pm" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="jmphilippe" />
+    <edge source="ilyam8" target="mtrdoo" />
+    <edge source="ilyam8" target="denbonte" />
+    <edge source="CLAassistant" target="jmphilippe" />
+    <edge source="CLAassistant" target="hugovalente-pm" />
+    <edge source="CLAassistant" target="jonapoul" />
+    <edge source="CLAassistant" target="sashwathn" />
+    <edge source="CLAassistant" target="jamgregory" />
+    <edge source="sashwathn" target="hugovalente-pm" />
+    <edge source="ChillarAnand" target="mtrdoo" />
+    <edge source="netdata-community-bot" target="moliqingwa" />
+    <edge source="netdata-community-bot" target="denbonte" />
+    <edge source="netdata-community-bot" target="vtone-tkay" />
+    <edge source="moliqingwa" target="vtone-tkay" />
+    <edge source="moliqingwa" target="denbonte" />
+    <edge source="vtone-tkay" target="denbonte" />
+  </graph>
+</graphml>

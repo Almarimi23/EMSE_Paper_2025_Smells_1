@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="thomwolf@gmail.com" />
+    <node id="deyuf@nvidia.com" />
+    <node id="chatel.gregory@gmail.com" />
+    <node id="nirantk@users.noreply.github.com" />
+    <node id="llii@microsoft.com" />
+    <node id="davidefiocco@users.noreply.github.com" />
+    <node id="malte.pietsch@deepset.ai" />
+    <node id="hzhwcmhf@gmail.com" />
+    <node id="thomwolf@users.noreply.github.com" />
+    <edge source="thomwolf@gmail.com" target="deyuf@nvidia.com" />
+    <edge source="thomwolf@gmail.com" target="chatel.gregory@gmail.com" />
+    <edge source="thomwolf@gmail.com" target="nirantk@users.noreply.github.com" />
+    <edge source="thomwolf@gmail.com" target="llii@microsoft.com" />
+    <edge source="thomwolf@gmail.com" target="davidefiocco@users.noreply.github.com" />
+    <edge source="thomwolf@gmail.com" target="malte.pietsch@deepset.ai" />
+    <edge source="thomwolf@gmail.com" target="hzhwcmhf@gmail.com" />
+    <edge source="thomwolf@gmail.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="deyuf@nvidia.com" target="malte.pietsch@deepset.ai" />
+    <edge source="deyuf@nvidia.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="deyuf@nvidia.com" target="nirantk@users.noreply.github.com" />
+    <edge source="deyuf@nvidia.com" target="davidefiocco@users.noreply.github.com" />
+    <edge source="deyuf@nvidia.com" target="chatel.gregory@gmail.com" />
+    <edge source="deyuf@nvidia.com" target="llii@microsoft.com" />
+    <edge source="deyuf@nvidia.com" target="hzhwcmhf@gmail.com" />
+    <edge source="chatel.gregory@gmail.com" target="malte.pietsch@deepset.ai" />
+    <edge source="chatel.gregory@gmail.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="chatel.gregory@gmail.com" target="nirantk@users.noreply.github.com" />
+    <edge source="chatel.gregory@gmail.com" target="davidefiocco@users.noreply.github.com" />
+    <edge source="chatel.gregory@gmail.com" target="llii@microsoft.com" />
+    <edge source="chatel.gregory@gmail.com" target="hzhwcmhf@gmail.com" />
+    <edge source="nirantk@users.noreply.github.com" target="malte.pietsch@deepset.ai" />
+    <edge source="nirantk@users.noreply.github.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="nirantk@users.noreply.github.com" target="llii@microsoft.com" />
+    <edge source="nirantk@users.noreply.github.com" target="davidefiocco@users.noreply.github.com" />
+    <edge source="nirantk@users.noreply.github.com" target="hzhwcmhf@gmail.com" />
+    <edge source="llii@microsoft.com" target="malte.pietsch@deepset.ai" />
+    <edge source="llii@microsoft.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="llii@microsoft.com" target="davidefiocco@users.noreply.github.com" />
+    <edge source="llii@microsoft.com" target="hzhwcmhf@gmail.com" />
+    <edge source="davidefiocco@users.noreply.github.com" target="malte.pietsch@deepset.ai" />
+    <edge source="davidefiocco@users.noreply.github.com" target="thomwolf@users.noreply.github.com" />
+    <edge source="davidefiocco@users.noreply.github.com" target="hzhwcmhf@gmail.com" />
+    <edge source="malte.pietsch@deepset.ai" target="hzhwcmhf@gmail.com" />
+    <edge source="malte.pietsch@deepset.ai" target="thomwolf@users.noreply.github.com" />
+    <edge source="hzhwcmhf@gmail.com" target="thomwolf@users.noreply.github.com" />
+  </graph>
+</graphml>

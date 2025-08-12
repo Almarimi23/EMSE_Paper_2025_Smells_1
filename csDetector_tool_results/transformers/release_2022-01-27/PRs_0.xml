@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="ymwangg" />
+    <node id="HuggingFaceDocBuilder" />
+    <node id="sgugger" />
+    <node id="patrickvonplaten" />
+    <node id="patil-suraj" />
+    <node id="LysandreJik" />
+    <node id="dataaug" />
+    <node id="Rocketknight1" />
+    <node id="anton-l" />
+    <node id="NielsRogge" />
+    <edge source="ymwangg" target="HuggingFaceDocBuilder" />
+    <edge source="ymwangg" target="sgugger" />
+    <edge source="HuggingFaceDocBuilder" target="patrickvonplaten" />
+    <edge source="HuggingFaceDocBuilder" target="patil-suraj" />
+    <edge source="HuggingFaceDocBuilder" target="LysandreJik" />
+    <edge source="HuggingFaceDocBuilder" target="sgugger" />
+    <edge source="HuggingFaceDocBuilder" target="dataaug" />
+    <edge source="HuggingFaceDocBuilder" target="Rocketknight1" />
+    <edge source="HuggingFaceDocBuilder" target="anton-l" />
+    <edge source="HuggingFaceDocBuilder" target="NielsRogge" />
+    <edge source="sgugger" target="patrickvonplaten" />
+    <edge source="sgugger" target="patil-suraj" />
+    <edge source="sgugger" target="LysandreJik" />
+    <edge source="sgugger" target="dataaug" />
+    <edge source="sgugger" target="Rocketknight1" />
+    <edge source="sgugger" target="NielsRogge" />
+    <edge source="patrickvonplaten" target="LysandreJik" />
+    <edge source="patrickvonplaten" target="anton-l" />
+    <edge source="patrickvonplaten" target="patil-suraj" />
+    <edge source="patil-suraj" target="LysandreJik" />
+    <edge source="LysandreJik" target="NielsRogge" />
+    <edge source="LysandreJik" target="Rocketknight1" />
+  </graph>
+</graphml>

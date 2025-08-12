@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="stelfrag" />
+    <node id="PaulSzymanski" />
+    <node id="ktsaou" />
+    <node id="Ferroin" />
+    <node id="ilyam8" />
+    <node id="netdatabot" />
+    <node id="sepek" />
+    <node id="CLAassistant" />
+    <node id="juacker" />
+    <node id="sashwathn" />
+    <node id="Metric-Void" />
+    <node id="papazach" />
+    <node id="tkatsoulas" />
+    <node id="Nantris" />
+    <node id="Ancairon" />
+    <edge source="stelfrag" target="PaulSzymanski" />
+    <edge source="stelfrag" target="ktsaou" />
+    <edge source="stelfrag" target="Ferroin" />
+    <edge source="stelfrag" target="ilyam8" />
+    <edge source="PaulSzymanski" target="ilyam8" />
+    <edge source="PaulSzymanski" target="Ferroin" />
+    <edge source="PaulSzymanski" target="ktsaou" />
+    <edge source="ktsaou" target="ilyam8" />
+    <edge source="ktsaou" target="Ferroin" />
+    <edge source="Ferroin" target="ilyam8" />
+    <edge source="Ferroin" target="tkatsoulas" />
+    <edge source="Ferroin" target="sashwathn" />
+    <edge source="Ferroin" target="Nantris" />
+    <edge source="Ferroin" target="Ancairon" />
+    <edge source="ilyam8" target="netdatabot" />
+    <edge source="ilyam8" target="sepek" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="juacker" />
+    <edge source="ilyam8" target="sashwathn" />
+    <edge source="ilyam8" target="Metric-Void" />
+    <edge source="ilyam8" target="papazach" />
+    <edge source="CLAassistant" target="Metric-Void" />
+    <edge source="juacker" target="papazach" />
+  </graph>
+</graphml>

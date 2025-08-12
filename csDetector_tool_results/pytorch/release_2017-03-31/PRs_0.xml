@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="tudor-berariu" />
+    <node id="ezyang" />
+    <node id="apaszke" />
+    <node id="soumith" />
+    <node id="colesbury" />
+    <node id="dnouri" />
+    <node id="0mp" />
+    <node id="csarofeen" />
+    <node id="amirsaffari" />
+    <node id="reiinakano" />
+    <node id="zuoxingdong" />
+    <node id="fmassa" />
+    <node id="cwhipkey" />
+    <node id="DigiDigi" />
+    <node id="nhynes" />
+    <node id="chenyuntc" />
+    <node id="FuriouslyCurious" />
+    <node id="brunoalr" />
+    <node id="Jiaming-Liu" />
+    <node id="VirrageS" />
+    <node id="killeent" />
+    <node id="aron-bordin" />
+    <node id="kylefernandes" />
+    <node id="elistevens" />
+    <node id="albanD" />
+    <node id="ethanluoyc" />
+    <node id="peterhj" />
+    <node id="borisfom" />
+    <node id="lantiga" />
+    <node id="szagoruyko" />
+    <node id="bodokaiser" />
+    <node id="ankitkv" />
+    <node id="ilya-biryukov" />
+    <node id="tylergenter" />
+    <node id="DmitryUlyanov" />
+    <node id="keishinkickback" />
+    <node id="facebook-github-bot" />
+    <node id="macaodha" />
+    <node id="Varal7" />
+    <node id="graytowne" />
+    <node id="bunelr" />
+    <node id="pytorchbot" />
+    <node id="sjeaugey" />
+    <node id="nluehr" />
+    <node id="tejaskhot" />
+    <node id="jytug" />
+    <node id="chsasank" />
+    <node id="boeddeker" />
+    <node id="shubhamjain0594" />
+    <node id="ngimel" />
+    <node id="ccarter-cs" />
+    <node id="thomasjpfan" />
+    <node id="edgarriba" />
+    <node id="gchanan" />
+    <node id="victorhcm" />
+    <node id="andrewgiessel" />
+    <node id="BenFielding" />
+    <node id="WarBean" />
+    <node id="jtoy" />
+    <node id="Kaixhin" />
+    <node id="bartolsthoorn" />
+    <node id="adamlerer" />
+    <node id="hojonathanho" />
+    <node id="ncullen93" />
+    <node id="keskarnitish" />
+    <node id="pavanky" />
+    <node id="mys007" />
+    <node id="jekbradbury" />
+    <node id="lucasb-eyer" />
+    <node id="wilk" />
+    <node id="LukasMosser" />
+    <node id="ethancaballero" />
+    <node id="unnir" />
+    <node id="tomsercu" />
+    <node id="alykhantejani" />
+    <node id="siddharthachandra" />
+    <node id="jfsantos" />
+    <node id="quanvuong" />
+    <node id="iamaziz" />
+    <node id="peterjc123" />
+    <node id="BTNC" />
+    <node id="aam-at" />
+    <node id="elikosan" />
+    <node id="pedropgusmao" />
+    <node id="Maratyszcza" />
+    <node id="bamos" />
+    <node id="eklitzke" />
+    <node id="Smerity" />
+    <node id="neverfox" />
+    <edge source="tudor-berariu" target="ezyang" />
+    <edge source="tudor-berariu" target="apaszke" />
+    <edge source="tudor-berariu" target="soumith" />
+    <edge source="ezyang" target="apaszke" />
+    <edge source="ezyang" target="soumith" />
+    <edge source="ezyang" target="Kaixhin" />
+    <edge source="ezyang" target="0mp" />
+    <edge source="ezyang" target="csarofeen" />
+    <edge source="ezyang" target="amirsaffari" />
+    <edge source="ezyang" target="fmassa" />
+    <edge source="ezyang" target="cwhipkey" />
+    <edge source="ezyang" target="adamlerer" />
+    <edge source="ezyang" target="DigiDigi" />
+    <edge source="ezyang" target="chenyuntc" />
+    <edge source="ezyang" target="ncullen93" />
+    <edge source="ezyang" target="keskarnitish" />
+    <edge source="ezyang" target="FuriouslyCurious" />
+    <edge source="ezyang" target="Jiaming-Liu" />
+    <edge source="ezyang" target="VirrageS" />
+    <edge source="ezyang" target="kylefernandes" />
+    <edge source="ezyang" target="ethanluoyc" />
+    <edge source="ezyang" target="LukasMosser" />
+    <edge source="ezyang" target="peterhj" />
+    <edge source="ezyang" target="lantiga" />
+    <edge source="ezyang" target="tomsercu" />
+    <edge source="ezyang" target="szagoruyko" />
+    <edge source="ezyang" target="ankitkv" />
+    <edge source="ezyang" target="peterjc123" />
+    <edge source="ezyang" target="iamaziz" />
+    <edge source="ezyang" target="DmitryUlyanov" />
+    <edge source="ezyang" target="aam-at" />
+    <edge source="ezyang" target="facebook-github-bot" />
+    <edge source="ezyang" target="macaodha" />
+    <edge source="ezyang" target="graytowne" />
+    <edge source="ezyang" target="Maratyszcza" />
+    <edge source="ezyang" target="sjeaugey" />
+    <edge source="ezyang" target="tejaskhot" />
+    <edge source="ezyang" target="jytug" />
+    <edge source="ezyang" target="chsasank" />
+    <edge source="ezyang" target="shubhamjain0594" />
+    <edge source="ezyang" target="ngimel" />
+    <edge source="ezyang" target="ccarter-cs" />
+    <edge source="ezyang" target="thomasjpfan" />
+    <edge source="ezyang" target="eklitzke" />
+    <edge source="ezyang" target="andrewgiessel" />
+    <edge source="ezyang" target="jekbradbury" />
+    <edge source="ezyang" target="dnouri" />
+    <edge source="ezyang" target="colesbury" />
+    <edge source="ezyang" target="bartolsthoorn" />
+    <edge source="ezyang" target="reiinakano" />
+    <edge source="ezyang" target="zuoxingdong" />
+    <edge source="ezyang" target="hojonathanho" />
+    <edge source="ezyang" target="nhynes" />
+    <edge source="ezyang" target="brunoalr" />
+    <edge source="ezyang" target="mys007" />
+    <edge source="ezyang" target="killeent" />
+    <edge source="ezyang" target="aron-bordin" />
+    <edge source="ezyang" target="elistevens" />
+    <edge source="ezyang" target="albanD" />
+    <edge source="ezyang" target="lucasb-eyer" />
+    <edge source="ezyang" target="wilk" />
+    <edge source="ezyang" target="ethancaballero" />
+    <edge source="ezyang" target="borisfom" />
+    <edge source="ezyang" target="unnir" />
+    <edge source="ezyang" target="bodokaiser" />
+    <edge source="ezyang" target="alykhantejani" />
+    <edge source="ezyang" target="siddharthachandra" />
+    <edge source="ezyang" target="jfsantos" />
+    <edge source="ezyang" target="ilya-biryukov" />
+    <edge source="ezyang" target="quanvuong" />
+    <edge source="ezyang" target="tylergenter" />
+    <edge source="ezyang" target="keishinkickback" />
+    <edge source="ezyang" target="Varal7" />
+    <edge source="ezyang" target="pedropgusmao" />
+    <edge source="ezyang" target="bunelr" />
+    <edge source="ezyang" target="pytorchbot" />
+    <edge source="ezyang" target="nluehr" />
+    <edge source="ezyang" target="edgarriba" />
+    <edge source="ezyang" target="gchanan" />
+    <edge source="ezyang" target="victorhcm" />
+    <edge source="ezyang" target="Smerity" />
+    <edge source="ezyang" target="BenFielding" />
+    <edge source="ezyang" target="WarBean" />
+    <edge source="ezyang" target="neverfox" />
+    <edge source="ezyang" target="jtoy" />
+    <edge source="apaszke" target="colesbury" />
+    <edge source="apaszke" target="dnouri" />
+    <edge source="apaszke" target="0mp" />
+    <edge source="apaszke" target="csarofeen" />
+    <edge source="apaszke" target="amirsaffari" />
+    <edge source="apaszke" target="reiinakano" />
+    <edge source="apaszke" target="zuoxingdong" />
+    <edge source="apaszke" target="fmassa" />
+    <edge source="apaszke" target="cwhipkey" />
+    <edge source="apaszke" target="DigiDigi" />
+    <edge source="apaszke" target="nhynes" />
+    <edge source="apaszke" target="chenyuntc" />
+    <edge source="apaszke" target="FuriouslyCurious" />
+    <edge source="apaszke" target="brunoalr" />
+    <edge source="apaszke" target="Jiaming-Liu" />
+    <edge source="apaszke" target="VirrageS" />
+    <edge source="apaszke" target="killeent" />
+    <edge source="apaszke" target="aron-bordin" />
+    <edge source="apaszke" target="kylefernandes" />
+    <edge source="apaszke" target="elistevens" />
+    <edge source="apaszke" target="albanD" />
+    <edge source="apaszke" target="ethanluoyc" />
+    <edge source="apaszke" target="soumith" />
+    <edge source="apaszke" target="peterhj" />
+    <edge source="apaszke" target="borisfom" />
+    <edge source="apaszke" target="lantiga" />
+    <edge source="apaszke" target="szagoruyko" />
+    <edge source="apaszke" target="bodokaiser" />
+    <edge source="apaszke" target="ankitkv" />
+    <edge source="apaszke" target="ilya-biryukov" />
+    <edge source="apaszke" target="tylergenter" />
+    <edge source="apaszke" target="DmitryUlyanov" />
+    <edge source="apaszke" target="keishinkickback" />
+    <edge source="apaszke" target="facebook-github-bot" />
+    <edge source="apaszke" target="macaodha" />
+    <edge source="apaszke" target="Varal7" />
+    <edge source="apaszke" target="graytowne" />
+    <edge source="apaszke" target="bunelr" />
+    <edge source="apaszke" target="pytorchbot" />
+    <edge source="apaszke" target="sjeaugey" />
+    <edge source="apaszke" target="nluehr" />
+    <edge source="apaszke" target="tejaskhot" />
+    <edge source="apaszke" target="jytug" />
+    <edge source="apaszke" target="chsasank" />
+    <edge source="apaszke" target="boeddeker" />
+    <edge source="apaszke" target="shubhamjain0594" />
+    <edge source="apaszke" target="ngimel" />
+    <edge source="apaszke" target="ccarter-cs" />
+    <edge source="apaszke" target="thomasjpfan" />
+    <edge source="apaszke" target="edgarriba" />
+    <edge source="apaszke" target="gchanan" />
+    <edge source="apaszke" target="victorhcm" />
+    <edge source="apaszke" target="andrewgiessel" />
+    <edge source="apaszke" target="BenFielding" />
+    <edge source="apaszke" target="WarBean" />
+    <edge source="apaszke" target="jtoy" />
+    <edge source="soumith" target="colesbury" />
+    <edge source="soumith" target="Kaixhin" />
+    <edge source="soumith" target="bartolsthoorn" />
+    <edge source="soumith" target="csarofeen" />
+    <edge source="soumith" target="zuoxingdong" />
+    <edge source="soumith" target="fmassa" />
+    <edge source="soumith" target="cwhipkey" />
+    <edge source="soumith" target="adamlerer" />
+    <edge source="soumith" target="DigiDigi" />
+    <edge source="soumith" target="nhynes" />
+    <edge source="soumith" target="hojonathanho" />
+    <edge source="soumith" target="chenyuntc" />
+    <edge source="soumith" target="ncullen93" />
+    <edge source="soumith" target="keskarnitish" />
+    <edge source="soumith" target="FuriouslyCurious" />
+    <edge source="soumith" target="pavanky" />
+    <edge source="soumith" target="brunoalr" />
+    <edge source="soumith" target="mys007" />
+    <edge source="soumith" target="jekbradbury" />
+    <edge source="soumith" target="Jiaming-Liu" />
+    <edge source="soumith" target="killeent" />
+    <edge source="soumith" target="kylefernandes" />
+    <edge source="soumith" target="elistevens" />
+    <edge source="soumith" target="albanD" />
+    <edge source="soumith" target="lucasb-eyer" />
+    <edge source="soumith" target="wilk" />
+    <edge source="soumith" target="ethanluoyc" />
+    <edge source="soumith" target="LukasMosser" />
+    <edge source="soumith" target="ethancaballero" />
+    <edge source="soumith" target="peterhj" />
+    <edge source="soumith" target="borisfom" />
+    <edge source="soumith" target="unnir" />
+    <edge source="soumith" target="lantiga" />
+    <edge source="soumith" target="tomsercu" />
+    <edge source="soumith" target="szagoruyko" />
+    <edge source="soumith" target="alykhantejani" />
+    <edge source="soumith" target="ankitkv" />
+    <edge source="soumith" target="siddharthachandra" />
+    <edge source="soumith" target="jfsantos" />
+    <edge source="soumith" target="ilya-biryukov" />
+    <edge source="soumith" target="quanvuong" />
+    <edge source="soumith" target="tylergenter" />
+    <edge source="soumith" target="iamaziz" />
+    <edge source="soumith" target="DmitryUlyanov" />
+    <edge source="soumith" target="peterjc123" />
+    <edge source="soumith" target="BTNC" />
+    <edge source="soumith" target="aam-at" />
+    <edge source="soumith" target="elikosan" />
+    <edge source="soumith" target="macaodha" />
+    <edge source="soumith" target="Varal7" />
+    <edge source="soumith" target="pedropgusmao" />
+    <edge source="soumith" target="bunelr" />
+    <edge source="soumith" target="Maratyszcza" />
+    <edge source="soumith" target="pytorchbot" />
+    <edge source="soumith" target="sjeaugey" />
+    <edge source="soumith" target="nluehr" />
+    <edge source="soumith" target="tejaskhot" />
+    <edge source="soumith" target="chsasank" />
+    <edge source="soumith" target="boeddeker" />
+    <edge source="soumith" target="shubhamjain0594" />
+    <edge source="soumith" target="ngimel" />
+    <edge source="soumith" target="thomasjpfan" />
+    <edge source="soumith" target="edgarriba" />
+    <edge source="soumith" target="gchanan" />
+    <edge source="soumith" target="bamos" />
+    <edge source="soumith" target="victorhcm" />
+    <edge source="soumith" target="eklitzke" />
+    <edge source="soumith" target="Smerity" />
+    <edge source="soumith" target="andrewgiessel" />
+    <edge source="soumith" target="BenFielding" />
+    <edge source="soumith" target="neverfox" />
+    <edge source="soumith" target="jtoy" />
+    <edge source="colesbury" target="gchanan" />
+    <edge source="colesbury" target="boeddeker" />
+    <edge source="colesbury" target="Jiaming-Liu" />
+    <edge source="colesbury" target="szagoruyko" />
+    <edge source="colesbury" target="ngimel" />
+    <edge source="colesbury" target="killeent" />
+    <edge source="colesbury" target="thomasjpfan" />
+    <edge source="colesbury" target="victorhcm" />
+    <edge source="colesbury" target="aam-at" />
+    <edge source="colesbury" target="chenyuntc" />
+    <edge source="colesbury" target="ethanluoyc" />
+    <edge source="colesbury" target="FuriouslyCurious" />
+    <edge source="colesbury" target="pytorchbot" />
+    <edge source="colesbury" target="jtoy" />
+    <edge source="dnouri" target="nhynes" />
+    <edge source="dnouri" target="amirsaffari" />
+    <edge source="0mp" target="VirrageS" />
+    <edge source="0mp" target="jytug" />
+    <edge source="csarofeen" target="ngimel" />
+    <edge source="csarofeen" target="ilya-biryukov" />
+    <edge source="csarofeen" target="DmitryUlyanov" />
+    <edge source="csarofeen" target="cwhipkey" />
+    <edge source="csarofeen" target="DigiDigi" />
+    <edge source="csarofeen" target="Varal7" />
+    <edge source="csarofeen" target="sjeaugey" />
+    <edge source="csarofeen" target="nluehr" />
+    <edge source="csarofeen" target="shubhamjain0594" />
+    <edge source="csarofeen" target="kylefernandes" />
+    <edge source="csarofeen" target="Smerity" />
+    <edge source="csarofeen" target="andrewgiessel" />
+    <edge source="csarofeen" target="BenFielding" />
+    <edge source="csarofeen" target="peterhj" />
+    <edge source="csarofeen" target="borisfom" />
+    <edge source="csarofeen" target="jekbradbury" />
+    <edge source="amirsaffari" target="nhynes" />
+    <edge source="reiinakano" target="WarBean" />
+    <edge source="reiinakano" target="aron-bordin" />
+    <edge source="reiinakano" target="facebook-github-bot" />
+    <edge source="reiinakano" target="keishinkickback" />
+    <edge source="reiinakano" target="ccarter-cs" />
+    <edge source="fmassa" target="bunelr" />
+    <edge source="fmassa" target="Kaixhin" />
+    <edge source="fmassa" target="bodokaiser" />
+    <edge source="fmassa" target="ngimel" />
+    <edge source="fmassa" target="alykhantejani" />
+    <edge source="fmassa" target="ankitkv" />
+    <edge source="fmassa" target="elistevens" />
+    <edge source="fmassa" target="neverfox" />
+    <edge source="fmassa" target="macaodha" />
+    <edge source="fmassa" target="chenyuntc" />
+    <edge source="fmassa" target="andrewgiessel" />
+    <edge source="fmassa" target="LukasMosser" />
+    <edge source="fmassa" target="keskarnitish" />
+    <edge source="fmassa" target="Maratyszcza" />
+    <edge source="fmassa" target="lantiga" />
+    <edge source="cwhipkey" target="andrewgiessel" />
+    <edge source="cwhipkey" target="sjeaugey" />
+    <edge source="cwhipkey" target="kylefernandes" />
+    <edge source="cwhipkey" target="peterhj" />
+    <edge source="cwhipkey" target="nluehr" />
+    <edge source="cwhipkey" target="shubhamjain0594" />
+    <edge source="cwhipkey" target="ilya-biryukov" />
+    <edge source="cwhipkey" target="DmitryUlyanov" />
+    <edge source="cwhipkey" target="DigiDigi" />
+    <edge source="cwhipkey" target="Varal7" />
+    <edge source="cwhipkey" target="BenFielding" />
+    <edge source="cwhipkey" target="borisfom" />
+    <edge source="DigiDigi" target="andrewgiessel" />
+    <edge source="DigiDigi" target="sjeaugey" />
+    <edge source="DigiDigi" target="kylefernandes" />
+    <edge source="DigiDigi" target="peterhj" />
+    <edge source="DigiDigi" target="nluehr" />
+    <edge source="DigiDigi" target="ilya-biryukov" />
+    <edge source="DigiDigi" target="borisfom" />
+    <edge source="DigiDigi" target="DmitryUlyanov" />
+    <edge source="DigiDigi" target="shubhamjain0594" />
+    <edge source="DigiDigi" target="Varal7" />
+    <edge source="DigiDigi" target="BenFielding" />
+    <edge source="nhynes" target="chsasank" />
+    <edge source="chenyuntc" target="boeddeker" />
+    <edge source="chenyuntc" target="neverfox" />
+    <edge source="FuriouslyCurious" target="Jiaming-Liu" />
+    <edge source="FuriouslyCurious" target="thomasjpfan" />
+    <edge source="FuriouslyCurious" target="pytorchbot" />
+    <edge source="FuriouslyCurious" target="szagoruyko" />
+    <edge source="FuriouslyCurious" target="jtoy" />
+    <edge source="FuriouslyCurious" target="victorhcm" />
+    <edge source="Jiaming-Liu" target="szagoruyko" />
+    <edge source="Jiaming-Liu" target="thomasjpfan" />
+    <edge source="Jiaming-Liu" target="peterjc123" />
+    <edge source="Jiaming-Liu" target="victorhcm" />
+    <edge source="Jiaming-Liu" target="ethancaballero" />
+    <edge source="Jiaming-Liu" target="unnir" />
+    <edge source="Jiaming-Liu" target="pytorchbot" />
+    <edge source="Jiaming-Liu" target="jtoy" />
+    <edge source="VirrageS" target="jytug" />
+    <edge source="killeent" target="gchanan" />
+    <edge source="killeent" target="ngimel" />
+    <edge source="aron-bordin" target="WarBean" />
+    <edge source="aron-bordin" target="facebook-github-bot" />
+    <edge source="aron-bordin" target="keishinkickback" />
+    <edge source="aron-bordin" target="ccarter-cs" />
+    <edge source="kylefernandes" target="andrewgiessel" />
+    <edge source="kylefernandes" target="sjeaugey" />
+    <edge source="kylefernandes" target="nluehr" />
+    <edge source="kylefernandes" target="shubhamjain0594" />
+    <edge source="kylefernandes" target="ilya-biryukov" />
+    <edge source="kylefernandes" target="DmitryUlyanov" />
+    <edge source="kylefernandes" target="Varal7" />
+    <edge source="kylefernandes" target="BenFielding" />
+    <edge source="kylefernandes" target="peterhj" />
+    <edge source="kylefernandes" target="borisfom" />
+    <edge source="albanD" target="adamlerer" />
+    <edge source="albanD" target="tylergenter" />
+    <edge source="albanD" target="lantiga" />
+    <edge source="peterhj" target="andrewgiessel" />
+    <edge source="peterhj" target="sjeaugey" />
+    <edge source="peterhj" target="nluehr" />
+    <edge source="peterhj" target="shubhamjain0594" />
+    <edge source="peterhj" target="ilya-biryukov" />
+    <edge source="peterhj" target="DmitryUlyanov" />
+    <edge source="peterhj" target="Varal7" />
+    <edge source="peterhj" target="BenFielding" />
+    <edge source="peterhj" target="borisfom" />
+    <edge source="borisfom" target="andrewgiessel" />
+    <edge source="borisfom" target="sjeaugey" />
+    <edge source="borisfom" target="nluehr" />
+    <edge source="borisfom" target="ilya-biryukov" />
+    <edge source="borisfom" target="shubhamjain0594" />
+    <edge source="borisfom" target="DmitryUlyanov" />
+    <edge source="borisfom" target="Varal7" />
+    <edge source="borisfom" target="BenFielding" />
+    <edge source="lantiga" target="ngimel" />
+    <edge source="lantiga" target="andrewgiessel" />
+    <edge source="lantiga" target="LukasMosser" />
+    <edge source="szagoruyko" target="thomasjpfan" />
+    <edge source="szagoruyko" target="pytorchbot" />
+    <edge source="szagoruyko" target="victorhcm" />
+    <edge source="szagoruyko" target="jtoy" />
+    <edge source="ilya-biryukov" target="andrewgiessel" />
+    <edge source="ilya-biryukov" target="sjeaugey" />
+    <edge source="ilya-biryukov" target="nluehr" />
+    <edge source="ilya-biryukov" target="shubhamjain0594" />
+    <edge source="ilya-biryukov" target="DmitryUlyanov" />
+    <edge source="ilya-biryukov" target="Varal7" />
+    <edge source="ilya-biryukov" target="BenFielding" />
+    <edge source="DmitryUlyanov" target="andrewgiessel" />
+    <edge source="DmitryUlyanov" target="sjeaugey" />
+    <edge source="DmitryUlyanov" target="nluehr" />
+    <edge source="DmitryUlyanov" target="shubhamjain0594" />
+    <edge source="DmitryUlyanov" target="Varal7" />
+    <edge source="DmitryUlyanov" target="BenFielding" />
+    <edge source="DmitryUlyanov" target="mys007" />
+    <edge source="keishinkickback" target="WarBean" />
+    <edge source="keishinkickback" target="ccarter-cs" />
+    <edge source="keishinkickback" target="facebook-github-bot" />
+    <edge source="facebook-github-bot" target="WarBean" />
+    <edge source="facebook-github-bot" target="ccarter-cs" />
+    <edge source="Varal7" target="andrewgiessel" />
+    <edge source="Varal7" target="sjeaugey" />
+    <edge source="Varal7" target="nluehr" />
+    <edge source="Varal7" target="shubhamjain0594" />
+    <edge source="Varal7" target="BenFielding" />
+    <edge source="pytorchbot" target="thomasjpfan" />
+    <edge source="pytorchbot" target="victorhcm" />
+    <edge source="pytorchbot" target="jtoy" />
+    <edge source="sjeaugey" target="andrewgiessel" />
+    <edge source="sjeaugey" target="nluehr" />
+    <edge source="sjeaugey" target="shubhamjain0594" />
+    <edge source="sjeaugey" target="BenFielding" />
+    <edge source="nluehr" target="andrewgiessel" />
+    <edge source="nluehr" target="shubhamjain0594" />
+    <edge source="nluehr" target="BenFielding" />
+    <edge source="shubhamjain0594" target="andrewgiessel" />
+    <edge source="shubhamjain0594" target="BenFielding" />
+    <edge source="ngimel" target="gchanan" />
+    <edge source="ngimel" target="hojonathanho" />
+    <edge source="ngimel" target="Smerity" />
+    <edge source="ngimel" target="andrewgiessel" />
+    <edge source="ngimel" target="LukasMosser" />
+    <edge source="ngimel" target="jekbradbury" />
+    <edge source="ccarter-cs" target="WarBean" />
+    <edge source="thomasjpfan" target="victorhcm" />
+    <edge source="thomasjpfan" target="jtoy" />
+    <edge source="gchanan" target="pavanky" />
+    <edge source="victorhcm" target="jtoy" />
+    <edge source="andrewgiessel" target="BenFielding" />
+    <edge source="andrewgiessel" target="LukasMosser" />
+    <edge source="Kaixhin" target="alykhantejani" />
+    <edge source="Kaixhin" target="Maratyszcza" />
+    <edge source="jekbradbury" target="Smerity" />
+    <edge source="lucasb-eyer" target="iamaziz" />
+    <edge source="ethancaballero" target="peterjc123" />
+    <edge source="ethancaballero" target="unnir" />
+    <edge source="unnir" target="peterjc123" />
+    <edge source="tomsercu" target="pedropgusmao" />
+    <edge source="alykhantejani" target="Maratyszcza" />
+    <edge source="BTNC" target="elikosan" />
+  </graph>
+</graphml>

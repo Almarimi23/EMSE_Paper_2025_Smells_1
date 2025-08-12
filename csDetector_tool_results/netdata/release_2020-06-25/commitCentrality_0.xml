@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="prologic@shortcircuit.net.au" />
+    <node id="thiagoftsm@gmail.com" />
+    <node id="43294513+cakrit@users.noreply.github.com" />
+    <node id="52996999+stelfrag@users.noreply.github.com" />
+    <node id="44345837+mfundul@users.noreply.github.com" />
+    <node id="bot@netdata.cloud" />
+    <node id="jeff@jeffcook.io" />
+    <node id="1043609+amoss@users.noreply.github.com" />
+    <node id="austin@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="thiagoftsm@gmail.com" />
+    <edge source="prologic@shortcircuit.net.au" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="bot@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="jeff@jeffcook.io" />
+    <edge source="prologic@shortcircuit.net.au" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="austin@netdata.cloud" />
+    <edge source="thiagoftsm@gmail.com" target="bot@netdata.cloud" />
+    <edge source="thiagoftsm@gmail.com" target="jeff@jeffcook.io" />
+    <edge source="thiagoftsm@gmail.com" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="thiagoftsm@gmail.com" target="austin@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="jeff@jeffcook.io" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="jeff@jeffcook.io" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="bot@netdata.cloud" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="jeff@jeffcook.io" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="austin@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="jeff@jeffcook.io" />
+    <edge source="bot@netdata.cloud" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="austin@netdata.cloud" />
+    <edge source="jeff@jeffcook.io" target="1043609+amoss@users.noreply.github.com" />
+    <edge source="jeff@jeffcook.io" target="austin@netdata.cloud" />
+    <edge source="1043609+amoss@users.noreply.github.com" target="austin@netdata.cloud" />
+  </graph>
+</graphml>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="sshleifer@gmail.com" />
+    <node id="boris.dayma@gmail.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="lysandre@huggingface.co" />
+    <node id="35901082+sgugger@users.noreply.github.com" />
+    <node id="marrrcin@users.noreply.github.com" />
+    <node id="mrm8488@gmail.com" />
+    <node id="ola.piktus@gmail.com" />
+    <node id="stas00@users.noreply.github.com" />
+    <node id="assoudi@typicasoft.com" />
+    <edge source="sshleifer@gmail.com" target="boris.dayma@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="sshleifer@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="sshleifer@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="sshleifer@gmail.com" target="marrrcin@users.noreply.github.com" />
+    <edge source="sshleifer@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="ola.piktus@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="sshleifer@gmail.com" target="assoudi@typicasoft.com" />
+    <edge source="boris.dayma@gmail.com" target="ola.piktus@gmail.com" />
+    <edge source="boris.dayma@gmail.com" target="marrrcin@users.noreply.github.com" />
+    <edge source="boris.dayma@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="boris.dayma@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="boris.dayma@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="boris.dayma@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="boris.dayma@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="boris.dayma@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="boris.dayma@gmail.com" target="assoudi@typicasoft.com" />
+    <edge source="patrick.v.platen@gmail.com" target="ola.piktus@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="marrrcin@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="assoudi@typicasoft.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="ola.piktus@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="marrrcin@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="lysandre@huggingface.co" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="stas00@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="mrm8488@gmail.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="assoudi@typicasoft.com" />
+    <edge source="lysandre@huggingface.co" target="ola.piktus@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="marrrcin@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="35901082+sgugger@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="mrm8488@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="stas00@users.noreply.github.com" />
+    <edge source="lysandre@huggingface.co" target="assoudi@typicasoft.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="ola.piktus@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="marrrcin@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="mrm8488@gmail.com" />
+    <edge source="35901082+sgugger@users.noreply.github.com" target="assoudi@typicasoft.com" />
+    <edge source="marrrcin@users.noreply.github.com" target="ola.piktus@gmail.com" />
+    <edge source="marrrcin@users.noreply.github.com" target="mrm8488@gmail.com" />
+    <edge source="marrrcin@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="marrrcin@users.noreply.github.com" target="assoudi@typicasoft.com" />
+    <edge source="mrm8488@gmail.com" target="ola.piktus@gmail.com" />
+    <edge source="mrm8488@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="mrm8488@gmail.com" target="assoudi@typicasoft.com" />
+    <edge source="ola.piktus@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="ola.piktus@gmail.com" target="assoudi@typicasoft.com" />
+    <edge source="stas00@users.noreply.github.com" target="assoudi@typicasoft.com" />
+  </graph>
+</graphml>

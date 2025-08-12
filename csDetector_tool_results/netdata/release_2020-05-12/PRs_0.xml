@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="prologic" />
+    <node id="underhood" />
+    <node id="cosmix" />
+    <node id="ilyam8" />
+    <node id="didier13150" />
+    <node id="waybeforenow" />
+    <node id="ktsaou" />
+    <node id="vsc55" />
+    <node id="Izorkin" />
+    <node id="cakrit" />
+    <node id="alexmyczko" />
+    <node id="jacekkolasa" />
+    <node id="VLegakis" />
+    <node id="thiagoftsm" />
+    <node id="odyslam" />
+    <node id="ncmans" />
+    <node id="joelhans" />
+    <node id="sjuxax" />
+    <node id="wags007" />
+    <node id="CLAassistant" />
+    <node id="rduffield" />
+    <node id="roedie" />
+    <node id="Ferroin" />
+    <node id="Saruspete" />
+    <node id="thoggs" />
+    <node id="MrFreezeex" />
+    <node id="mrbrutti" />
+    <node id="amoss" />
+    <node id="diogormendes" />
+    <node id="iigorkarpov" />
+    <node id="Mic92" />
+    <node id="zack-shoylev" />
+    <node id="knatsakis" />
+    <node id="olivluca" />
+    <node id="zvarnes" />
+    <node id="vlvkobal" />
+    <node id="Jelmerrevers" />
+    <node id="mfundul" />
+    <node id="stelfrag" />
+    <node id="hmoragrega" />
+    <node id="stevenh" />
+    <node id="davidmehren" />
+    <node id="Steve8291" />
+    <node id="okias" />
+    <node id="dvershinin" />
+    <node id="netdata-community-bot" />
+    <node id="meulie" />
+    <node id="pkrasam" />
+    <node id="Neamar" />
+    <node id="RubenKelevra" />
+    <node id="driesmp" />
+    <node id="stephenrauch" />
+    <node id="oneoneonepig" />
+    <node id="webash" />
+    <node id="scatenag" />
+    <node id="jeffgdotorg" />
+    <node id="Jiab77" />
+    <node id="aabatangle" />
+    <node id="TheOldMan2000" />
+    <node id="mtds" />
+    <node id="MeganBishopMoore" />
+    <node id="jlbriston" />
+    <edge source="prologic" target="underhood" />
+    <edge source="prologic" target="cosmix" />
+    <edge source="prologic" target="ilyam8" />
+    <edge source="prologic" target="didier13150" />
+    <edge source="prologic" target="waybeforenow" />
+    <edge source="prologic" target="ktsaou" />
+    <edge source="prologic" target="vsc55" />
+    <edge source="prologic" target="Izorkin" />
+    <edge source="prologic" target="cakrit" />
+    <edge source="prologic" target="alexmyczko" />
+    <edge source="prologic" target="jacekkolasa" />
+    <edge source="prologic" target="VLegakis" />
+    <edge source="prologic" target="thiagoftsm" />
+    <edge source="prologic" target="odyslam" />
+    <edge source="prologic" target="ncmans" />
+    <edge source="prologic" target="joelhans" />
+    <edge source="prologic" target="sjuxax" />
+    <edge source="prologic" target="wags007" />
+    <edge source="prologic" target="CLAassistant" />
+    <edge source="prologic" target="rduffield" />
+    <edge source="prologic" target="roedie" />
+    <edge source="prologic" target="Ferroin" />
+    <edge source="prologic" target="Saruspete" />
+    <edge source="prologic" target="thoggs" />
+    <edge source="prologic" target="MrFreezeex" />
+    <edge source="prologic" target="mrbrutti" />
+    <edge source="prologic" target="amoss" />
+    <edge source="prologic" target="diogormendes" />
+    <edge source="prologic" target="iigorkarpov" />
+    <edge source="prologic" target="Mic92" />
+    <edge source="prologic" target="zack-shoylev" />
+    <edge source="prologic" target="knatsakis" />
+    <edge source="prologic" target="olivluca" />
+    <edge source="prologic" target="zvarnes" />
+    <edge source="prologic" target="vlvkobal" />
+    <edge source="prologic" target="Jelmerrevers" />
+    <edge source="prologic" target="mfundul" />
+    <edge source="underhood" target="stelfrag" />
+    <edge source="underhood" target="amoss" />
+    <edge source="underhood" target="cosmix" />
+    <edge source="underhood" target="stevenh" />
+    <edge source="underhood" target="ilyam8" />
+    <edge source="underhood" target="ktsaou" />
+    <edge source="underhood" target="Steve8291" />
+    <edge source="underhood" target="jacekkolasa" />
+    <edge source="underhood" target="VLegakis" />
+    <edge source="underhood" target="thiagoftsm" />
+    <edge source="underhood" target="hmoragrega" />
+    <edge source="underhood" target="joelhans" />
+    <edge source="underhood" target="sjuxax" />
+    <edge source="underhood" target="CLAassistant" />
+    <edge source="underhood" target="Ferroin" />
+    <edge source="underhood" target="dvershinin" />
+    <edge source="underhood" target="netdata-community-bot" />
+    <edge source="underhood" target="zack-shoylev" />
+    <edge source="underhood" target="vlvkobal" />
+    <edge source="underhood" target="mfundul" />
+    <edge source="cosmix" target="stelfrag" />
+    <edge source="cosmix" target="amoss" />
+    <edge source="cosmix" target="CLAassistant" />
+    <edge source="cosmix" target="ilyam8" />
+    <edge source="cosmix" target="Ferroin" />
+    <edge source="cosmix" target="davidmehren" />
+    <edge source="cosmix" target="ktsaou" />
+    <edge source="cosmix" target="cakrit" />
+    <edge source="cosmix" target="Steve8291" />
+    <edge source="cosmix" target="thiagoftsm" />
+    <edge source="cosmix" target="knatsakis" />
+    <edge source="cosmix" target="joelhans" />
+    <edge source="cosmix" target="mfundul" />
+    <edge source="cosmix" target="okias" />
+    <edge source="ilyam8" target="stelfrag" />
+    <edge source="ilyam8" target="amoss" />
+    <edge source="ilyam8" target="roedie" />
+    <edge source="ilyam8" target="CLAassistant" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="mfundul" />
+    <edge source="ilyam8" target="joelhans" />
+    <edge source="ilyam8" target="vlvkobal" />
+    <edge source="ilyam8" target="cakrit" />
+    <edge source="ilyam8" target="webash" />
+    <edge source="ilyam8" target="Jiab77" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="ilyam8" target="aabatangle" />
+    <edge source="ilyam8" target="meulie" />
+    <edge source="ilyam8" target="jlbriston" />
+    <edge source="ilyam8" target="dvershinin" />
+    <edge source="ilyam8" target="thoggs" />
+    <edge source="ilyam8" target="pkrasam" />
+    <edge source="ilyam8" target="Neamar" />
+    <edge source="ilyam8" target="RubenKelevra" />
+    <edge source="ilyam8" target="olivluca" />
+    <edge source="ilyam8" target="knatsakis" />
+    <edge source="ilyam8" target="iigorkarpov" />
+    <edge source="ilyam8" target="MeganBishopMoore" />
+    <edge source="ilyam8" target="driesmp" />
+    <edge source="ilyam8" target="vsc55" />
+    <edge source="ilyam8" target="stephenrauch" />
+    <edge source="ilyam8" target="jacekkolasa" />
+    <edge source="ilyam8" target="Steve8291" />
+    <edge source="ilyam8" target="oneoneonepig" />
+    <edge source="ilyam8" target="ncmans" />
+    <edge source="ilyam8" target="wags007" />
+    <edge source="ilyam8" target="okias" />
+    <edge source="ilyam8" target="scatenag" />
+    <edge source="ilyam8" target="Saruspete" />
+    <edge source="ilyam8" target="TheOldMan2000" />
+    <edge source="ilyam8" target="davidmehren" />
+    <edge source="ilyam8" target="mtds" />
+    <edge source="ilyam8" target="jeffgdotorg" />
+    <edge source="didier13150" target="Ferroin" />
+    <edge source="didier13150" target="Saruspete" />
+    <edge source="waybeforenow" target="CLAassistant" />
+    <edge source="waybeforenow" target="joelhans" />
+    <edge source="ktsaou" target="amoss" />
+    <edge source="ktsaou" target="roedie" />
+    <edge source="ktsaou" target="CLAassistant" />
+    <edge source="ktsaou" target="thiagoftsm" />
+    <edge source="ktsaou" target="Ferroin" />
+    <edge source="ktsaou" target="mfundul" />
+    <edge source="ktsaou" target="vlvkobal" />
+    <edge source="ktsaou" target="driesmp" />
+    <edge source="ktsaou" target="scatenag" />
+    <edge source="ktsaou" target="Saruspete" />
+    <edge source="ktsaou" target="olivluca" />
+    <edge source="ktsaou" target="zack-shoylev" />
+    <edge source="vsc55" target="amoss" />
+    <edge source="vsc55" target="CLAassistant" />
+    <edge source="vsc55" target="Ferroin" />
+    <edge source="vsc55" target="vlvkobal" />
+    <edge source="Izorkin" target="CLAassistant" />
+    <edge source="Izorkin" target="Ferroin" />
+    <edge source="Izorkin" target="Mic92" />
+    <edge source="cakrit" target="thiagoftsm" />
+    <edge source="cakrit" target="Ferroin" />
+    <edge source="cakrit" target="mfundul" />
+    <edge source="cakrit" target="joelhans" />
+    <edge source="cakrit" target="knatsakis" />
+    <edge source="cakrit" target="ncmans" />
+    <edge source="alexmyczko" target="roedie" />
+    <edge source="alexmyczko" target="CLAassistant" />
+    <edge source="alexmyczko" target="thiagoftsm" />
+    <edge source="alexmyczko" target="odyslam" />
+    <edge source="alexmyczko" target="Ferroin" />
+    <edge source="jacekkolasa" target="amoss" />
+    <edge source="jacekkolasa" target="CLAassistant" />
+    <edge source="jacekkolasa" target="thiagoftsm" />
+    <edge source="jacekkolasa" target="joelhans" />
+    <edge source="jacekkolasa" target="vlvkobal" />
+    <edge source="jacekkolasa" target="Neamar" />
+    <edge source="jacekkolasa" target="VLegakis" />
+    <edge source="VLegakis" target="amoss" />
+    <edge source="thiagoftsm" target="stelfrag" />
+    <edge source="thiagoftsm" target="amoss" />
+    <edge source="thiagoftsm" target="roedie" />
+    <edge source="thiagoftsm" target="CLAassistant" />
+    <edge source="thiagoftsm" target="Jiab77" />
+    <edge source="thiagoftsm" target="aabatangle" />
+    <edge source="thiagoftsm" target="Steve8291" />
+    <edge source="thiagoftsm" target="odyslam" />
+    <edge source="thiagoftsm" target="meulie" />
+    <edge source="thiagoftsm" target="webash" />
+    <edge source="thiagoftsm" target="joelhans" />
+    <edge source="thiagoftsm" target="sjuxax" />
+    <edge source="thiagoftsm" target="okias" />
+    <edge source="thiagoftsm" target="Ferroin" />
+    <edge source="thiagoftsm" target="Saruspete" />
+    <edge source="thiagoftsm" target="thoggs" />
+    <edge source="thiagoftsm" target="TheOldMan2000" />
+    <edge source="thiagoftsm" target="MrFreezeex" />
+    <edge source="thiagoftsm" target="davidmehren" />
+    <edge source="thiagoftsm" target="netdata-community-bot" />
+    <edge source="thiagoftsm" target="pkrasam" />
+    <edge source="thiagoftsm" target="mtds" />
+    <edge source="thiagoftsm" target="zack-shoylev" />
+    <edge source="thiagoftsm" target="knatsakis" />
+    <edge source="thiagoftsm" target="vlvkobal" />
+    <edge source="thiagoftsm" target="jeffgdotorg" />
+    <edge source="thiagoftsm" target="mfundul" />
+    <edge source="odyslam" target="roedie" />
+    <edge source="odyslam" target="CLAassistant" />
+    <edge source="odyslam" target="Ferroin" />
+    <edge source="ncmans" target="joelhans" />
+    <edge source="ncmans" target="knatsakis" />
+    <edge source="joelhans" target="stelfrag" />
+    <edge source="joelhans" target="amoss" />
+    <edge source="joelhans" target="CLAassistant" />
+    <edge source="joelhans" target="Ferroin" />
+    <edge source="joelhans" target="mfundul" />
+    <edge source="joelhans" target="MeganBishopMoore" />
+    <edge source="joelhans" target="Jiab77" />
+    <edge source="joelhans" target="stephenrauch" />
+    <edge source="joelhans" target="aabatangle" />
+    <edge source="joelhans" target="Steve8291" />
+    <edge source="joelhans" target="oneoneonepig" />
+    <edge source="joelhans" target="webash" />
+    <edge source="joelhans" target="wags007" />
+    <edge source="joelhans" target="okias" />
+    <edge source="joelhans" target="jlbriston" />
+    <edge source="joelhans" target="rduffield" />
+    <edge source="joelhans" target="dvershinin" />
+    <edge source="joelhans" target="thoggs" />
+    <edge source="joelhans" target="davidmehren" />
+    <edge source="joelhans" target="zack-shoylev" />
+    <edge source="joelhans" target="knatsakis" />
+    <edge source="joelhans" target="zvarnes" />
+    <edge source="joelhans" target="vlvkobal" />
+    <edge source="joelhans" target="Jelmerrevers" />
+    <edge source="sjuxax" target="CLAassistant" />
+    <edge source="wags007" target="CLAassistant" />
+    <edge source="CLAassistant" target="roedie" />
+    <edge source="CLAassistant" target="meulie" />
+    <edge source="CLAassistant" target="Ferroin" />
+    <edge source="CLAassistant" target="thoggs" />
+    <edge source="CLAassistant" target="pkrasam" />
+    <edge source="CLAassistant" target="Neamar" />
+    <edge source="CLAassistant" target="RubenKelevra" />
+    <edge source="CLAassistant" target="olivluca" />
+    <edge source="CLAassistant" target="iigorkarpov" />
+    <edge source="CLAassistant" target="Jelmerrevers" />
+    <edge source="CLAassistant" target="driesmp" />
+    <edge source="CLAassistant" target="stephenrauch" />
+    <edge source="CLAassistant" target="oneoneonepig" />
+    <edge source="CLAassistant" target="webash" />
+    <edge source="CLAassistant" target="okias" />
+    <edge source="CLAassistant" target="scatenag" />
+    <edge source="CLAassistant" target="MrFreezeex" />
+    <edge source="CLAassistant" target="davidmehren" />
+    <edge source="CLAassistant" target="mrbrutti" />
+    <edge source="CLAassistant" target="Mic92" />
+    <edge source="CLAassistant" target="zvarnes" />
+    <edge source="CLAassistant" target="vlvkobal" />
+    <edge source="CLAassistant" target="jeffgdotorg" />
+    <edge source="CLAassistant" target="mfundul" />
+    <edge source="rduffield" target="zack-shoylev" />
+    <edge source="roedie" target="Ferroin" />
+    <edge source="roedie" target="Saruspete" />
+    <edge source="roedie" target="MrFreezeex" />
+    <edge source="roedie" target="vlvkobal" />
+    <edge source="Ferroin" target="stelfrag" />
+    <edge source="Ferroin" target="amoss" />
+    <edge source="Ferroin" target="Saruspete" />
+    <edge source="Ferroin" target="dvershinin" />
+    <edge source="Ferroin" target="thoggs" />
+    <edge source="Ferroin" target="MrFreezeex" />
+    <edge source="Ferroin" target="diogormendes" />
+    <edge source="Ferroin" target="iigorkarpov" />
+    <edge source="Ferroin" target="Mic92" />
+    <edge source="Ferroin" target="zack-shoylev" />
+    <edge source="Ferroin" target="knatsakis" />
+    <edge source="Ferroin" target="olivluca" />
+    <edge source="Ferroin" target="zvarnes" />
+    <edge source="Ferroin" target="vlvkobal" />
+    <edge source="Ferroin" target="mfundul" />
+    <edge source="Saruspete" target="vlvkobal" />
+    <edge source="Saruspete" target="mtds" />
+    <edge source="mrbrutti" target="vlvkobal" />
+    <edge source="amoss" target="stelfrag" />
+    <edge source="amoss" target="stevenh" />
+    <edge source="amoss" target="hmoragrega" />
+    <edge source="amoss" target="diogormendes" />
+    <edge source="amoss" target="zack-shoylev" />
+    <edge source="amoss" target="knatsakis" />
+    <edge source="amoss" target="vlvkobal" />
+    <edge source="amoss" target="mfundul" />
+    <edge source="iigorkarpov" target="olivluca" />
+    <edge source="zack-shoylev" target="mfundul" />
+    <edge source="zack-shoylev" target="knatsakis" />
+    <edge source="knatsakis" target="mfundul" />
+    <edge source="knatsakis" target="vlvkobal" />
+    <edge source="olivluca" target="mfundul" />
+    <edge source="vlvkobal" target="stelfrag" />
+    <edge source="vlvkobal" target="mfundul" />
+    <edge source="vlvkobal" target="driesmp" />
+    <edge source="vlvkobal" target="Steve8291" />
+    <edge source="vlvkobal" target="scatenag" />
+    <edge source="vlvkobal" target="TheOldMan2000" />
+    <edge source="vlvkobal" target="netdata-community-bot" />
+    <edge source="vlvkobal" target="RubenKelevra" />
+    <edge source="vlvkobal" target="mtds" />
+    <edge source="vlvkobal" target="jeffgdotorg" />
+    <edge source="mfundul" target="stelfrag" />
+    <edge source="stelfrag" target="hmoragrega" />
+    <edge source="davidmehren" target="okias" />
+    <edge source="meulie" target="pkrasam" />
+    <edge source="aabatangle" target="jlbriston" />
+  </graph>
+</graphml>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="jacekkolasa" />
+    <node id="dimko" />
+    <node id="AlexNti" />
+    <node id="odynik" />
+    <node id="ilyam8" />
+    <node id="stelfrag" />
+    <node id="c0bra-dev" />
+    <node id="maneamarius" />
+    <node id="rchukka" />
+    <node id="kickoke" />
+    <node id="Ferroin" />
+    <node id="winkee01" />
+    <node id="iigorkarpov" />
+    <node id="vobruba-martin" />
+    <node id="ktsaou" />
+    <node id="davidmehren" />
+    <node id="ThomasLamprecht" />
+    <node id="clintmod" />
+    <node id="MrZammler" />
+    <node id="thiagoftsm" />
+    <node id="cpipilas" />
+    <node id="therealgilles" />
+    <edge source="jacekkolasa" target="dimko" />
+    <edge source="jacekkolasa" target="AlexNti" />
+    <edge source="dimko" target="AlexNti" />
+    <edge source="odynik" target="ilyam8" />
+    <edge source="odynik" target="stelfrag" />
+    <edge source="ilyam8" target="c0bra-dev" />
+    <edge source="ilyam8" target="maneamarius" />
+    <edge source="ilyam8" target="rchukka" />
+    <edge source="ilyam8" target="stelfrag" />
+    <edge source="ilyam8" target="kickoke" />
+    <edge source="ilyam8" target="Ferroin" />
+    <edge source="ilyam8" target="winkee01" />
+    <edge source="ilyam8" target="iigorkarpov" />
+    <edge source="ilyam8" target="vobruba-martin" />
+    <edge source="ilyam8" target="ktsaou" />
+    <edge source="ilyam8" target="davidmehren" />
+    <edge source="ilyam8" target="ThomasLamprecht" />
+    <edge source="ilyam8" target="clintmod" />
+    <edge source="ilyam8" target="MrZammler" />
+    <edge source="ilyam8" target="thiagoftsm" />
+    <edge source="ilyam8" target="cpipilas" />
+    <edge source="ilyam8" target="therealgilles" />
+    <edge source="c0bra-dev" target="maneamarius" />
+    <edge source="c0bra-dev" target="Ferroin" />
+    <edge source="c0bra-dev" target="iigorkarpov" />
+    <edge source="maneamarius" target="kickoke" />
+    <edge source="maneamarius" target="Ferroin" />
+    <edge source="maneamarius" target="iigorkarpov" />
+    <edge source="kickoke" target="Ferroin" />
+    <edge source="Ferroin" target="iigorkarpov" />
+    <edge source="vobruba-martin" target="ThomasLamprecht" />
+    <edge source="vobruba-martin" target="ktsaou" />
+    <edge source="vobruba-martin" target="davidmehren" />
+    <edge source="vobruba-martin" target="thiagoftsm" />
+    <edge source="ktsaou" target="ThomasLamprecht" />
+    <edge source="ktsaou" target="thiagoftsm" />
+    <edge source="ktsaou" target="davidmehren" />
+    <edge source="davidmehren" target="ThomasLamprecht" />
+    <edge source="davidmehren" target="thiagoftsm" />
+    <edge source="ThomasLamprecht" target="thiagoftsm" />
+    <edge source="clintmod" target="cpipilas" />
+    <edge source="clintmod" target="MrZammler" />
+    <edge source="MrZammler" target="cpipilas" />
+  </graph>
+</graphml>

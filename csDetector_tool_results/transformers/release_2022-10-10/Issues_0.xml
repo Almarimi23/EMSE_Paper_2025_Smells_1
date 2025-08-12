@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="gante" />
+    <node id="CaffreyR" />
+    <node id="robbohua" />
+    <node id="patrickvonplaten" />
+    <node id="tatiana-iazykova" />
+    <node id="Narsil" />
+    <node id="FrancescoSaverioZuppichini" />
+    <node id="NielsRogge" />
+    <node id="dranreb1660" />
+    <node id="LysandreJik" />
+    <node id="ArthurZucker" />
+    <node id="sondun2001" />
+    <node id="sgugger" />
+    <node id="pietrolesci" />
+    <node id="Taytay" />
+    <node id="alaradirik" />
+    <node id="ekazakos" />
+    <edge source="gante" target="CaffreyR" />
+    <edge source="gante" target="robbohua" />
+    <edge source="gante" target="patrickvonplaten" />
+    <edge source="gante" target="tatiana-iazykova" />
+    <edge source="gante" target="Narsil" />
+    <edge source="CaffreyR" target="Narsil" />
+    <edge source="patrickvonplaten" target="tatiana-iazykova" />
+    <edge source="FrancescoSaverioZuppichini" target="NielsRogge" />
+    <edge source="NielsRogge" target="dranreb1660" />
+    <edge source="LysandreJik" target="ArthurZucker" />
+    <edge source="LysandreJik" target="sondun2001" />
+    <edge source="LysandreJik" target="sgugger" />
+    <edge source="LysandreJik" target="pietrolesci" />
+    <edge source="LysandreJik" target="Taytay" />
+    <edge source="ArthurZucker" target="pietrolesci" />
+    <edge source="sondun2001" target="pietrolesci" />
+    <edge source="sondun2001" target="Taytay" />
+    <edge source="sondun2001" target="sgugger" />
+    <edge source="sgugger" target="pietrolesci" />
+    <edge source="sgugger" target="Taytay" />
+    <edge source="pietrolesci" target="Taytay" />
+    <edge source="alaradirik" target="ekazakos" />
+  </graph>
+</graphml>

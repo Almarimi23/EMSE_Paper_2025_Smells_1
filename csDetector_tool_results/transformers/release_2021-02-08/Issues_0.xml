@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Svito-zar" />
+    <node id="patrickvonplaten" />
+    <node id="amiyamandal-dev" />
+    <node id="swethmandava" />
+    <node id="patil-suraj" />
+    <node id="LysandreJik" />
+    <node id="zakidotai" />
+    <node id="n1t0" />
+    <node id="shangw-nvidia" />
+    <node id="jplu" />
+    <node id="yzy1121" />
+    <node id="MLDovakin" />
+    <node id="himanshisyadav" />
+    <node id="nouranali" />
+    <node id="ZJaume" />
+    <node id="alps-sun" />
+    <node id="iron-hope-shop" />
+    <node id="nikchha" />
+    <node id="ArthurConmy" />
+    <node id="julien-c" />
+    <node id="states786" />
+    <node id="Tortoise17" />
+    <node id="decahedron1" />
+    <node id="stas00" />
+    <node id="sgugger" />
+    <node id="yuhaozhang" />
+    <node id="evertonaleixo" />
+    <node id="bogdankostic" />
+    <node id="NielsRogge" />
+    <node id="KML1337" />
+    <edge source="patrickvonplaten" target="amiyamandal-dev" />
+    <edge source="patrickvonplaten" target="swethmandava" />
+    <edge source="patrickvonplaten" target="patil-suraj" />
+    <edge source="swethmandava" target="patil-suraj" />
+    <edge source="patil-suraj" target="stas00" />
+    <edge source="patil-suraj" target="sgugger" />
+    <edge source="LysandreJik" target="zakidotai" />
+    <edge source="LysandreJik" target="n1t0" />
+    <edge source="LysandreJik" target="shangw-nvidia" />
+    <edge source="LysandreJik" target="jplu" />
+    <edge source="LysandreJik" target="yzy1121" />
+    <edge source="LysandreJik" target="MLDovakin" />
+    <edge source="LysandreJik" target="himanshisyadav" />
+    <edge source="LysandreJik" target="nouranali" />
+    <edge source="LysandreJik" target="ZJaume" />
+    <edge source="LysandreJik" target="alps-sun" />
+    <edge source="LysandreJik" target="iron-hope-shop" />
+    <edge source="LysandreJik" target="nikchha" />
+    <edge source="LysandreJik" target="ArthurConmy" />
+    <edge source="LysandreJik" target="julien-c" />
+    <edge source="zakidotai" target="julien-c" />
+    <edge source="zakidotai" target="himanshisyadav" />
+    <edge source="zakidotai" target="iron-hope-shop" />
+    <edge source="zakidotai" target="ArthurConmy" />
+    <edge source="zakidotai" target="yzy1121" />
+    <edge source="zakidotai" target="nouranali" />
+    <edge source="zakidotai" target="alps-sun" />
+    <edge source="n1t0" target="MLDovakin" />
+    <edge source="jplu" target="ZJaume" />
+    <edge source="yzy1121" target="julien-c" />
+    <edge source="yzy1121" target="himanshisyadav" />
+    <edge source="yzy1121" target="iron-hope-shop" />
+    <edge source="yzy1121" target="alps-sun" />
+    <edge source="yzy1121" target="nouranali" />
+    <edge source="yzy1121" target="ArthurConmy" />
+    <edge source="himanshisyadav" target="julien-c" />
+    <edge source="himanshisyadav" target="iron-hope-shop" />
+    <edge source="himanshisyadav" target="ArthurConmy" />
+    <edge source="himanshisyadav" target="nouranali" />
+    <edge source="himanshisyadav" target="alps-sun" />
+    <edge source="nouranali" target="julien-c" />
+    <edge source="nouranali" target="iron-hope-shop" />
+    <edge source="nouranali" target="alps-sun" />
+    <edge source="nouranali" target="ArthurConmy" />
+    <edge source="alps-sun" target="julien-c" />
+    <edge source="alps-sun" target="iron-hope-shop" />
+    <edge source="alps-sun" target="ArthurConmy" />
+    <edge source="iron-hope-shop" target="julien-c" />
+    <edge source="iron-hope-shop" target="ArthurConmy" />
+    <edge source="ArthurConmy" target="julien-c" />
+    <edge source="Tortoise17" target="decahedron1" />
+    <edge source="stas00" target="sgugger" />
+    <edge source="yuhaozhang" target="evertonaleixo" />
+    <edge source="yuhaozhang" target="bogdankostic" />
+    <edge source="yuhaozhang" target="NielsRogge" />
+    <edge source="yuhaozhang" target="KML1337" />
+    <edge source="evertonaleixo" target="bogdankostic" />
+    <edge source="evertonaleixo" target="KML1337" />
+    <edge source="evertonaleixo" target="NielsRogge" />
+    <edge source="bogdankostic" target="NielsRogge" />
+    <edge source="bogdankostic" target="KML1337" />
+    <edge source="NielsRogge" target="KML1337" />
+  </graph>
+</graphml>

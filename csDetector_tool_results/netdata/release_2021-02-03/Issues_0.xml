@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="MrZammler" />
+    <node id="PeterKW" />
+    <node id="gyoza" />
+    <node id="Ferroin" />
+    <node id="CberYellowstone" />
+    <node id="odyslam" />
+    <node id="therealgilles" />
+    <node id="vlvkobal" />
+    <node id="mamema" />
+    <node id="agrimal" />
+    <node id="ilyam8" />
+    <node id="oleotiger" />
+    <node id="fzyzcjy" />
+    <node id="rda0" />
+    <node id="mfundul" />
+    <node id="ccrvlh" />
+    <node id="aldem" />
+    <node id="underhood" />
+    <node id="robinhuiser" />
+    <node id="stelfrag" />
+    <node id="abrbon" />
+    <node id="netdata-community-bot" />
+    <edge source="MrZammler" target="PeterKW" />
+    <edge source="gyoza" target="Ferroin" />
+    <edge source="Ferroin" target="CberYellowstone" />
+    <edge source="Ferroin" target="odyslam" />
+    <edge source="Ferroin" target="therealgilles" />
+    <edge source="CberYellowstone" target="odyslam" />
+    <edge source="odyslam" target="vlvkobal" />
+    <edge source="odyslam" target="mamema" />
+    <edge source="odyslam" target="agrimal" />
+    <edge source="odyslam" target="ilyam8" />
+    <edge source="odyslam" target="oleotiger" />
+    <edge source="odyslam" target="therealgilles" />
+    <edge source="vlvkobal" target="oleotiger" />
+    <edge source="vlvkobal" target="fzyzcjy" />
+    <edge source="vlvkobal" target="agrimal" />
+    <edge source="vlvkobal" target="ilyam8" />
+    <edge source="mamema" target="ilyam8" />
+    <edge source="agrimal" target="ilyam8" />
+    <edge source="ilyam8" target="rda0" />
+    <edge source="ilyam8" target="mfundul" />
+    <edge source="ilyam8" target="ccrvlh" />
+    <edge source="ilyam8" target="aldem" />
+    <edge source="mfundul" target="aldem" />
+    <edge source="underhood" target="robinhuiser" />
+    <edge source="underhood" target="stelfrag" />
+    <edge source="robinhuiser" target="stelfrag" />
+  </graph>
+</graphml>

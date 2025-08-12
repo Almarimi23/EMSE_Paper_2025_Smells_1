@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="soumith" />
+    <node id="b1zantine" />
+    <node id="gchanan" />
+    <node id="LJYlearner" />
+    <node id="ezyang" />
+    <node id="fmassa" />
+    <node id="andreaskoepf" />
+    <node id="colesbury" />
+    <node id="huangsiyuzhoujie" />
+    <node id="adamlerer" />
+    <node id="cyberwillis" />
+    <node id="LinMaris" />
+    <node id="dkkim93" />
+    <node id="reRaymond" />
+    <node id="szagoruyko" />
+    <node id="rguthrie3" />
+    <node id="Rajan244" />
+    <node id="themightyoarfish" />
+    <node id="Rio56" />
+    <node id="CedricBeaulac" />
+    <node id="gauravgoenka" />
+    <node id="apaszke" />
+    <node id="phenixcx" />
+    <edge source="soumith" target="b1zantine" />
+    <edge source="soumith" target="gchanan" />
+    <edge source="soumith" target="LJYlearner" />
+    <edge source="soumith" target="ezyang" />
+    <edge source="soumith" target="fmassa" />
+    <edge source="soumith" target="andreaskoepf" />
+    <edge source="soumith" target="colesbury" />
+    <edge source="soumith" target="huangsiyuzhoujie" />
+    <edge source="soumith" target="adamlerer" />
+    <edge source="soumith" target="cyberwillis" />
+    <edge source="soumith" target="LinMaris" />
+    <edge source="soumith" target="dkkim93" />
+    <edge source="soumith" target="reRaymond" />
+    <edge source="soumith" target="szagoruyko" />
+    <edge source="soumith" target="rguthrie3" />
+    <edge source="soumith" target="Rajan244" />
+    <edge source="soumith" target="themightyoarfish" />
+    <edge source="soumith" target="Rio56" />
+    <edge source="soumith" target="CedricBeaulac" />
+    <edge source="soumith" target="gauravgoenka" />
+    <edge source="soumith" target="apaszke" />
+    <edge source="soumith" target="phenixcx" />
+    <edge source="b1zantine" target="apaszke" />
+    <edge source="b1zantine" target="szagoruyko" />
+    <edge source="b1zantine" target="cyberwillis" />
+    <edge source="b1zantine" target="phenixcx" />
+    <edge source="b1zantine" target="reRaymond" />
+    <edge source="b1zantine" target="LJYlearner" />
+    <edge source="b1zantine" target="gauravgoenka" />
+    <edge source="b1zantine" target="Rajan244" />
+    <edge source="b1zantine" target="huangsiyuzhoujie" />
+    <edge source="b1zantine" target="CedricBeaulac" />
+    <edge source="b1zantine" target="Rio56" />
+    <edge source="b1zantine" target="LinMaris" />
+    <edge source="b1zantine" target="dkkim93" />
+    <edge source="gchanan" target="apaszke" />
+    <edge source="gchanan" target="ezyang" />
+    <edge source="gchanan" target="fmassa" />
+    <edge source="gchanan" target="andreaskoepf" />
+    <edge source="gchanan" target="adamlerer" />
+    <edge source="LJYlearner" target="apaszke" />
+    <edge source="LJYlearner" target="szagoruyko" />
+    <edge source="LJYlearner" target="cyberwillis" />
+    <edge source="LJYlearner" target="huangsiyuzhoujie" />
+    <edge source="LJYlearner" target="LinMaris" />
+    <edge source="LJYlearner" target="phenixcx" />
+    <edge source="LJYlearner" target="Rio56" />
+    <edge source="LJYlearner" target="dkkim93" />
+    <edge source="LJYlearner" target="gauravgoenka" />
+    <edge source="LJYlearner" target="reRaymond" />
+    <edge source="LJYlearner" target="Rajan244" />
+    <edge source="LJYlearner" target="CedricBeaulac" />
+    <edge source="ezyang" target="apaszke" />
+    <edge source="ezyang" target="fmassa" />
+    <edge source="ezyang" target="rguthrie3" />
+    <edge source="ezyang" target="andreaskoepf" />
+    <edge source="ezyang" target="adamlerer" />
+    <edge source="fmassa" target="colesbury" />
+    <edge source="fmassa" target="apaszke" />
+    <edge source="fmassa" target="szagoruyko" />
+    <edge source="fmassa" target="andreaskoepf" />
+    <edge source="fmassa" target="adamlerer" />
+    <edge source="andreaskoepf" target="apaszke" />
+    <edge source="andreaskoepf" target="adamlerer" />
+    <edge source="colesbury" target="szagoruyko" />
+    <edge source="colesbury" target="apaszke" />
+    <edge source="colesbury" target="adamlerer" />
+    <edge source="colesbury" target="themightyoarfish" />
+    <edge source="huangsiyuzhoujie" target="apaszke" />
+    <edge source="huangsiyuzhoujie" target="szagoruyko" />
+    <edge source="huangsiyuzhoujie" target="cyberwillis" />
+    <edge source="huangsiyuzhoujie" target="phenixcx" />
+    <edge source="huangsiyuzhoujie" target="reRaymond" />
+    <edge source="huangsiyuzhoujie" target="gauravgoenka" />
+    <edge source="huangsiyuzhoujie" target="Rajan244" />
+    <edge source="huangsiyuzhoujie" target="CedricBeaulac" />
+    <edge source="huangsiyuzhoujie" target="Rio56" />
+    <edge source="huangsiyuzhoujie" target="LinMaris" />
+    <edge source="huangsiyuzhoujie" target="dkkim93" />
+    <edge source="adamlerer" target="apaszke" />
+    <edge source="cyberwillis" target="apaszke" />
+    <edge source="cyberwillis" target="szagoruyko" />
+    <edge source="cyberwillis" target="phenixcx" />
+    <edge source="cyberwillis" target="reRaymond" />
+    <edge source="cyberwillis" target="gauravgoenka" />
+    <edge source="cyberwillis" target="Rajan244" />
+    <edge source="cyberwillis" target="CedricBeaulac" />
+    <edge source="cyberwillis" target="Rio56" />
+    <edge source="cyberwillis" target="LinMaris" />
+    <edge source="cyberwillis" target="dkkim93" />
+    <edge source="LinMaris" target="apaszke" />
+    <edge source="LinMaris" target="szagoruyko" />
+    <edge source="LinMaris" target="phenixcx" />
+    <edge source="LinMaris" target="reRaymond" />
+    <edge source="LinMaris" target="gauravgoenka" />
+    <edge source="LinMaris" target="Rajan244" />
+    <edge source="LinMaris" target="CedricBeaulac" />
+    <edge source="LinMaris" target="Rio56" />
+    <edge source="LinMaris" target="dkkim93" />
+    <edge source="dkkim93" target="apaszke" />
+    <edge source="dkkim93" target="szagoruyko" />
+    <edge source="dkkim93" target="phenixcx" />
+    <edge source="dkkim93" target="Rio56" />
+    <edge source="dkkim93" target="reRaymond" />
+    <edge source="dkkim93" target="gauravgoenka" />
+    <edge source="dkkim93" target="Rajan244" />
+    <edge source="dkkim93" target="CedricBeaulac" />
+    <edge source="reRaymond" target="apaszke" />
+    <edge source="reRaymond" target="szagoruyko" />
+    <edge source="reRaymond" target="phenixcx" />
+    <edge source="reRaymond" target="Rio56" />
+    <edge source="reRaymond" target="gauravgoenka" />
+    <edge source="reRaymond" target="CedricBeaulac" />
+    <edge source="reRaymond" target="Rajan244" />
+    <edge source="szagoruyko" target="apaszke" />
+    <edge source="szagoruyko" target="Rajan244" />
+    <edge source="szagoruyko" target="Rio56" />
+    <edge source="szagoruyko" target="CedricBeaulac" />
+    <edge source="szagoruyko" target="gauravgoenka" />
+    <edge source="szagoruyko" target="phenixcx" />
+    <edge source="rguthrie3" target="apaszke" />
+    <edge source="Rajan244" target="apaszke" />
+    <edge source="Rajan244" target="phenixcx" />
+    <edge source="Rajan244" target="Rio56" />
+    <edge source="Rajan244" target="gauravgoenka" />
+    <edge source="Rajan244" target="CedricBeaulac" />
+    <edge source="themightyoarfish" target="apaszke" />
+    <edge source="Rio56" target="apaszke" />
+    <edge source="Rio56" target="phenixcx" />
+    <edge source="Rio56" target="gauravgoenka" />
+    <edge source="Rio56" target="CedricBeaulac" />
+    <edge source="CedricBeaulac" target="apaszke" />
+    <edge source="CedricBeaulac" target="phenixcx" />
+    <edge source="CedricBeaulac" target="gauravgoenka" />
+    <edge source="gauravgoenka" target="apaszke" />
+    <edge source="gauravgoenka" target="phenixcx" />
+    <edge source="apaszke" target="phenixcx" />
+  </graph>
+</graphml>

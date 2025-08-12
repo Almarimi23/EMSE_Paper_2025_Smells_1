@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="panjuan@apache.org" />
+    <node id="kimmking@163.com" />
+    <node id="localcc@163.com" />
+    <node id="549477611@qq.com" />
+    <node id="49680463+wubingting@users.noreply.github.com" />
+    <node id="40458134+big-mountain-z@users.noreply.github.com" />
+    <node id="terrymanu@163.com" />
+    <node id="zhaojunv3@126.com" />
+    <edge source="panjuan@apache.org" target="kimmking@163.com" />
+    <edge source="panjuan@apache.org" target="localcc@163.com" />
+    <edge source="panjuan@apache.org" target="549477611@qq.com" />
+    <edge source="panjuan@apache.org" target="49680463+wubingting@users.noreply.github.com" />
+    <edge source="panjuan@apache.org" target="40458134+big-mountain-z@users.noreply.github.com" />
+    <edge source="panjuan@apache.org" target="terrymanu@163.com" />
+    <edge source="panjuan@apache.org" target="zhaojunv3@126.com" />
+    <edge source="kimmking@163.com" target="localcc@163.com" />
+    <edge source="kimmking@163.com" target="549477611@qq.com" />
+    <edge source="kimmking@163.com" target="49680463+wubingting@users.noreply.github.com" />
+    <edge source="kimmking@163.com" target="40458134+big-mountain-z@users.noreply.github.com" />
+    <edge source="kimmking@163.com" target="terrymanu@163.com" />
+    <edge source="kimmking@163.com" target="zhaojunv3@126.com" />
+    <edge source="localcc@163.com" target="549477611@qq.com" />
+    <edge source="localcc@163.com" target="terrymanu@163.com" />
+    <edge source="localcc@163.com" target="49680463+wubingting@users.noreply.github.com" />
+    <edge source="localcc@163.com" target="40458134+big-mountain-z@users.noreply.github.com" />
+    <edge source="localcc@163.com" target="zhaojunv3@126.com" />
+    <edge source="549477611@qq.com" target="49680463+wubingting@users.noreply.github.com" />
+    <edge source="549477611@qq.com" target="40458134+big-mountain-z@users.noreply.github.com" />
+    <edge source="549477611@qq.com" target="terrymanu@163.com" />
+    <edge source="549477611@qq.com" target="zhaojunv3@126.com" />
+    <edge source="49680463+wubingting@users.noreply.github.com" target="terrymanu@163.com" />
+    <edge source="49680463+wubingting@users.noreply.github.com" target="zhaojunv3@126.com" />
+    <edge source="49680463+wubingting@users.noreply.github.com" target="40458134+big-mountain-z@users.noreply.github.com" />
+    <edge source="40458134+big-mountain-z@users.noreply.github.com" target="terrymanu@163.com" />
+    <edge source="40458134+big-mountain-z@users.noreply.github.com" target="zhaojunv3@126.com" />
+    <edge source="terrymanu@163.com" target="zhaojunv3@126.com" />
+  </graph>
+</graphml>

@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="austin@netdata.cloud" />
+    <node id="bot@netdata.cloud" />
+    <node id="44345837+mfundul@users.noreply.github.com" />
+    <node id="vlad@prokk.net" />
+    <node id="jonathan.barda@gmail.com" />
+    <node id="60691199+alimickey@users.noreply.github.com" />
+    <node id="candrews@integralblue.com" />
+    <node id="mees.altena@gmail.com" />
+    <node id="adrien.mahieux@gmail.com" />
+    <node id="prologic@shortcircuit.net.au" />
+    <node id="6674623+underhood@users.noreply.github.com" />
+    <node id="ilya@netdata.cloud" />
+    <node id="joel@netdata.cloud" />
+    <node id="anirudhdggl@gmail.com" />
+    <node id="vsc55@users.noreply.github.com" />
+    <node id="52996999+stelfrag@users.noreply.github.com" />
+    <node id="thiagoftsm@gmail.com" />
+    <node id="cyrond@gmail.com" />
+    <edge source="austin@netdata.cloud" target="bot@netdata.cloud" />
+    <edge source="austin@netdata.cloud" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="austin@netdata.cloud" target="vlad@prokk.net" />
+    <edge source="austin@netdata.cloud" target="jonathan.barda@gmail.com" />
+    <edge source="austin@netdata.cloud" target="60691199+alimickey@users.noreply.github.com" />
+    <edge source="austin@netdata.cloud" target="candrews@integralblue.com" />
+    <edge source="austin@netdata.cloud" target="mees.altena@gmail.com" />
+    <edge source="austin@netdata.cloud" target="adrien.mahieux@gmail.com" />
+    <edge source="austin@netdata.cloud" target="prologic@shortcircuit.net.au" />
+    <edge source="austin@netdata.cloud" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="austin@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="austin@netdata.cloud" target="joel@netdata.cloud" />
+    <edge source="austin@netdata.cloud" target="anirudhdggl@gmail.com" />
+    <edge source="austin@netdata.cloud" target="vsc55@users.noreply.github.com" />
+    <edge source="austin@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="austin@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="austin@netdata.cloud" target="cyrond@gmail.com" />
+    <edge source="bot@netdata.cloud" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="vlad@prokk.net" />
+    <edge source="bot@netdata.cloud" target="jonathan.barda@gmail.com" />
+    <edge source="bot@netdata.cloud" target="60691199+alimickey@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="candrews@integralblue.com" />
+    <edge source="bot@netdata.cloud" target="mees.altena@gmail.com" />
+    <edge source="bot@netdata.cloud" target="adrien.mahieux@gmail.com" />
+    <edge source="bot@netdata.cloud" target="prologic@shortcircuit.net.au" />
+    <edge source="bot@netdata.cloud" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="ilya@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="joel@netdata.cloud" />
+    <edge source="bot@netdata.cloud" target="anirudhdggl@gmail.com" />
+    <edge source="bot@netdata.cloud" target="vsc55@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="bot@netdata.cloud" target="cyrond@gmail.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="prologic@shortcircuit.net.au" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="mees.altena@gmail.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="adrien.mahieux@gmail.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="candrews@integralblue.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="jonathan.barda@gmail.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="vlad@prokk.net" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="vsc55@users.noreply.github.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="cyrond@gmail.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="60691199+alimickey@users.noreply.github.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="anirudhdggl@gmail.com" />
+    <edge source="vlad@prokk.net" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="joel@netdata.cloud" />
+    <edge source="vlad@prokk.net" target="prologic@shortcircuit.net.au" />
+    <edge source="vlad@prokk.net" target="mees.altena@gmail.com" />
+    <edge source="vlad@prokk.net" target="adrien.mahieux@gmail.com" />
+    <edge source="vlad@prokk.net" target="candrews@integralblue.com" />
+    <edge source="vlad@prokk.net" target="jonathan.barda@gmail.com" />
+    <edge source="vlad@prokk.net" target="60691199+alimickey@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="ilya@netdata.cloud" />
+    <edge source="vlad@prokk.net" target="anirudhdggl@gmail.com" />
+    <edge source="vlad@prokk.net" target="vsc55@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="thiagoftsm@gmail.com" />
+    <edge source="vlad@prokk.net" target="cyrond@gmail.com" />
+    <edge source="jonathan.barda@gmail.com" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="jonathan.barda@gmail.com" target="joel@netdata.cloud" />
+    <edge source="jonathan.barda@gmail.com" target="prologic@shortcircuit.net.au" />
+    <edge source="jonathan.barda@gmail.com" target="mees.altena@gmail.com" />
+    <edge source="jonathan.barda@gmail.com" target="adrien.mahieux@gmail.com" />
+    <edge source="jonathan.barda@gmail.com" target="candrews@integralblue.com" />
+    <edge source="jonathan.barda@gmail.com" target="60691199+alimickey@users.noreply.github.com" />
+    <edge source="jonathan.barda@gmail.com" target="ilya@netdata.cloud" />
+    <edge source="jonathan.barda@gmail.com" target="anirudhdggl@gmail.com" />
+    <edge source="jonathan.barda@gmail.com" target="vsc55@users.noreply.github.com" />
+    <edge source="jonathan.barda@gmail.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="jonathan.barda@gmail.com" target="thiagoftsm@gmail.com" />
+    <edge source="jonathan.barda@gmail.com" target="cyrond@gmail.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="prologic@shortcircuit.net.au" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="mees.altena@gmail.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="adrien.mahieux@gmail.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="candrews@integralblue.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="vsc55@users.noreply.github.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="cyrond@gmail.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="60691199+alimickey@users.noreply.github.com" target="anirudhdggl@gmail.com" />
+    <edge source="candrews@integralblue.com" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="candrews@integralblue.com" target="joel@netdata.cloud" />
+    <edge source="candrews@integralblue.com" target="prologic@shortcircuit.net.au" />
+    <edge source="candrews@integralblue.com" target="mees.altena@gmail.com" />
+    <edge source="candrews@integralblue.com" target="adrien.mahieux@gmail.com" />
+    <edge source="candrews@integralblue.com" target="ilya@netdata.cloud" />
+    <edge source="candrews@integralblue.com" target="anirudhdggl@gmail.com" />
+    <edge source="candrews@integralblue.com" target="vsc55@users.noreply.github.com" />
+    <edge source="candrews@integralblue.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="candrews@integralblue.com" target="thiagoftsm@gmail.com" />
+    <edge source="candrews@integralblue.com" target="cyrond@gmail.com" />
+    <edge source="mees.altena@gmail.com" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="mees.altena@gmail.com" target="joel@netdata.cloud" />
+    <edge source="mees.altena@gmail.com" target="prologic@shortcircuit.net.au" />
+    <edge source="mees.altena@gmail.com" target="adrien.mahieux@gmail.com" />
+    <edge source="mees.altena@gmail.com" target="ilya@netdata.cloud" />
+    <edge source="mees.altena@gmail.com" target="anirudhdggl@gmail.com" />
+    <edge source="mees.altena@gmail.com" target="vsc55@users.noreply.github.com" />
+    <edge source="mees.altena@gmail.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="mees.altena@gmail.com" target="thiagoftsm@gmail.com" />
+    <edge source="mees.altena@gmail.com" target="cyrond@gmail.com" />
+    <edge source="adrien.mahieux@gmail.com" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="adrien.mahieux@gmail.com" target="joel@netdata.cloud" />
+    <edge source="adrien.mahieux@gmail.com" target="prologic@shortcircuit.net.au" />
+    <edge source="adrien.mahieux@gmail.com" target="ilya@netdata.cloud" />
+    <edge source="adrien.mahieux@gmail.com" target="anirudhdggl@gmail.com" />
+    <edge source="adrien.mahieux@gmail.com" target="vsc55@users.noreply.github.com" />
+    <edge source="adrien.mahieux@gmail.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="adrien.mahieux@gmail.com" target="thiagoftsm@gmail.com" />
+    <edge source="adrien.mahieux@gmail.com" target="cyrond@gmail.com" />
+    <edge source="prologic@shortcircuit.net.au" target="6674623+underhood@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="joel@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="ilya@netdata.cloud" />
+    <edge source="prologic@shortcircuit.net.au" target="anirudhdggl@gmail.com" />
+    <edge source="prologic@shortcircuit.net.au" target="vsc55@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="prologic@shortcircuit.net.au" target="thiagoftsm@gmail.com" />
+    <edge source="prologic@shortcircuit.net.au" target="cyrond@gmail.com" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="ilya@netdata.cloud" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="joel@netdata.cloud" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="anirudhdggl@gmail.com" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="vsc55@users.noreply.github.com" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="6674623+underhood@users.noreply.github.com" target="cyrond@gmail.com" />
+    <edge source="ilya@netdata.cloud" target="joel@netdata.cloud" />
+    <edge source="ilya@netdata.cloud" target="vsc55@users.noreply.github.com" />
+    <edge source="ilya@netdata.cloud" target="cyrond@gmail.com" />
+    <edge source="ilya@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="ilya@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="ilya@netdata.cloud" target="anirudhdggl@gmail.com" />
+    <edge source="joel@netdata.cloud" target="anirudhdggl@gmail.com" />
+    <edge source="joel@netdata.cloud" target="vsc55@users.noreply.github.com" />
+    <edge source="joel@netdata.cloud" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="joel@netdata.cloud" target="thiagoftsm@gmail.com" />
+    <edge source="joel@netdata.cloud" target="cyrond@gmail.com" />
+    <edge source="anirudhdggl@gmail.com" target="vsc55@users.noreply.github.com" />
+    <edge source="anirudhdggl@gmail.com" target="cyrond@gmail.com" />
+    <edge source="anirudhdggl@gmail.com" target="thiagoftsm@gmail.com" />
+    <edge source="anirudhdggl@gmail.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="vsc55@users.noreply.github.com" target="52996999+stelfrag@users.noreply.github.com" />
+    <edge source="vsc55@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="vsc55@users.noreply.github.com" target="cyrond@gmail.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="cyrond@gmail.com" />
+    <edge source="52996999+stelfrag@users.noreply.github.com" target="thiagoftsm@gmail.com" />
+    <edge source="thiagoftsm@gmail.com" target="cyrond@gmail.com" />
+  </graph>
+</graphml>

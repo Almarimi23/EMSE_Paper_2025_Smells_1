@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="chaumond@gmail.com" />
+    <node id="patrick.v.platen@gmail.com" />
+    <node id="gabriele.sarti996@gmail.com" />
+    <node id="elgeish@gmail.com" />
+    <node id="husein.zol05@gmail.com" />
+    <node id="sshleifer@gmail.com" />
+    <node id="stefan@schweter.it" />
+    <node id="37486396+travismcguire@users.noreply.github.com" />
+    <node id="lysandre@huggingface.co" />
+    <node id="mrm8488@gmail.com" />
+    <node id="jobbeins@gmail.com" />
+    <node id="acarrera94@gmail.com" />
+    <node id="lysandre.debut@reseau.eseo.fr" />
+    <node id="mfuntowicz@users.noreply.github.com" />
+    <edge source="chaumond@gmail.com" target="patrick.v.platen@gmail.com" />
+    <edge source="chaumond@gmail.com" target="gabriele.sarti996@gmail.com" />
+    <edge source="chaumond@gmail.com" target="elgeish@gmail.com" />
+    <edge source="chaumond@gmail.com" target="husein.zol05@gmail.com" />
+    <edge source="chaumond@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="chaumond@gmail.com" target="stefan@schweter.it" />
+    <edge source="chaumond@gmail.com" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="chaumond@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="chaumond@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="chaumond@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="chaumond@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="chaumond@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="chaumond@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="gabriele.sarti996@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="elgeish@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="husein.zol05@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="stefan@schweter.it" />
+    <edge source="patrick.v.platen@gmail.com" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="patrick.v.platen@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="patrick.v.platen@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="patrick.v.platen@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="gabriele.sarti996@gmail.com" target="elgeish@gmail.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="husein.zol05@gmail.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="stefan@schweter.it" />
+    <edge source="gabriele.sarti996@gmail.com" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="gabriele.sarti996@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="gabriele.sarti996@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="elgeish@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="elgeish@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="elgeish@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="elgeish@gmail.com" target="husein.zol05@gmail.com" />
+    <edge source="elgeish@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="elgeish@gmail.com" target="stefan@schweter.it" />
+    <edge source="elgeish@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="elgeish@gmail.com" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="elgeish@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="elgeish@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="husein.zol05@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="husein.zol05@gmail.com" target="stefan@schweter.it" />
+    <edge source="husein.zol05@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="husein.zol05@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="husein.zol05@gmail.com" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="husein.zol05@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="husein.zol05@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="husein.zol05@gmail.com" target="sshleifer@gmail.com" />
+    <edge source="husein.zol05@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="sshleifer@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="sshleifer@gmail.com" target="stefan@schweter.it" />
+    <edge source="sshleifer@gmail.com" target="mrm8488@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="sshleifer@gmail.com" target="lysandre@huggingface.co" />
+    <edge source="sshleifer@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="sshleifer@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="stefan@schweter.it" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="stefan@schweter.it" target="37486396+travismcguire@users.noreply.github.com" />
+    <edge source="stefan@schweter.it" target="lysandre@huggingface.co" />
+    <edge source="stefan@schweter.it" target="mrm8488@gmail.com" />
+    <edge source="stefan@schweter.it" target="jobbeins@gmail.com" />
+    <edge source="stefan@schweter.it" target="acarrera94@gmail.com" />
+    <edge source="stefan@schweter.it" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="37486396+travismcguire@users.noreply.github.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="37486396+travismcguire@users.noreply.github.com" target="mrm8488@gmail.com" />
+    <edge source="37486396+travismcguire@users.noreply.github.com" target="acarrera94@gmail.com" />
+    <edge source="37486396+travismcguire@users.noreply.github.com" target="jobbeins@gmail.com" />
+    <edge source="37486396+travismcguire@users.noreply.github.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="37486396+travismcguire@users.noreply.github.com" target="lysandre@huggingface.co" />
+    <edge source="lysandre@huggingface.co" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="lysandre@huggingface.co" target="mrm8488@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="acarrera94@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="jobbeins@gmail.com" />
+    <edge source="lysandre@huggingface.co" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="mrm8488@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="mrm8488@gmail.com" target="jobbeins@gmail.com" />
+    <edge source="mrm8488@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="mrm8488@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="jobbeins@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="jobbeins@gmail.com" target="acarrera94@gmail.com" />
+    <edge source="jobbeins@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="acarrera94@gmail.com" target="lysandre.debut@reseau.eseo.fr" />
+    <edge source="acarrera94@gmail.com" target="mfuntowicz@users.noreply.github.com" />
+    <edge source="lysandre.debut@reseau.eseo.fr" target="mfuntowicz@users.noreply.github.com" />
+  </graph>
+</graphml>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="george.moschovitis@gmail.com" />
+    <node id="k0ste@k0ste.ru" />
+    <node id="pawel+bot@netdata.cloud" />
+    <node id="bot@netdata.cloud" />
+    <node id="vlad@prokk.net" />
+    <node id="ilyamaschenko@gmail.com" />
+    <node id="pawel@krupa.net.pl" />
+    <node id="43294513+cakrit@users.noreply.github.com" />
+    <node id="costa@tsaousis.gr" />
+    <node id="44345837+mfundul@users.noreply.github.com" />
+    <node id="hufschmidt@hrz.uni-marburg.de" />
+    <node id="adam@pardyl.com" />
+    <node id="gaetan@ferez.fr" />
+    <edge source="george.moschovitis@gmail.com" target="k0ste@k0ste.ru" />
+    <edge source="george.moschovitis@gmail.com" target="pawel+bot@netdata.cloud" />
+    <edge source="george.moschovitis@gmail.com" target="bot@netdata.cloud" />
+    <edge source="george.moschovitis@gmail.com" target="vlad@prokk.net" />
+    <edge source="george.moschovitis@gmail.com" target="ilyamaschenko@gmail.com" />
+    <edge source="george.moschovitis@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="george.moschovitis@gmail.com" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="costa@tsaousis.gr" />
+    <edge source="george.moschovitis@gmail.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="george.moschovitis@gmail.com" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="george.moschovitis@gmail.com" target="adam@pardyl.com" />
+    <edge source="george.moschovitis@gmail.com" target="gaetan@ferez.fr" />
+    <edge source="k0ste@k0ste.ru" target="vlad@prokk.net" />
+    <edge source="k0ste@k0ste.ru" target="pawel+bot@netdata.cloud" />
+    <edge source="k0ste@k0ste.ru" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="k0ste@k0ste.ru" target="gaetan@ferez.fr" />
+    <edge source="k0ste@k0ste.ru" target="ilyamaschenko@gmail.com" />
+    <edge source="k0ste@k0ste.ru" target="pawel@krupa.net.pl" />
+    <edge source="k0ste@k0ste.ru" target="costa@tsaousis.gr" />
+    <edge source="k0ste@k0ste.ru" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="k0ste@k0ste.ru" target="bot@netdata.cloud" />
+    <edge source="k0ste@k0ste.ru" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="k0ste@k0ste.ru" target="adam@pardyl.com" />
+    <edge source="pawel+bot@netdata.cloud" target="vlad@prokk.net" />
+    <edge source="pawel+bot@netdata.cloud" target="bot@netdata.cloud" />
+    <edge source="pawel+bot@netdata.cloud" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="pawel+bot@netdata.cloud" target="ilyamaschenko@gmail.com" />
+    <edge source="pawel+bot@netdata.cloud" target="pawel@krupa.net.pl" />
+    <edge source="pawel+bot@netdata.cloud" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="pawel+bot@netdata.cloud" target="costa@tsaousis.gr" />
+    <edge source="pawel+bot@netdata.cloud" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="pawel+bot@netdata.cloud" target="adam@pardyl.com" />
+    <edge source="pawel+bot@netdata.cloud" target="gaetan@ferez.fr" />
+    <edge source="bot@netdata.cloud" target="vlad@prokk.net" />
+    <edge source="bot@netdata.cloud" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="gaetan@ferez.fr" />
+    <edge source="bot@netdata.cloud" target="ilyamaschenko@gmail.com" />
+    <edge source="bot@netdata.cloud" target="pawel@krupa.net.pl" />
+    <edge source="bot@netdata.cloud" target="costa@tsaousis.gr" />
+    <edge source="bot@netdata.cloud" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="bot@netdata.cloud" target="adam@pardyl.com" />
+    <edge source="bot@netdata.cloud" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="vlad@prokk.net" target="ilyamaschenko@gmail.com" />
+    <edge source="vlad@prokk.net" target="pawel@krupa.net.pl" />
+    <edge source="vlad@prokk.net" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="costa@tsaousis.gr" />
+    <edge source="vlad@prokk.net" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="vlad@prokk.net" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="vlad@prokk.net" target="adam@pardyl.com" />
+    <edge source="vlad@prokk.net" target="gaetan@ferez.fr" />
+    <edge source="ilyamaschenko@gmail.com" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="gaetan@ferez.fr" />
+    <edge source="ilyamaschenko@gmail.com" target="pawel@krupa.net.pl" />
+    <edge source="ilyamaschenko@gmail.com" target="costa@tsaousis.gr" />
+    <edge source="ilyamaschenko@gmail.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="ilyamaschenko@gmail.com" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="ilyamaschenko@gmail.com" target="adam@pardyl.com" />
+    <edge source="pawel@krupa.net.pl" target="43294513+cakrit@users.noreply.github.com" />
+    <edge source="pawel@krupa.net.pl" target="gaetan@ferez.fr" />
+    <edge source="pawel@krupa.net.pl" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="pawel@krupa.net.pl" target="costa@tsaousis.gr" />
+    <edge source="pawel@krupa.net.pl" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="pawel@krupa.net.pl" target="adam@pardyl.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="costa@tsaousis.gr" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="adam@pardyl.com" />
+    <edge source="43294513+cakrit@users.noreply.github.com" target="gaetan@ferez.fr" />
+    <edge source="costa@tsaousis.gr" target="gaetan@ferez.fr" />
+    <edge source="costa@tsaousis.gr" target="44345837+mfundul@users.noreply.github.com" />
+    <edge source="costa@tsaousis.gr" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="costa@tsaousis.gr" target="adam@pardyl.com" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="gaetan@ferez.fr" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="hufschmidt@hrz.uni-marburg.de" />
+    <edge source="44345837+mfundul@users.noreply.github.com" target="adam@pardyl.com" />
+    <edge source="hufschmidt@hrz.uni-marburg.de" target="gaetan@ferez.fr" />
+    <edge source="hufschmidt@hrz.uni-marburg.de" target="adam@pardyl.com" />
+    <edge source="adam@pardyl.com" target="gaetan@ferez.fr" />
+  </graph>
+</graphml>

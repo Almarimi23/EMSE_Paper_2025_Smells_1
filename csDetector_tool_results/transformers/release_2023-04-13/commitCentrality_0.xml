@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="sylvain.gugger@gmail.com" />
+    <node id="gabrielwithhappy@gmail.com" />
+    <node id="joel.lamy-poirier@servicenow.com" />
+    <node id="48327001+nielsrogge@users.noreply.github.com" />
+    <node id="2521628+ydshieh@users.noreply.github.com" />
+    <node id="51479797+xrenya@users.noreply.github.com" />
+    <node id="stas00@users.noreply.github.com" />
+    <node id="joaofranciscocardosogante@gmail.com" />
+    <node id="elabongaatuo@gmail.com" />
+    <node id="rockmagma02@gmail.com" />
+    <edge source="sylvain.gugger@gmail.com" target="gabrielwithhappy@gmail.com" />
+    <edge source="sylvain.gugger@gmail.com" target="joel.lamy-poirier@servicenow.com" />
+    <edge source="sylvain.gugger@gmail.com" target="48327001+nielsrogge@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="51479797+xrenya@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="sylvain.gugger@gmail.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="sylvain.gugger@gmail.com" target="elabongaatuo@gmail.com" />
+    <edge source="sylvain.gugger@gmail.com" target="rockmagma02@gmail.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="elabongaatuo@gmail.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="joel.lamy-poirier@servicenow.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="51479797+xrenya@users.noreply.github.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="48327001+nielsrogge@users.noreply.github.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="stas00@users.noreply.github.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="gabrielwithhappy@gmail.com" target="rockmagma02@gmail.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="elabongaatuo@gmail.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="48327001+nielsrogge@users.noreply.github.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="51479797+xrenya@users.noreply.github.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="stas00@users.noreply.github.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="joel.lamy-poirier@servicenow.com" target="rockmagma02@gmail.com" />
+    <edge source="48327001+nielsrogge@users.noreply.github.com" target="elabongaatuo@gmail.com" />
+    <edge source="48327001+nielsrogge@users.noreply.github.com" target="51479797+xrenya@users.noreply.github.com" />
+    <edge source="48327001+nielsrogge@users.noreply.github.com" target="2521628+ydshieh@users.noreply.github.com" />
+    <edge source="48327001+nielsrogge@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="48327001+nielsrogge@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="48327001+nielsrogge@users.noreply.github.com" target="rockmagma02@gmail.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="elabongaatuo@gmail.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="51479797+xrenya@users.noreply.github.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="2521628+ydshieh@users.noreply.github.com" target="rockmagma02@gmail.com" />
+    <edge source="51479797+xrenya@users.noreply.github.com" target="elabongaatuo@gmail.com" />
+    <edge source="51479797+xrenya@users.noreply.github.com" target="stas00@users.noreply.github.com" />
+    <edge source="51479797+xrenya@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="51479797+xrenya@users.noreply.github.com" target="rockmagma02@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="elabongaatuo@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="joaofranciscocardosogante@gmail.com" />
+    <edge source="stas00@users.noreply.github.com" target="rockmagma02@gmail.com" />
+    <edge source="joaofranciscocardosogante@gmail.com" target="elabongaatuo@gmail.com" />
+    <edge source="joaofranciscocardosogante@gmail.com" target="rockmagma02@gmail.com" />
+    <edge source="elabongaatuo@gmail.com" target="rockmagma02@gmail.com" />
+  </graph>
+</graphml>
